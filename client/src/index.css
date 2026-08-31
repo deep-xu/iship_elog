@@ -1,0 +1,57 @@
+@import url('https://fonts.googleapis.com/css2?family=Manrope:wght@400;500;600;700;800&family=Plus+Jakarta+Sans:wght@600;700;800&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html,
+body,
+#root {
+  height: 100%;
+}
+
+body {
+  margin: 0;
+  font-family: Manrope, 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background: #eef6fb;
+  color: #1f3a5f;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+button,
+input,
+select,
+textarea {
+  font: inherit;
+}
+
+#root {
+  background:
+    radial-gradient(circle at top left, rgba(109, 176, 224, 0.16), transparent 22%),
+    radial-gradient(circle at right bottom, rgba(198, 225, 241, 0.38), transparent 30%),
+    linear-gradient(180deg, #fafdff 0%, #eef6fb 100%);
+}
+
+* {
+  box-sizing: border-box;
+}
+
+::-webkit-scrollbar {
+  width: 10px;
+  height: 10px;
+}
+
+::-webkit-scrollbar-track {
+  background: #edf4f8;
+}
+
+::-webkit-scrollbar-thumb {
+  border: 2px solid #edf4f8;
+  border-radius: 999px;
+  background: #b0cce0;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #98bdd7;
+}

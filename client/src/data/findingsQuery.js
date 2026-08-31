@@ -1,0 +1,77 @@
+// Findings Query search panel definition.
+
+export const QUERY_SECTIONS = [
+  {
+    title: 'General',
+    fields: [
+      { label: 'Ship', value: 'SBEN', chevron: true },
+      { label: 'Finding Number' },
+    ],
+  },
+  {
+    title: 'Date Range',
+    fields: [
+      { label: 'Report Date', value: '-- Select --', muted: true, chevron: true },
+      { label: 'Respond By', value: '-- Select --', muted: true, chevron: true },
+      { label: 'Closed By Date', value: '-- Select --', muted: true, chevron: true },
+    ],
+  },
+  {
+    title: 'Current Status',
+    fields: [{ label: 'Status', chevron: true }],
+  },
+  {
+    title: 'Miscellaneous',
+    fields: [
+      { label: 'Question', value: '-- Select --', muted: true, chevron: true },
+      { label: 'Source', chevron: true },
+      { label: 'Compliance Hierarchy', value: '-- Select --', muted: true, chevron: true },
+      { label: 'External Inspector', value: '-- Select --', muted: true, chevron: true },
+      { label: 'Finding Type', value: '-- Select --', muted: true, chevron: true },
+      { label: 'Risk Level', chevron: true },
+      { label: 'Category', value: '-- Select --', muted: true, chevron: true },
+      { label: 'Severity', value: '-- Select --', muted: true, chevron: true },
+      { label: 'Nature of Concern', value: '-- Select --', muted: true, chevron: true },
+      { label: 'Subject of Concern', value: '-- Select --', muted: true, chevron: true },
+      { label: 'Potential Score', value: '-- Select --', muted: true, chevron: true },
+      { label: 'Observed Score', value: '-- Select --', muted: true, chevron: true },
+      { label: 'Final Score', value: '-- Select --', muted: true, chevron: true },
+      { label: 'CAR Generated', checkbox: true },
+      { label: 'SIRE Generated', checkbox: true },
+      { label: 'Statistics', chevron: true },
+      { label: 'No. of CARs', value: '-- Select --', muted: true, chevron: true },
+      { label: 'Doc Owner(User)', value: '-- Select --', muted: true, chevron: true },
+      { label: 'Doc Owner(Role)', value: '-- Select --', muted: true, chevron: true },
+      { label: 'RCA Done', checkbox: true },
+      { label: 'LOB Company', value: '-- Select --', muted: true, chevron: true },
+      { label: 'Internal Ref. 1', value: '-- Select --', muted: true, chevron: true },
+      { label: 'Internal Ref. 2', value: '-- Select --', muted: true, chevron: true },
+      { label: 'Internal Ref. 3', value: '-- Select --', muted: true, chevron: true },
+      { label: 'SMM Ref.', value: '-- Select --', muted: true, chevron: true },
+      { label: 'Ship Team', value: '-- Select --', muted: true, chevron: true },
+      { label: 'Root Cause', value: '-- Select --', muted: true, chevron: true },
+    ],
+  },
+]
+
+export const RESULT_COLUMNS = [
+  { label: '', width: 26 },
+  { label: '', width: 26 },
+  { label: 'Fi...', width: 52 },
+  { label: 'Fi...', width: 52 },
+  { label: 'Ca...', width: 52 },
+  { label: 'So...', width: 52 },
+  { label: 'Title', width: 106 },
+  { label: 'Fin...', width: 52 },
+  { label: 'Re...', width: 52 },
+  { label: 'St...', width: 52 },
+  { label: 'Do...', width: 52 },
+  { label: 'Re...', width: 52 },
+  { label: 'Re...', width: 52 },
+  { label: 'Re...', width: 52 },
+  { label: 'Cl...', width: 52 },
+  { label: '...', width: 44 },
+  { label: '...', width: 44 },
+  { label: '...', width: 44 },
+  { label: '...', width: 44 },
+]
