@@ -13,6 +13,9 @@ export const config = {
     password: process.env.DB_PASSWORD || '',
     name: process.env.DB_NAME || 'ns5',
     connectionLimit: Number(process.env.DB_POOL_SIZE) || 10,
+    // Managed MySQL (Aiven, RDS, PlanetScale) requires TLS; a local server
+    // usually has none. Off unless DB_SSL is set.
+    ssl: process.env.DB_SSL === 'true',
   },
 
   // Detail windows can save sizeable form documents, so the body cap is well
