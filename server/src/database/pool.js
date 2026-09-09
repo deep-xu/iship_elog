@@ -11,7 +11,14 @@ const baseOptions = {
   queueLimit: 0,
   // Keep DECIMAL columns as JS numbers so the API returns 8 rather than "8.00".
   decimalNumbers: true,
-  ...(config.database.ssl ? { ssl: { minVersion: 'TLSv1.2' } } : {}),
+  ...(config.database.ssl
+    ? {
+        ssl: {
+          minVersion: 'TLSv1.2',
+          ...(config.database.sslCa ? { ca: config.database.sslCa } : {}),
+        },
+      }
+    : {}),
 }
 
 export const pool = mysql.createPool({ ...baseOptions, database: config.database.name })

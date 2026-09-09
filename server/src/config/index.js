@@ -16,6 +16,9 @@ export const config = {
     // Managed MySQL (Aiven, RDS, PlanetScale) requires TLS; a local server
     // usually has none. Off unless DB_SSL is set.
     ssl: process.env.DB_SSL === 'true',
+    // Providers that sign with their own CA (Aiven among them) need that
+    // certificate here, otherwise the connection is refused as untrusted.
+    sslCa: process.env.DB_SSL_CA || null,
   },
 
   // Detail windows can save sizeable form documents, so the body cap is well
