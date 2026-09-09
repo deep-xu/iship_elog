@@ -6,7 +6,7 @@
 import assert from 'node:assert/strict'
 import { readFileSync } from 'node:fs'
 import { createServer } from 'node:http'
-import handler from '../api/[...path].mjs'
+import handler from '../api/index.mjs'
 
 const server = createServer(handler)
 await new Promise((resolve) => server.listen(0, resolve))
@@ -19,24 +19,29 @@ for (const path of ['/api/health', '/health']) {
   assert.notEqual(response.status, 404, `${path} did not reach the API router`)
 }
 
-// Nested paths must reach the router too. The filename is the catch-all that
-// decides this: Vercel spells it [...path], and the Next.js [[...path]] form
-// silently matched only one segment, so /api/health worked while
-// /api/auth/login 404'd in production.
-const login = await fetch(`${base}/api/auth/login`, {
+// Nested paths must reach the router too. In production the /api rewrite
+// flattens req.url to /api, so the route only survives in the header — a
+// dropped header means every nested call 404s while /api/health still works.
+const login = await fetch(`${base}/api`, {
   method: 'POST',
-  headers: { 'Content-Type': 'application/json' },
+  headers: {
+    'Content-Type': 'application/json',
+    'x-vercel-original-path': '/api/auth/login',
+  },
   body: JSON.stringify({ userId: '', password: '' }),
 })
 assert.notEqual(login.status, 404, 'nested API paths did not reach the router')
 
-// An unknown API path must still 404, or the catch-all is too greedy.
+// An unknown API path must still 404, or the entry point is too greedy.
 const unknown = await fetch(`${base}/api/definitely-not-a-route`)
 assert.equal(unknown.status, 404, 'unknown API paths should 404')
 
-// The SPA rewrite must exclude /api, otherwise every call returns index.html.
+// Both rewrites matter: /api/* must reach the function, and the SPA catch-all
+// must not swallow it, or every API call returns index.html.
 const { rewrites } = JSON.parse(readFileSync(new URL('../vercel.json', import.meta.url)))
-const spa = new RegExp(`^${rewrites[0].source}$`)
+const api = new RegExp(`^${rewrites[0].source}$`)
+const spa = new RegExp(`^${rewrites[1].source}$`)
+assert.ok(api.test('/api/auth/login'), 'API rewrite must capture nested /api paths')
 assert.ok(!spa.test('/api/auth/login'), 'SPA rewrite must not capture /api paths')
 assert.ok(spa.test('/work-orders'), 'SPA rewrite must capture client routes')
 
