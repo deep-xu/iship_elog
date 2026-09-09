@@ -2,11 +2,11 @@
 // regardless of whether Vercel already stripped the prefix, and the SPA
 // rewrite in vercel.json must not swallow /api requests.
 //
-// Run: node api/handler.test.mjs
+// Run: node test/api-routing.test.mjs
 import assert from 'node:assert/strict'
 import { readFileSync } from 'node:fs'
 import { createServer } from 'node:http'
-import handler from './[[...path]].mjs'
+import handler from '../api/[...path].mjs'
 
 const server = createServer(handler)
 await new Promise((resolve) => server.listen(0, resolve))
@@ -18,6 +18,17 @@ for (const path of ['/api/health', '/health']) {
   const response = await fetch(`${base}${path}`)
   assert.notEqual(response.status, 404, `${path} did not reach the API router`)
 }
+
+// Nested paths must reach the router too. The filename is the catch-all that
+// decides this: Vercel spells it [...path], and the Next.js [[...path]] form
+// silently matched only one segment, so /api/health worked while
+// /api/auth/login 404'd in production.
+const login = await fetch(`${base}/api/auth/login`, {
+  method: 'POST',
+  headers: { 'Content-Type': 'application/json' },
+  body: JSON.stringify({ userId: '', password: '' }),
+})
+assert.notEqual(login.status, 404, 'nested API paths did not reach the router')
 
 // An unknown API path must still 404, or the catch-all is too greedy.
 const unknown = await fetch(`${base}/api/definitely-not-a-route`)
