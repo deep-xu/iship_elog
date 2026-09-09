@@ -1,0 +1,6897 @@
+[
+ {
+  "owner": "fleet_manager",
+  "title": "MT Atlantic  \u2014  Oil Tanker",
+  "label": "[MT Atlantic] MT Atlantic",
+  "nodes": [
+   {
+    "label": "Main Propulsion Engine (MAN B&W 7S50MC-C)",
+    "level": 1,
+    "category": "Major System",
+    "partNo": "",
+    "makerRemarks": ""
+   },
+   {
+    "label": "Fuel Injection System",
+    "level": 2,
+    "category": "Sub-System",
+    "partNo": "",
+    "makerRemarks": ""
+   },
+   {
+    "label": "Fuel Injector / Injection Valve",
+    "level": 3,
+    "category": "Component",
+    "partNo": "",
+    "makerRemarks": ""
+   },
+   {
+    "label": "Injector Nozzle",
+    "level": 4,
+    "category": "Spare Part",
+    "partNo": "ATL-ME-FI-001",
+    "makerRemarks": "MAN B&W"
+   },
+   {
+    "label": "Nozzle Tip",
+    "level": 4,
+    "category": "Spare Part",
+    "partNo": "ATL-ME-FI-002",
+    "makerRemarks": "MAN B&W"
+   },
+   {
+    "label": "Injector Spindle",
+    "level": 4,
+    "category": "Spare Part",
+    "partNo": "ATL-ME-FI-003",
+    "makerRemarks": "MAN B&W"
+   },
+   {
+    "label": "Injector Spring",
+    "level": 4,
+    "category": "Spare Part",
+    "partNo": "ATL-ME-FI-004",
+    "makerRemarks": "MAN B&W"
+   },
+   {
+    "label": "O-ring / Copper Washer Set",
+    "level": 4,
+    "category": "Spare Part",
+    "partNo": "ATL-ME-FI-005",
+    "makerRemarks": "MAN B&W"
+   },
+   {
+    "label": "Fuel Injection Pump",
+    "level": 3,
+    "category": "Component",
+    "partNo": "",
+    "makerRemarks": ""
+   },
+   {
+    "label": "Plunger & Barrel",
+    "level": 4,
+    "category": "Spare Part",
+    "partNo": "ATL-ME-FP-001",
+    "makerRemarks": "MAN B&W"
+   },
+   {
+    "label": "Suction Valve",
+    "level": 4,
+    "category": "Spare Part",
+    "partNo": "ATL-ME-FP-002",
+    "makerRemarks": "MAN B&W"
+   },
+   {
+    "label": "Delivery Valve",
+    "level": 4,
+    "category": "Spare Part",
+    "partNo": "ATL-ME-FP-003",
+    "makerRemarks": "MAN B&W"
+   },
+   {
+    "label": "VIT Actuator Seal Kit",
+    "level": 4,
+    "category": "Spare Part",
+    "partNo": "ATL-ME-FP-004",
+    "makerRemarks": "MAN B&W"
+   },
+   {
+    "label": "Cylinder Unit",
+    "level": 2,
+    "category": "Sub-System",
+    "partNo": "",
+    "makerRemarks": ""
+   },
+   {
+    "label": "Cylinder Liner",
+    "level": 3,
+    "category": "Component",
+    "partNo": "",
+    "makerRemarks": ""
+   },
+   {
+    "label": "Cylinder Liner",
+    "level": 4,
+    "category": "Spare Part",
+    "partNo": "ATL-ME-CL-001",
+    "makerRemarks": "MAN B&W"
+   },
+   {
+    "label": "Liner O-ring Set",
+    "level": 4,
+    "category": "Spare Part",
+    "partNo": "ATL-ME-CL-002",
+    "makerRemarks": "MAN B&W"
+   },
+   {
+    "label": "Anti-Polishing Ring",
+    "level": 4,
+    "category": "Spare Part",
+    "partNo": "ATL-ME-CL-003",
+    "makerRemarks": "MAN B&W"
+   },
+   {
+    "label": "Piston Assembly",
+    "level": 3,
+    "category": "Component",
+    "partNo": "",
+    "makerRemarks": ""
+   },
+   {
+    "label": "Piston Crown",
+    "level": 4,
+    "category": "Spare Part",
+    "partNo": "ATL-ME-PA-001",
+    "makerRemarks": "MAN B&W"
+   },
+   {
+    "label": "Piston Ring Set",
+    "level": 4,
+    "category": "Spare Part",
+    "partNo": "ATL-ME-PA-002",
+    "makerRemarks": "MAN B&W"
+   },
+   {
+    "label": "Piston Rod",
+    "level": 4,
+    "category": "Spare Part",
+    "partNo": "ATL-ME-PA-003",
+    "makerRemarks": "MAN B&W"
+   },
+   {
+    "label": "Stuffing Box Sealing Ring Set",
+    "level": 4,
+    "category": "Spare Part",
+    "partNo": "ATL-ME-PA-004",
+    "makerRemarks": "MAN B&W"
+   },
+   {
+    "label": "Cylinder Cover",
+    "level": 3,
+    "category": "Component",
+    "partNo": "",
+    "makerRemarks": ""
+   },
+   {
+    "label": "Exhaust Valve Spindle",
+    "level": 4,
+    "category": "Spare Part",
+    "partNo": "ATL-ME-CC-001",
+    "makerRemarks": "MAN B&W"
+   },
+   {
+    "label": "Exhaust Valve Seat",
+    "level": 4,
+    "category": "Spare Part",
+    "partNo": "ATL-ME-CC-002",
+    "makerRemarks": "MAN B&W"
+   },
+   {
+    "label": "Rotocap",
+    "level": 4,
+    "category": "Spare Part",
+    "partNo": "ATL-ME-CC-003",
+    "makerRemarks": "MAN B&W"
+   },
+   {
+    "label": "Cylinder Cover Gasket",
+    "level": 4,
+    "category": "Spare Part",
+    "partNo": "ATL-ME-CC-004",
+    "makerRemarks": "MAN B&W"
+   },
+   {
+    "label": "Turbocharger",
+    "level": 2,
+    "category": "Sub-System",
+    "partNo": "",
+    "makerRemarks": ""
+   },
+   {
+    "label": "Rotor & Bearings",
+    "level": 3,
+    "category": "Component",
+    "partNo": "",
+    "makerRemarks": ""
+   },
+   {
+    "label": "Radial Bearing Set",
+    "level": 4,
+    "category": "Spare Part",
+    "partNo": "ATL-ME-TC-001",
+    "makerRemarks": "MAN B&W"
+   },
+   {
+    "label": "Thrust Bearing Set",
+    "level": 4,
+    "category": "Spare Part",
+    "partNo": "ATL-ME-TC-002",
+    "makerRemarks": "MAN B&W"
+   },
+   {
+    "label": "Sealing Air Filter",
+    "level": 4,
+    "category": "Spare Part",
+    "partNo": "ATL-ME-TC-003",
+    "makerRemarks": "MAN B&W"
+   },
+   {
+    "label": "Compressor & Turbine Side",
+    "level": 3,
+    "category": "Component",
+    "partNo": "",
+    "makerRemarks": ""
+   },
+   {
+    "label": "Compressor Wheel Cleaning Nozzle",
+    "level": 4,
+    "category": "Spare Part",
+    "partNo": "ATL-ME-TC-004",
+    "makerRemarks": "MAN B&W"
+   },
+   {
+    "label": "Turbine Blade Set",
+    "level": 4,
+    "category": "Spare Part",
+    "partNo": "ATL-ME-TC-005",
+    "makerRemarks": "MAN B&W"
+   },
+   {
+    "label": "Silencer Element",
+    "level": 4,
+    "category": "Spare Part",
+    "partNo": "ATL-ME-TC-006",
+    "makerRemarks": "MAN B&W"
+   },
+   {
+    "label": "Crankshaft & Running Gear",
+    "level": 2,
+    "category": "Sub-System",
+    "partNo": "",
+    "makerRemarks": ""
+   },
+   {
+    "label": "Main Bearing",
+    "level": 3,
+    "category": "Component",
+    "partNo": "",
+    "makerRemarks": ""
+   },
+   {
+    "label": "Main Bearing Shell (Upper)",
+    "level": 4,
+    "category": "Spare Part",
+    "partNo": "ATL-ME-CS-001",
+    "makerRemarks": "MAN B&W"
+   },
+   {
+    "label": "Main Bearing Shell (Lower)",
+    "level": 4,
+    "category": "Spare Part",
+    "partNo": "ATL-ME-CS-002",
+    "makerRemarks": "MAN B&W"
+   },
+   {
+    "label": "Thrust Pad Segment",
+    "level": 4,
+    "category": "Spare Part",
+    "partNo": "ATL-ME-CS-003",
+    "makerRemarks": "MAN B&W"
+   },
+   {
+    "label": "Crosshead Bearing",
+    "level": 3,
+    "category": "Component",
+    "partNo": "",
+    "makerRemarks": ""
+   },
+   {
+    "label": "Bottom End Bearing Shell",
+    "level": 4,
+    "category": "Spare Part",
+    "partNo": "ATL-ME-CH-001",
+    "makerRemarks": "MAN B&W"
+   },
+   {
+    "label": "Guide Shoe",
+    "level": 4,
+    "category": "Spare Part",
+    "partNo": "ATL-ME-CH-002",
+    "makerRemarks": "MAN B&W"
+   },
+   {
+    "label": "Lubricating Oil System",
+    "level": 2,
+    "category": "Sub-System",
+    "partNo": "",
+    "makerRemarks": ""
+   },
+   {
+    "label": "LO Pump",
+    "level": 3,
+    "category": "Component",
+    "partNo": "",
+    "makerRemarks": ""
+   },
+   {
+    "label": "Gear Set / Impeller",
+    "level": 4,
+    "category": "Spare Part",
+    "partNo": "ATL-ME-LO-001",
+    "makerRemarks": "MAN B&W"
+   },
+   {
+    "label": "Mechanical Seal",
+    "level": 4,
+    "category": "Spare Part",
+    "partNo": "ATL-ME-LO-002",
+    "makerRemarks": "MAN B&W"
+   },
+   {
+    "label": "Relief Valve",
+    "level": 4,
+    "category": "Spare Part",
+    "partNo": "ATL-ME-LO-003",
+    "makerRemarks": "MAN B&W"
+   },
+   {
+    "label": "LO Cooler & Filter",
+    "level": 3,
+    "category": "Component",
+    "partNo": "",
+    "makerRemarks": ""
+   },
+   {
+    "label": "Cooler Plate / Gasket Set",
+    "level": 4,
+    "category": "Spare Part",
+    "partNo": "ATL-ME-LO-004",
+    "makerRemarks": "MAN B&W"
+   },
+   {
+    "label": "Duplex Filter Element",
+    "level": 4,
+    "category": "Spare Part",
+    "partNo": "ATL-ME-LO-005",
+    "makerRemarks": "MAN B&W"
+   },
+   {
+    "label": "Auto Backflush Filter Cartridge",
+    "level": 4,
+    "category": "Spare Part",
+    "partNo": "ATL-ME-LO-006",
+    "makerRemarks": "MAN B&W"
+   },
+   {
+    "label": "Auxiliary Diesel Generators (3 x Wartsila 6L20)",
+    "level": 1,
+    "category": "Major System",
+    "partNo": "",
+    "makerRemarks": ""
+   },
+   {
+    "label": "Fuel System",
+    "level": 2,
+    "category": "Sub-System",
+    "partNo": "",
+    "makerRemarks": ""
+   },
+   {
+    "label": "Injector & Fuel Pump",
+    "level": 3,
+    "category": "Component",
+    "partNo": "",
+    "makerRemarks": ""
+   },
+   {
+    "label": "Injector Nozzle",
+    "level": 4,
+    "category": "Spare Part",
+    "partNo": "ATL-AE-FS-001",
+    "makerRemarks": "Wartsila"
+   },
+   {
+    "label": "Fuel Pump Element",
+    "level": 4,
+    "category": "Spare Part",
+    "partNo": "ATL-AE-FS-002",
+    "makerRemarks": "Wartsila"
+   },
+   {
+    "label": "Fuel Filter Element",
+    "level": 4,
+    "category": "Spare Part",
+    "partNo": "ATL-AE-FS-003",
+    "makerRemarks": "Wartsila"
+   },
+   {
+    "label": "Delivery Valve",
+    "level": 4,
+    "category": "Spare Part",
+    "partNo": "ATL-AE-FS-004",
+    "makerRemarks": "Wartsila"
+   },
+   {
+    "label": "Cooling Water System",
+    "level": 2,
+    "category": "Sub-System",
+    "partNo": "",
+    "makerRemarks": ""
+   },
+   {
+    "label": "Pumps & Cooler",
+    "level": 3,
+    "category": "Component",
+    "partNo": "",
+    "makerRemarks": ""
+   },
+   {
+    "label": "FW Pump Mechanical Seal",
+    "level": 4,
+    "category": "Spare Part",
+    "partNo": "ATL-AE-CW-001",
+    "makerRemarks": "Wartsila"
+   },
+   {
+    "label": "Thermostatic Valve Element",
+    "level": 4,
+    "category": "Spare Part",
+    "partNo": "ATL-AE-CW-002",
+    "makerRemarks": "Wartsila"
+   },
+   {
+    "label": "HT/LT Cooler Gasket Set",
+    "level": 4,
+    "category": "Spare Part",
+    "partNo": "ATL-AE-CW-003",
+    "makerRemarks": "Wartsila"
+   },
+   {
+    "label": "Turbocharger",
+    "level": 2,
+    "category": "Sub-System",
+    "partNo": "",
+    "makerRemarks": ""
+   },
+   {
+    "label": "Bearing & Cartridge",
+    "level": 3,
+    "category": "Component",
+    "partNo": "",
+    "makerRemarks": ""
+   },
+   {
+    "label": "Bearing Cartridge Kit",
+    "level": 4,
+    "category": "Spare Part",
+    "partNo": "ATL-AE-TC-001",
+    "makerRemarks": "Wartsila"
+   },
+   {
+    "label": "Compressor Cleaning Nozzle",
+    "level": 4,
+    "category": "Spare Part",
+    "partNo": "ATL-AE-TC-002",
+    "makerRemarks": "Wartsila"
+   },
+   {
+    "label": "Auxiliary Boiler (Mission/Aalborg Mission OL)",
+    "level": 1,
+    "category": "Major System",
+    "partNo": "",
+    "makerRemarks": ""
+   },
+   {
+    "label": "Burner Unit",
+    "level": 2,
+    "category": "Sub-System",
+    "partNo": "",
+    "makerRemarks": ""
+   },
+   {
+    "label": "Burner Assembly",
+    "level": 3,
+    "category": "Component",
+    "partNo": "",
+    "makerRemarks": ""
+   },
+   {
+    "label": "Atomizer / Nozzle",
+    "level": 4,
+    "category": "Spare Part",
+    "partNo": "ATL-BLR-BN-001",
+    "makerRemarks": "Mission/Aalborg Mission OL"
+   },
+   {
+    "label": "Ignition Electrode",
+    "level": 4,
+    "category": "Spare Part",
+    "partNo": "ATL-BLR-BN-002",
+    "makerRemarks": "Mission/Aalborg Mission OL"
+   },
+   {
+    "label": "Solenoid Valve",
+    "level": 4,
+    "category": "Spare Part",
+    "partNo": "ATL-BLR-BN-003",
+    "makerRemarks": "Mission/Aalborg Mission OL"
+   },
+   {
+    "label": "Photocell / Flame Sensor",
+    "level": 4,
+    "category": "Spare Part",
+    "partNo": "ATL-BLR-BN-004",
+    "makerRemarks": "Mission/Aalborg Mission OL"
+   },
+   {
+    "label": "Feed Water System",
+    "level": 2,
+    "category": "Sub-System",
+    "partNo": "",
+    "makerRemarks": ""
+   },
+   {
+    "label": "Feed Pump & Fittings",
+    "level": 3,
+    "category": "Component",
+    "partNo": "",
+    "makerRemarks": ""
+   },
+   {
+    "label": "Feed Pump Mechanical Seal",
+    "level": 4,
+    "category": "Spare Part",
+    "partNo": "ATL-BLR-FW-001",
+    "makerRemarks": "Mission/Aalborg Mission OL"
+   },
+   {
+    "label": "Feed Check Valve",
+    "level": 4,
+    "category": "Spare Part",
+    "partNo": "ATL-BLR-FW-002",
+    "makerRemarks": "Mission/Aalborg Mission OL"
+   },
+   {
+    "label": "Water Level Gauge Glass",
+    "level": 4,
+    "category": "Spare Part",
+    "partNo": "ATL-BLR-FW-003",
+    "makerRemarks": "Mission/Aalborg Mission OL"
+   },
+   {
+    "label": "Steering Gear (Rolls-Royce)",
+    "level": 1,
+    "category": "Major System",
+    "partNo": "",
+    "makerRemarks": ""
+   },
+   {
+    "label": "Hydraulic Power Unit",
+    "level": 2,
+    "category": "Sub-System",
+    "partNo": "",
+    "makerRemarks": ""
+   },
+   {
+    "label": "Hydraulic Pump",
+    "level": 3,
+    "category": "Component",
+    "partNo": "",
+    "makerRemarks": ""
+   },
+   {
+    "label": "Variable Displacement Pump Seal Kit",
+    "level": 4,
+    "category": "Spare Part",
+    "partNo": "ATL-STG-HP-001",
+    "makerRemarks": "Rolls-Royce"
+   },
+   {
+    "label": "Relief Valve",
+    "level": 4,
+    "category": "Spare Part",
+    "partNo": "ATL-STG-HP-002",
+    "makerRemarks": "Rolls-Royce"
+   },
+   {
+    "label": "Solenoid Valve",
+    "level": 4,
+    "category": "Spare Part",
+    "partNo": "ATL-STG-HP-003",
+    "makerRemarks": "Rolls-Royce"
+   },
+   {
+    "label": "Rudder Actuator",
+    "level": 2,
+    "category": "Sub-System",
+    "partNo": "",
+    "makerRemarks": ""
+   },
+   {
+    "label": "Rotary Vane Actuator",
+    "level": 3,
+    "category": "Component",
+    "partNo": "",
+    "makerRemarks": ""
+   },
+   {
+    "label": "Vane Seal Kit",
+    "level": 4,
+    "category": "Spare Part",
+    "partNo": "ATL-STG-RV-001",
+    "makerRemarks": "Rolls-Royce"
+   },
+   {
+    "label": "O-ring Set",
+    "level": 4,
+    "category": "Spare Part",
+    "partNo": "ATL-STG-RV-002",
+    "makerRemarks": "Rolls-Royce"
+   },
+   {
+    "label": "Deck Machinery (MacGregor)",
+    "level": 1,
+    "category": "Major System",
+    "partNo": "",
+    "makerRemarks": ""
+   },
+   {
+    "label": "Windlass / Mooring Winch",
+    "level": 2,
+    "category": "Sub-System",
+    "partNo": "",
+    "makerRemarks": ""
+   },
+   {
+    "label": "Winch Drive",
+    "level": 3,
+    "category": "Component",
+    "partNo": "",
+    "makerRemarks": ""
+   },
+   {
+    "label": "Hydraulic Motor",
+    "level": 4,
+    "category": "Spare Part",
+    "partNo": "ATL-DM-WM-001",
+    "makerRemarks": "MacGregor"
+   },
+   {
+    "label": "Brake Band Lining",
+    "level": 4,
+    "category": "Spare Part",
+    "partNo": "ATL-DM-WM-002",
+    "makerRemarks": "MacGregor"
+   },
+   {
+    "label": "Gear Oil Seal Set",
+    "level": 4,
+    "category": "Spare Part",
+    "partNo": "ATL-DM-WM-003",
+    "makerRemarks": "MacGregor"
+   },
+   {
+    "label": "Anchor & Chain",
+    "level": 2,
+    "category": "Sub-System",
+    "partNo": "",
+    "makerRemarks": ""
+   },
+   {
+    "label": "Chain Fittings",
+    "level": 3,
+    "category": "Component",
+    "partNo": "",
+    "makerRemarks": ""
+   },
+   {
+    "label": "Kenter Shackle",
+    "level": 4,
+    "category": "Spare Part",
+    "partNo": "ATL-DM-AC-001",
+    "makerRemarks": "MacGregor"
+   },
+   {
+    "label": "Swivel Piece",
+    "level": 4,
+    "category": "Spare Part",
+    "partNo": "ATL-DM-AC-002",
+    "makerRemarks": "MacGregor"
+   },
+   {
+    "label": "Fresh Water Generator (Alfa Laval)",
+    "level": 1,
+    "category": "Major System",
+    "partNo": "",
+    "makerRemarks": ""
+   },
+   {
+    "label": "Evaporator",
+    "level": 2,
+    "category": "Sub-System",
+    "partNo": "",
+    "makerRemarks": ""
+   },
+   {
+    "label": "Plate Pack",
+    "level": 3,
+    "category": "Component",
+    "partNo": "",
+    "makerRemarks": ""
+   },
+   {
+    "label": "Titanium Plate Set",
+    "level": 4,
+    "category": "Spare Part",
+    "partNo": "ATL-FWG-EV-001",
+    "makerRemarks": "Alfa Laval"
+   },
+   {
+    "label": "Plate Gasket Set",
+    "level": 4,
+    "category": "Spare Part",
+    "partNo": "ATL-FWG-EV-002",
+    "makerRemarks": "Alfa Laval"
+   },
+   {
+    "label": "Ejector / Vacuum System",
+    "level": 2,
+    "category": "Sub-System",
+    "partNo": "",
+    "makerRemarks": ""
+   },
+   {
+    "label": "Ejector Pump",
+    "level": 3,
+    "category": "Component",
+    "partNo": "",
+    "makerRemarks": ""
+   },
+   {
+    "label": "Mechanical Seal",
+    "level": 4,
+    "category": "Spare Part",
+    "partNo": "ATL-FWG-EJ-001",
+    "makerRemarks": "Alfa Laval"
+   },
+   {
+    "label": "Impeller",
+    "level": 4,
+    "category": "Spare Part",
+    "partNo": "ATL-FWG-EJ-002",
+    "makerRemarks": "Alfa Laval"
+   },
+   {
+    "label": "Air Compressor - Main & Service (Sperre)",
+    "level": 1,
+    "category": "Major System",
+    "partNo": "",
+    "makerRemarks": ""
+   },
+   {
+    "label": "Compressor Unit",
+    "level": 2,
+    "category": "Sub-System",
+    "partNo": "",
+    "makerRemarks": ""
+   },
+   {
+    "label": "Cylinder Assembly",
+    "level": 3,
+    "category": "Component",
+    "partNo": "",
+    "makerRemarks": ""
+   },
+   {
+    "label": "Piston Ring Set",
+    "level": 4,
+    "category": "Spare Part",
+    "partNo": "ATL-AC-CU-001",
+    "makerRemarks": "Sperre"
+   },
+   {
+    "label": "Valve Plate Set",
+    "level": 4,
+    "category": "Spare Part",
+    "partNo": "ATL-AC-CU-002",
+    "makerRemarks": "Sperre"
+   },
+   {
+    "label": "Air Filter Element",
+    "level": 4,
+    "category": "Spare Part",
+    "partNo": "ATL-AC-CU-003",
+    "makerRemarks": "Sperre"
+   },
+   {
+    "label": "FO & LO Purifiers (Alfa Laval)",
+    "level": 1,
+    "category": "Major System",
+    "partNo": "",
+    "makerRemarks": ""
+   },
+   {
+    "label": "Bowl Assembly",
+    "level": 2,
+    "category": "Sub-System",
+    "partNo": "",
+    "makerRemarks": ""
+   },
+   {
+    "label": "Separator Bowl",
+    "level": 3,
+    "category": "Component",
+    "partNo": "",
+    "makerRemarks": ""
+   },
+   {
+    "label": "Gravity Disc Set",
+    "level": 4,
+    "category": "Spare Part",
+    "partNo": "ATL-PUR-BW-001",
+    "makerRemarks": "Alfa Laval"
+   },
+   {
+    "label": "O-ring / Gasket Kit",
+    "level": 4,
+    "category": "Spare Part",
+    "partNo": "ATL-PUR-BW-002",
+    "makerRemarks": "Alfa Laval"
+   },
+   {
+    "label": "Sliding Bowl Bottom Seal Ring",
+    "level": 4,
+    "category": "Spare Part",
+    "partNo": "ATL-PUR-BW-003",
+    "makerRemarks": "Alfa Laval"
+   },
+   {
+    "label": "Ballast / Bilge / GS Pumps (Framo)",
+    "level": 1,
+    "category": "Major System",
+    "partNo": "",
+    "makerRemarks": ""
+   },
+   {
+    "label": "Centrifugal Pumps",
+    "level": 2,
+    "category": "Sub-System",
+    "partNo": "",
+    "makerRemarks": ""
+   },
+   {
+    "label": "Pump Assembly",
+    "level": 3,
+    "category": "Component",
+    "partNo": "",
+    "makerRemarks": ""
+   },
+   {
+    "label": "Mechanical Seal",
+    "level": 4,
+    "category": "Spare Part",
+    "partNo": "ATL-PMP-CP-001",
+    "makerRemarks": "Framo"
+   },
+   {
+    "label": "Impeller",
+    "level": 4,
+    "category": "Spare Part",
+    "partNo": "ATL-PMP-CP-002",
+    "makerRemarks": "Framo"
+   },
+   {
+    "label": "Wear Ring",
+    "level": 4,
+    "category": "Spare Part",
+    "partNo": "ATL-PMP-CP-003",
+    "makerRemarks": "Framo"
+   },
+   {
+    "label": "Fire Fighting System (Skum)",
+    "level": 1,
+    "category": "Major System",
+    "partNo": "",
+    "makerRemarks": ""
+   },
+   {
+    "label": "Fire Pump",
+    "level": 2,
+    "category": "Sub-System",
+    "partNo": "",
+    "makerRemarks": ""
+   },
+   {
+    "label": "Pump Assembly",
+    "level": 3,
+    "category": "Component",
+    "partNo": "",
+    "makerRemarks": ""
+   },
+   {
+    "label": "Mechanical Seal",
+    "level": 4,
+    "category": "Spare Part",
+    "partNo": "ATL-FF-FP-001",
+    "makerRemarks": "Skum"
+   },
+   {
+    "label": "Impeller",
+    "level": 4,
+    "category": "Spare Part",
+    "partNo": "ATL-FF-FP-002",
+    "makerRemarks": "Skum"
+   },
+   {
+    "label": "CO2 / Foam System",
+    "level": 2,
+    "category": "Sub-System",
+    "partNo": "",
+    "makerRemarks": ""
+   },
+   {
+    "label": "Release & Nozzles",
+    "level": 3,
+    "category": "Component",
+    "partNo": "",
+    "makerRemarks": ""
+   },
+   {
+    "label": "Cylinder Release Valve",
+    "level": 4,
+    "category": "Spare Part",
+    "partNo": "ATL-FF-CO2-001",
+    "makerRemarks": "Skum"
+   },
+   {
+    "label": "Discharge Nozzle",
+    "level": 4,
+    "category": "Spare Part",
+    "partNo": "ATL-FF-CO2-002",
+    "makerRemarks": "Skum"
+   },
+   {
+    "label": "Cargo Oil Pumps (Steam Turbine Driven - Framo)",
+    "level": 1,
+    "category": "Major System",
+    "partNo": "",
+    "makerRemarks": ""
+   },
+   {
+    "label": "Pump Unit",
+    "level": 2,
+    "category": "Sub-System",
+    "partNo": "",
+    "makerRemarks": ""
+   },
+   {
+    "label": "Deepwell Pump",
+    "level": 3,
+    "category": "Component",
+    "partNo": "",
+    "makerRemarks": ""
+   },
+   {
+    "label": "Mechanical Seal",
+    "level": 4,
+    "category": "Spare Part",
+    "partNo": "ATL-COP-PU-001",
+    "makerRemarks": "Framo"
+   },
+   {
+    "label": "Impeller",
+    "level": 4,
+    "category": "Spare Part",
+    "partNo": "ATL-COP-PU-002",
+    "makerRemarks": "Framo"
+   },
+   {
+    "label": "Line Shaft Bearing",
+    "level": 4,
+    "category": "Spare Part",
+    "partNo": "ATL-COP-PU-003",
+    "makerRemarks": "Framo"
+   },
+   {
+    "label": "Steam Turbine Driver",
+    "level": 2,
+    "category": "Sub-System",
+    "partNo": "",
+    "makerRemarks": ""
+   },
+   {
+    "label": "Turbine Assembly",
+    "level": 3,
+    "category": "Component",
+    "partNo": "",
+    "makerRemarks": ""
+   },
+   {
+    "label": "Nozzle Ring",
+    "level": 4,
+    "category": "Spare Part",
+    "partNo": "ATL-COP-TB-001",
+    "makerRemarks": "Framo"
+   },
+   {
+    "label": "Governor Valve",
+    "level": 4,
+    "category": "Spare Part",
+    "partNo": "ATL-COP-TB-002",
+    "makerRemarks": "Framo"
+   },
+   {
+    "label": "Inert Gas Generator - IGG (Kwant Controls)",
+    "level": 1,
+    "category": "Major System",
+    "partNo": "",
+    "makerRemarks": ""
+   },
+   {
+    "label": "Combustion Chamber",
+    "level": 2,
+    "category": "Sub-System",
+    "partNo": "",
+    "makerRemarks": ""
+   },
+   {
+    "label": "Burner Assembly",
+    "level": 3,
+    "category": "Component",
+    "partNo": "",
+    "makerRemarks": ""
+   },
+   {
+    "label": "Burner Nozzle",
+    "level": 4,
+    "category": "Spare Part",
+    "partNo": "ATL-IGG-CC-001",
+    "makerRemarks": "Kwant"
+   },
+   {
+    "label": "Igniter Electrode",
+    "level": 4,
+    "category": "Spare Part",
+    "partNo": "ATL-IGG-CC-002",
+    "makerRemarks": "Kwant"
+   },
+   {
+    "label": "Flame Scanner",
+    "level": 4,
+    "category": "Spare Part",
+    "partNo": "ATL-IGG-CC-003",
+    "makerRemarks": "Kwant"
+   },
+   {
+    "label": "Scrubber Tower",
+    "level": 2,
+    "category": "Sub-System",
+    "partNo": "",
+    "makerRemarks": ""
+   },
+   {
+    "label": "Scrubber Assembly",
+    "level": 3,
+    "category": "Component",
+    "partNo": "",
+    "makerRemarks": ""
+   },
+   {
+    "label": "Scrubber Spray Nozzle",
+    "level": 4,
+    "category": "Spare Part",
+    "partNo": "ATL-IGG-SC-001",
+    "makerRemarks": "Kwant"
+   },
+   {
+    "label": "Demister Pad",
+    "level": 4,
+    "category": "Spare Part",
+    "partNo": "ATL-IGG-SC-002",
+    "makerRemarks": "Kwant"
+   },
+   {
+    "label": "Blower Unit",
+    "level": 2,
+    "category": "Sub-System",
+    "partNo": "",
+    "makerRemarks": ""
+   },
+   {
+    "label": "IG Blower",
+    "level": 3,
+    "category": "Component",
+    "partNo": "",
+    "makerRemarks": ""
+   },
+   {
+    "label": "Blower Bearing Set",
+    "level": 4,
+    "category": "Spare Part",
+    "partNo": "ATL-IGG-BL-001",
+    "makerRemarks": "Kwant"
+   },
+   {
+    "label": "Mechanical Seal",
+    "level": 4,
+    "category": "Spare Part",
+    "partNo": "ATL-IGG-BL-002",
+    "makerRemarks": "Kwant"
+   },
+   {
+    "label": "Crude Oil Washing (COW) System",
+    "level": 1,
+    "category": "Major System",
+    "partNo": "",
+    "makerRemarks": ""
+   },
+   {
+    "label": "Tank Cleaning Machines",
+    "level": 2,
+    "category": "Sub-System",
+    "partNo": "",
+    "makerRemarks": ""
+   },
+   {
+    "label": "Cleaning Machine",
+    "level": 3,
+    "category": "Component",
+    "partNo": "",
+    "makerRemarks": ""
+   },
+   {
+    "label": "Nozzle Set",
+    "level": 4,
+    "category": "Spare Part",
+    "partNo": "ATL-COW-TC-001",
+    "makerRemarks": "Scanjet"
+   },
+   {
+    "label": "Gear Set",
+    "level": 4,
+    "category": "Spare Part",
+    "partNo": "ATL-COW-TC-002",
+    "makerRemarks": "Scanjet"
+   },
+   {
+    "label": "Packing / Seal Kit",
+    "level": 4,
+    "category": "Spare Part",
+    "partNo": "ATL-COW-TC-003",
+    "makerRemarks": "Scanjet"
+   },
+   {
+    "label": "Cargo Heating System",
+    "level": 1,
+    "category": "Major System",
+    "partNo": "",
+    "makerRemarks": ""
+   },
+   {
+    "label": "Heating Coils",
+    "level": 2,
+    "category": "Sub-System",
+    "partNo": "",
+    "makerRemarks": ""
+   },
+   {
+    "label": "Coil & Traps",
+    "level": 3,
+    "category": "Component",
+    "partNo": "",
+    "makerRemarks": ""
+   },
+   {
+    "label": "Steam Trap",
+    "level": 4,
+    "category": "Spare Part",
+    "partNo": "ATL-CH-CO-001",
+    "makerRemarks": "Spirax Sarco"
+   },
+   {
+    "label": "Coil Gasket Set",
+    "level": 4,
+    "category": "Spare Part",
+    "partNo": "ATL-CH-CO-002",
+    "makerRemarks": "Spirax Sarco"
+   },
+   {
+    "label": "Vapor Emission Control / ODME",
+    "level": 1,
+    "category": "Major System",
+    "partNo": "",
+    "makerRemarks": ""
+   },
+   {
+    "label": "Oil Content Meter",
+    "level": 2,
+    "category": "Sub-System",
+    "partNo": "",
+    "makerRemarks": ""
+   },
+   {
+    "label": "ODME Unit",
+    "level": 3,
+    "category": "Component",
+    "partNo": "",
+    "makerRemarks": ""
+   },
+   {
+    "label": "Sensor Cell",
+    "level": 4,
+    "category": "Spare Part",
+    "partNo": "ATL-ODM-OC-001",
+    "makerRemarks": "Jorest"
+   },
+   {
+    "label": "Sample Pump",
+    "level": 4,
+    "category": "Spare Part",
+    "partNo": "ATL-ODM-OC-002",
+    "makerRemarks": "Jorest"
+   },
+   {
+    "label": "Stores & Consumables",
+    "level": 1,
+    "category": "Major System",
+    "partNo": "",
+    "makerRemarks": ""
+   },
+   {
+    "label": "Lubricating Oils",
+    "level": 2,
+    "category": "Sub-System",
+    "partNo": "",
+    "makerRemarks": ""
+   },
+   {
+    "label": "System Oil (Main / Aux Engine Sump)",
+    "level": 3,
+    "category": "Component",
+    "partNo": "",
+    "makerRemarks": ""
+   },
+   {
+    "label": "System Oil SAE 30 (TBN 5-10) - 209L Drum",
+    "level": 4,
+    "category": "Consumable / Store Item",
+    "partNo": "ATL-STR-LO-001",
+    "makerRemarks": "Shell/Castrol"
+   },
+   {
+    "label": "Aux Engine Sump Oil SAE 40 - 209L Drum",
+    "level": 4,
+    "category": "Consumable / Store Item",
+    "partNo": "ATL-STR-LO-002",
+    "makerRemarks": "Shell/Castrol"
+   },
+   {
+    "label": "Used Oil Sample Kit / Bottles",
+    "level": 4,
+    "category": "Consumable / Store Item",
+    "partNo": "ATL-STR-LO-003",
+    "makerRemarks": "Shell/Castrol"
+   },
+   {
+    "label": "Cylinder Oil (Main Engine)",
+    "level": 3,
+    "category": "Component",
+    "partNo": "",
+    "makerRemarks": ""
+   },
+   {
+    "label": "Cylinder Oil 70 BN - 209L Drum",
+    "level": 4,
+    "category": "Consumable / Store Item",
+    "partNo": "ATL-STR-LO-004",
+    "makerRemarks": "Shell/Castrol"
+   },
+   {
+    "label": "Cylinder Oil 100 BN - 209L Drum",
+    "level": 4,
+    "category": "Consumable / Store Item",
+    "partNo": "ATL-STR-LO-005",
+    "makerRemarks": "Shell/Castrol"
+   },
+   {
+    "label": "Cylinder Oil Feed Rate Test Kit",
+    "level": 4,
+    "category": "Consumable / Store Item",
+    "partNo": "ATL-STR-LO-006",
+    "makerRemarks": "Shell/Castrol"
+   },
+   {
+    "label": "Turbine & Hydraulic Oils",
+    "level": 3,
+    "category": "Component",
+    "partNo": "",
+    "makerRemarks": ""
+   },
+   {
+    "label": "Turbine Oil ISO VG46 - 209L Drum",
+    "level": 4,
+    "category": "Consumable / Store Item",
+    "partNo": "ATL-STR-LO-007",
+    "makerRemarks": "Shell/Castrol"
+   },
+   {
+    "label": "Hydraulic Oil ISO VG32 - 209L Drum",
+    "level": 4,
+    "category": "Consumable / Store Item",
+    "partNo": "ATL-STR-LO-008",
+    "makerRemarks": "Shell/Castrol"
+   },
+   {
+    "label": "Boiler & Cooling Water Chemicals",
+    "level": 2,
+    "category": "Sub-System",
+    "partNo": "",
+    "makerRemarks": ""
+   },
+   {
+    "label": "Boiler Water Treatment",
+    "level": 3,
+    "category": "Component",
+    "partNo": "",
+    "makerRemarks": ""
+   },
+   {
+    "label": "Boiler Compound (Alkalinity Control) - 25L Drum",
+    "level": 4,
+    "category": "Consumable / Store Item",
+    "partNo": "ATL-STR-CH-001",
+    "makerRemarks": "Drew Marine"
+   },
+   {
+    "label": "Oxygen Scavenger Chemical - 25L Drum",
+    "level": 4,
+    "category": "Consumable / Store Item",
+    "partNo": "ATL-STR-CH-002",
+    "makerRemarks": "Drew Marine"
+   },
+   {
+    "label": "Boiler Water Test Kit",
+    "level": 4,
+    "category": "Consumable / Store Item",
+    "partNo": "ATL-STR-CH-003",
+    "makerRemarks": "Drew Marine"
+   },
+   {
+    "label": "Cooling Water Treatment (Jacket Water)",
+    "level": 3,
+    "category": "Component",
+    "partNo": "",
+    "makerRemarks": ""
+   },
+   {
+    "label": "Nitrite-Based Coolant Treatment - 25L Drum",
+    "level": 4,
+    "category": "Consumable / Store Item",
+    "partNo": "ATL-STR-CH-004",
+    "makerRemarks": "Drew Marine"
+   },
+   {
+    "label": "Coolant Test Strips / Refractometer Kit",
+    "level": 4,
+    "category": "Consumable / Store Item",
+    "partNo": "ATL-STR-CH-005",
+    "makerRemarks": "Drew Marine"
+   },
+   {
+    "label": "Cleaning & Purifier Chemicals",
+    "level": 2,
+    "category": "Sub-System",
+    "partNo": "",
+    "makerRemarks": ""
+   },
+   {
+    "label": "Purifier / Tank Cleaning Chemicals",
+    "level": 3,
+    "category": "Component",
+    "partNo": "",
+    "makerRemarks": ""
+   },
+   {
+    "label": "Purifier Bowl Cleaning Chemical - 25L Drum",
+    "level": 4,
+    "category": "Consumable / Store Item",
+    "partNo": "ATL-STR-CH-006",
+    "makerRemarks": "Unitor"
+   },
+   {
+    "label": "Tank Cleaning Detergent - 25L Drum",
+    "level": 4,
+    "category": "Consumable / Store Item",
+    "partNo": "ATL-STR-CH-007",
+    "makerRemarks": "Unitor"
+   },
+   {
+    "label": "Engine Room Degreaser - 25L Drum",
+    "level": 4,
+    "category": "Consumable / Store Item",
+    "partNo": "ATL-STR-CH-008",
+    "makerRemarks": "Unitor"
+   },
+   {
+    "label": "Paints & Coatings",
+    "level": 2,
+    "category": "Sub-System",
+    "partNo": "",
+    "makerRemarks": ""
+   },
+   {
+    "label": "Hull & Deck Paints",
+    "level": 3,
+    "category": "Component",
+    "partNo": "",
+    "makerRemarks": ""
+   },
+   {
+    "label": "Anti-Corrosive Epoxy Paint - 20L Pail",
+    "level": 4,
+    "category": "Consumable / Store Item",
+    "partNo": "ATL-STR-PT-001",
+    "makerRemarks": "Jotun/Hempel"
+   },
+   {
+    "label": "Anti-Fouling Paint - 20L Pail",
+    "level": 4,
+    "category": "Consumable / Store Item",
+    "partNo": "ATL-STR-PT-002",
+    "makerRemarks": "Jotun/Hempel"
+   },
+   {
+    "label": "Deck Non-Skid Paint - 20L Pail",
+    "level": 4,
+    "category": "Consumable / Store Item",
+    "partNo": "ATL-STR-PT-003",
+    "makerRemarks": "Jotun/Hempel"
+   },
+   {
+    "label": "Paint Thinner - 20L Drum",
+    "level": 4,
+    "category": "Consumable / Store Item",
+    "partNo": "ATL-STR-PT-004",
+    "makerRemarks": "Jotun/Hempel"
+   },
+   {
+    "label": "Welding & Gas Stores",
+    "level": 2,
+    "category": "Sub-System",
+    "partNo": "",
+    "makerRemarks": ""
+   },
+   {
+    "label": "Welding Consumables & Gas Cylinders",
+    "level": 3,
+    "category": "Component",
+    "partNo": "",
+    "makerRemarks": ""
+   },
+   {
+    "label": "Oxygen Cylinder (Industrial)",
+    "level": 4,
+    "category": "Consumable / Store Item",
+    "partNo": "ATL-STR-WG-001",
+    "makerRemarks": "BOC/Linde"
+   },
+   {
+    "label": "Acetylene Cylinder",
+    "level": 4,
+    "category": "Consumable / Store Item",
+    "partNo": "ATL-STR-WG-002",
+    "makerRemarks": "BOC/Linde"
+   },
+   {
+    "label": "Welding Electrodes E6013 - Box",
+    "level": 4,
+    "category": "Consumable / Store Item",
+    "partNo": "ATL-STR-WG-003",
+    "makerRemarks": "BOC/Linde"
+   },
+   {
+    "label": "Cutting/Grinding Disc - Box",
+    "level": 4,
+    "category": "Consumable / Store Item",
+    "partNo": "ATL-STR-WG-004",
+    "makerRemarks": "BOC/Linde"
+   },
+   {
+    "label": "Engine Room General Stores",
+    "level": 2,
+    "category": "Sub-System",
+    "partNo": "",
+    "makerRemarks": ""
+   },
+   {
+    "label": "Gaskets, Packing & Jointing",
+    "level": 3,
+    "category": "Component",
+    "partNo": "",
+    "makerRemarks": ""
+   },
+   {
+    "label": "Jointing Sheet Roll (Klingersil-type)",
+    "level": 4,
+    "category": "Consumable / Store Item",
+    "partNo": "ATL-STR-ER-001",
+    "makerRemarks": "Klinger"
+   },
+   {
+    "label": "Gland Packing / Rope Seal - Roll",
+    "level": 4,
+    "category": "Consumable / Store Item",
+    "partNo": "ATL-STR-ER-002",
+    "makerRemarks": "Klinger"
+   },
+   {
+    "label": "Assorted Gasket Set (O-ring/Copper)",
+    "level": 4,
+    "category": "Consumable / Store Item",
+    "partNo": "ATL-STR-ER-003",
+    "makerRemarks": "Klinger"
+   },
+   {
+    "label": "Tools, PPE & Cleaning Materials",
+    "level": 3,
+    "category": "Component",
+    "partNo": "",
+    "makerRemarks": ""
+   },
+   {
+    "label": "Engine Room Wiping Rags - Bale",
+    "level": 4,
+    "category": "Consumable / Store Item",
+    "partNo": "ATL-STR-ER-004",
+    "makerRemarks": "General Stores"
+   },
+   {
+    "label": "Safety Gloves / Goggles / Ear Muffs - Set",
+    "level": 4,
+    "category": "Consumable / Store Item",
+    "partNo": "ATL-STR-ER-005",
+    "makerRemarks": "General Stores"
+   },
+   {
+    "label": "Wire Brush / Hand Tool Consumables",
+    "level": 4,
+    "category": "Consumable / Store Item",
+    "partNo": "ATL-STR-ER-006",
+    "makerRemarks": "General Stores"
+   },
+   {
+    "label": "Safety Stores - LSA",
+    "level": 2,
+    "category": "Sub-System",
+    "partNo": "",
+    "makerRemarks": ""
+   },
+   {
+    "label": "Life Saving Appliances",
+    "level": 3,
+    "category": "Component",
+    "partNo": "",
+    "makerRemarks": ""
+   },
+   {
+    "label": "Lifebuoy (SOLAS)",
+    "level": 4,
+    "category": "Consumable / Store Item",
+    "partNo": "ATL-STR-LSA-001",
+    "makerRemarks": "Viking/RFD"
+   },
+   {
+    "label": "Lifejacket (SOLAS)",
+    "level": 4,
+    "category": "Consumable / Store Item",
+    "partNo": "ATL-STR-LSA-002",
+    "makerRemarks": "Viking/RFD"
+   },
+   {
+    "label": "Immersion Suit",
+    "level": 4,
+    "category": "Consumable / Store Item",
+    "partNo": "ATL-STR-LSA-003",
+    "makerRemarks": "Viking/RFD"
+   },
+   {
+    "label": "EPIRB Battery",
+    "level": 4,
+    "category": "Consumable / Store Item",
+    "partNo": "ATL-STR-LSA-004",
+    "makerRemarks": "Viking/RFD"
+   },
+   {
+    "label": "Pyrotechnics - Rocket Parachute Flares (Set)",
+    "level": 4,
+    "category": "Consumable / Store Item",
+    "partNo": "ATL-STR-LSA-005",
+    "makerRemarks": "Viking/RFD"
+   },
+   {
+    "label": "Safety Stores - FFA",
+    "level": 2,
+    "category": "Sub-System",
+    "partNo": "",
+    "makerRemarks": ""
+   },
+   {
+    "label": "Fire Fighting Appliances",
+    "level": 3,
+    "category": "Component",
+    "partNo": "",
+    "makerRemarks": ""
+   },
+   {
+    "label": "Portable CO2 Fire Extinguisher",
+    "level": 4,
+    "category": "Consumable / Store Item",
+    "partNo": "ATL-STR-FFA-001",
+    "makerRemarks": "Kidde/Skum"
+   },
+   {
+    "label": "Portable Dry Powder Fire Extinguisher",
+    "level": 4,
+    "category": "Consumable / Store Item",
+    "partNo": "ATL-STR-FFA-002",
+    "makerRemarks": "Kidde/Skum"
+   },
+   {
+    "label": "Foam Concentrate - 25L Drum",
+    "level": 4,
+    "category": "Consumable / Store Item",
+    "partNo": "ATL-STR-FFA-003",
+    "makerRemarks": "Kidde/Skum"
+   },
+   {
+    "label": "SCBA Air Cylinder (Refill)",
+    "level": 4,
+    "category": "Consumable / Store Item",
+    "partNo": "ATL-STR-FFA-004",
+    "makerRemarks": "Kidde/Skum"
+   },
+   {
+    "label": "Fireman's Outfit (Complete Set)",
+    "level": 4,
+    "category": "Consumable / Store Item",
+    "partNo": "ATL-STR-FFA-005",
+    "makerRemarks": "Kidde/Skum"
+   },
+   {
+    "label": "Bosun / Deck Stores",
+    "level": 2,
+    "category": "Sub-System",
+    "partNo": "",
+    "makerRemarks": ""
+   },
+   {
+    "label": "Ropes, Wires & Rigging",
+    "level": 3,
+    "category": "Component",
+    "partNo": "",
+    "makerRemarks": ""
+   },
+   {
+    "label": "Mooring Rope (Polypropylene) - Coil",
+    "level": 4,
+    "category": "Consumable / Store Item",
+    "partNo": "ATL-STR-BS-001",
+    "makerRemarks": "Bridon/Bexco"
+   },
+   {
+    "label": "Mooring Wire Rope - Reel",
+    "level": 4,
+    "category": "Consumable / Store Item",
+    "partNo": "ATL-STR-BS-002",
+    "makerRemarks": "Bridon/Bexco"
+   },
+   {
+    "label": "D-Shackle / Bow Shackle - Set",
+    "level": 4,
+    "category": "Consumable / Store Item",
+    "partNo": "ATL-STR-BS-003",
+    "makerRemarks": "Bridon/Bexco"
+   },
+   {
+    "label": "Paint Brushes & Rollers - Set",
+    "level": 4,
+    "category": "Consumable / Store Item",
+    "partNo": "ATL-STR-BS-004",
+    "makerRemarks": "General Stores"
+   },
+   {
+    "label": "Stationery & General Stores",
+    "level": 2,
+    "category": "Sub-System",
+    "partNo": "",
+    "makerRemarks": ""
+   },
+   {
+    "label": "Record Books & Office Stationery",
+    "level": 3,
+    "category": "Component",
+    "partNo": "",
+    "makerRemarks": ""
+   },
+   {
+    "label": "Engine/Deck Log Book",
+    "level": 4,
+    "category": "Consumable / Store Item",
+    "partNo": "ATL-STR-ST-001",
+    "makerRemarks": "General Stores"
+   },
+   {
+    "label": "Oil Record Book",
+    "level": 4,
+    "category": "Consumable / Store Item",
+    "partNo": "ATL-STR-ST-002",
+    "makerRemarks": "General Stores"
+   },
+   {
+    "label": "Printer Paper / Toner / Stationery Set",
+    "level": 4,
+    "category": "Consumable / Store Item",
+    "partNo": "ATL-STR-ST-003",
+    "makerRemarks": "General Stores"
+   },
+   {
+    "label": "Provisions & Catering Stores",
+    "level": 2,
+    "category": "Sub-System",
+    "partNo": "",
+    "makerRemarks": ""
+   },
+   {
+    "label": "Dry / Frozen Provisions & Galley Consumables",
+    "level": 3,
+    "category": "Component",
+    "partNo": "",
+    "makerRemarks": ""
+   },
+   {
+    "label": "Dry Provisions - Assorted",
+    "level": 4,
+    "category": "Consumable / Store Item",
+    "partNo": "ATL-STR-PR-001",
+    "makerRemarks": "General Stores"
+   },
+   {
+    "label": "Frozen Provisions - Assorted",
+    "level": 4,
+    "category": "Consumable / Store Item",
+    "partNo": "ATL-STR-PR-002",
+    "makerRemarks": "General Stores"
+   },
+   {
+    "label": "Galley Cleaning & Catering Consumables",
+    "level": 4,
+    "category": "Consumable / Store Item",
+    "partNo": "ATL-STR-PR-003",
+    "makerRemarks": "General Stores"
+   }
+  ]
+ },
+ {
+  "owner": "fleet_manager",
+  "title": "MV Trinity  \u2014  Container Ship",
+  "label": "[MV Trinity] MV Trinity",
+  "nodes": [
+   {
+    "label": "Main Propulsion Engine (MAN B&W 9K98ME-C)",
+    "level": 1,
+    "category": "Major System",
+    "partNo": "",
+    "makerRemarks": ""
+   },
+   {
+    "label": "Fuel Injection System",
+    "level": 2,
+    "category": "Sub-System",
+    "partNo": "",
+    "makerRemarks": ""
+   },
+   {
+    "label": "Fuel Injector / Injection Valve",
+    "level": 3,
+    "category": "Component",
+    "partNo": "",
+    "makerRemarks": ""
+   },
+   {
+    "label": "Injector Nozzle",
+    "level": 4,
+    "category": "Spare Part",
+    "partNo": "TRN-ME-FI-001",
+    "makerRemarks": "MAN B&W"
+   },
+   {
+    "label": "Nozzle Tip",
+    "level": 4,
+    "category": "Spare Part",
+    "partNo": "TRN-ME-FI-002",
+    "makerRemarks": "MAN B&W"
+   },
+   {
+    "label": "Injector Spindle",
+    "level": 4,
+    "category": "Spare Part",
+    "partNo": "TRN-ME-FI-003",
+    "makerRemarks": "MAN B&W"
+   },
+   {
+    "label": "Injector Spring",
+    "level": 4,
+    "category": "Spare Part",
+    "partNo": "TRN-ME-FI-004",
+    "makerRemarks": "MAN B&W"
+   },
+   {
+    "label": "O-ring / Copper Washer Set",
+    "level": 4,
+    "category": "Spare Part",
+    "partNo": "TRN-ME-FI-005",
+    "makerRemarks": "MAN B&W"
+   },
+   {
+    "label": "Fuel Injection Pump",
+    "level": 3,
+    "category": "Component",
+    "partNo": "",
+    "makerRemarks": ""
+   },
+   {
+    "label": "Plunger & Barrel",
+    "level": 4,
+    "category": "Spare Part",
+    "partNo": "TRN-ME-FP-001",
+    "makerRemarks": "MAN B&W"
+   },
+   {
+    "label": "Suction Valve",
+    "level": 4,
+    "category": "Spare Part",
+    "partNo": "TRN-ME-FP-002",
+    "makerRemarks": "MAN B&W"
+   },
+   {
+    "label": "Delivery Valve",
+    "level": 4,
+    "category": "Spare Part",
+    "partNo": "TRN-ME-FP-003",
+    "makerRemarks": "MAN B&W"
+   },
+   {
+    "label": "VIT Actuator Seal Kit",
+    "level": 4,
+    "category": "Spare Part",
+    "partNo": "TRN-ME-FP-004",
+    "makerRemarks": "MAN B&W"
+   },
+   {
+    "label": "Cylinder Unit",
+    "level": 2,
+    "category": "Sub-System",
+    "partNo": "",
+    "makerRemarks": ""
+   },
+   {
+    "label": "Cylinder Liner",
+    "level": 3,
+    "category": "Component",
+    "partNo": "",
+    "makerRemarks": ""
+   },
+   {
+    "label": "Cylinder Liner",
+    "level": 4,
+    "category": "Spare Part",
+    "partNo": "TRN-ME-CL-001",
+    "makerRemarks": "MAN B&W"
+   },
+   {
+    "label": "Liner O-ring Set",
+    "level": 4,
+    "category": "Spare Part",
+    "partNo": "TRN-ME-CL-002",
+    "makerRemarks": "MAN B&W"
+   },
+   {
+    "label": "Anti-Polishing Ring",
+    "level": 4,
+    "category": "Spare Part",
+    "partNo": "TRN-ME-CL-003",
+    "makerRemarks": "MAN B&W"
+   },
+   {
+    "label": "Piston Assembly",
+    "level": 3,
+    "category": "Component",
+    "partNo": "",
+    "makerRemarks": ""
+   },
+   {
+    "label": "Piston Crown",
+    "level": 4,
+    "category": "Spare Part",
+    "partNo": "TRN-ME-PA-001",
+    "makerRemarks": "MAN B&W"
+   },
+   {
+    "label": "Piston Ring Set",
+    "level": 4,
+    "category": "Spare Part",
+    "partNo": "TRN-ME-PA-002",
+    "makerRemarks": "MAN B&W"
+   },
+   {
+    "label": "Piston Rod",
+    "level": 4,
+    "category": "Spare Part",
+    "partNo": "TRN-ME-PA-003",
+    "makerRemarks": "MAN B&W"
+   },
+   {
+    "label": "Stuffing Box Sealing Ring Set",
+    "level": 4,
+    "category": "Spare Part",
+    "partNo": "TRN-ME-PA-004",
+    "makerRemarks": "MAN B&W"
+   },
+   {
+    "label": "Cylinder Cover",
+    "level": 3,
+    "category": "Component",
+    "partNo": "",
+    "makerRemarks": ""
+   },
+   {
+    "label": "Exhaust Valve Spindle",
+    "level": 4,
+    "category": "Spare Part",
+    "partNo": "TRN-ME-CC-001",
+    "makerRemarks": "MAN B&W"
+   },
+   {
+    "label": "Exhaust Valve Seat",
+    "level": 4,
+    "category": "Spare Part",
+    "partNo": "TRN-ME-CC-002",
+    "makerRemarks": "MAN B&W"
+   },
+   {
+    "label": "Rotocap",
+    "level": 4,
+    "category": "Spare Part",
+    "partNo": "TRN-ME-CC-003",
+    "makerRemarks": "MAN B&W"
+   },
+   {
+    "label": "Cylinder Cover Gasket",
+    "level": 4,
+    "category": "Spare Part",
+    "partNo": "TRN-ME-CC-004",
+    "makerRemarks": "MAN B&W"
+   },
+   {
+    "label": "Turbocharger",
+    "level": 2,
+    "category": "Sub-System",
+    "partNo": "",
+    "makerRemarks": ""
+   },
+   {
+    "label": "Rotor & Bearings",
+    "level": 3,
+    "category": "Component",
+    "partNo": "",
+    "makerRemarks": ""
+   },
+   {
+    "label": "Radial Bearing Set",
+    "level": 4,
+    "category": "Spare Part",
+    "partNo": "TRN-ME-TC-001",
+    "makerRemarks": "MAN B&W"
+   },
+   {
+    "label": "Thrust Bearing Set",
+    "level": 4,
+    "category": "Spare Part",
+    "partNo": "TRN-ME-TC-002",
+    "makerRemarks": "MAN B&W"
+   },
+   {
+    "label": "Sealing Air Filter",
+    "level": 4,
+    "category": "Spare Part",
+    "partNo": "TRN-ME-TC-003",
+    "makerRemarks": "MAN B&W"
+   },
+   {
+    "label": "Compressor & Turbine Side",
+    "level": 3,
+    "category": "Component",
+    "partNo": "",
+    "makerRemarks": ""
+   },
+   {
+    "label": "Compressor Wheel Cleaning Nozzle",
+    "level": 4,
+    "category": "Spare Part",
+    "partNo": "TRN-ME-TC-004",
+    "makerRemarks": "MAN B&W"
+   },
+   {
+    "label": "Turbine Blade Set",
+    "level": 4,
+    "category": "Spare Part",
+    "partNo": "TRN-ME-TC-005",
+    "makerRemarks": "MAN B&W"
+   },
+   {
+    "label": "Silencer Element",
+    "level": 4,
+    "category": "Spare Part",
+    "partNo": "TRN-ME-TC-006",
+    "makerRemarks": "MAN B&W"
+   },
+   {
+    "label": "Crankshaft & Running Gear",
+    "level": 2,
+    "category": "Sub-System",
+    "partNo": "",
+    "makerRemarks": ""
+   },
+   {
+    "label": "Main Bearing",
+    "level": 3,
+    "category": "Component",
+    "partNo": "",
+    "makerRemarks": ""
+   },
+   {
+    "label": "Main Bearing Shell (Upper)",
+    "level": 4,
+    "category": "Spare Part",
+    "partNo": "TRN-ME-CS-001",
+    "makerRemarks": "MAN B&W"
+   },
+   {
+    "label": "Main Bearing Shell (Lower)",
+    "level": 4,
+    "category": "Spare Part",
+    "partNo": "TRN-ME-CS-002",
+    "makerRemarks": "MAN B&W"
+   },
+   {
+    "label": "Thrust Pad Segment",
+    "level": 4,
+    "category": "Spare Part",
+    "partNo": "TRN-ME-CS-003",
+    "makerRemarks": "MAN B&W"
+   },
+   {
+    "label": "Crosshead Bearing",
+    "level": 3,
+    "category": "Component",
+    "partNo": "",
+    "makerRemarks": ""
+   },
+   {
+    "label": "Bottom End Bearing Shell",
+    "level": 4,
+    "category": "Spare Part",
+    "partNo": "TRN-ME-CH-001",
+    "makerRemarks": "MAN B&W"
+   },
+   {
+    "label": "Guide Shoe",
+    "level": 4,
+    "category": "Spare Part",
+    "partNo": "TRN-ME-CH-002",
+    "makerRemarks": "MAN B&W"
+   },
+   {
+    "label": "Lubricating Oil System",
+    "level": 2,
+    "category": "Sub-System",
+    "partNo": "",
+    "makerRemarks": ""
+   },
+   {
+    "label": "LO Pump",
+    "level": 3,
+    "category": "Component",
+    "partNo": "",
+    "makerRemarks": ""
+   },
+   {
+    "label": "Gear Set / Impeller",
+    "level": 4,
+    "category": "Spare Part",
+    "partNo": "TRN-ME-LO-001",
+    "makerRemarks": "MAN B&W"
+   },
+   {
+    "label": "Mechanical Seal",
+    "level": 4,
+    "category": "Spare Part",
+    "partNo": "TRN-ME-LO-002",
+    "makerRemarks": "MAN B&W"
+   },
+   {
+    "label": "Relief Valve",
+    "level": 4,
+    "category": "Spare Part",
+    "partNo": "TRN-ME-LO-003",
+    "makerRemarks": "MAN B&W"
+   },
+   {
+    "label": "LO Cooler & Filter",
+    "level": 3,
+    "category": "Component",
+    "partNo": "",
+    "makerRemarks": ""
+   },
+   {
+    "label": "Cooler Plate / Gasket Set",
+    "level": 4,
+    "category": "Spare Part",
+    "partNo": "TRN-ME-LO-004",
+    "makerRemarks": "MAN B&W"
+   },
+   {
+    "label": "Duplex Filter Element",
+    "level": 4,
+    "category": "Spare Part",
+    "partNo": "TRN-ME-LO-005",
+    "makerRemarks": "MAN B&W"
+   },
+   {
+    "label": "Auto Backflush Filter Cartridge",
+    "level": 4,
+    "category": "Spare Part",
+    "partNo": "TRN-ME-LO-006",
+    "makerRemarks": "MAN B&W"
+   },
+   {
+    "label": "Auxiliary Diesel Generators (4 x MAN 9L21/31)",
+    "level": 1,
+    "category": "Major System",
+    "partNo": "",
+    "makerRemarks": ""
+   },
+   {
+    "label": "Fuel System",
+    "level": 2,
+    "category": "Sub-System",
+    "partNo": "",
+    "makerRemarks": ""
+   },
+   {
+    "label": "Injector & Fuel Pump",
+    "level": 3,
+    "category": "Component",
+    "partNo": "",
+    "makerRemarks": ""
+   },
+   {
+    "label": "Injector Nozzle",
+    "level": 4,
+    "category": "Spare Part",
+    "partNo": "TRN-AE-FS-001",
+    "makerRemarks": "MAN"
+   },
+   {
+    "label": "Fuel Pump Element",
+    "level": 4,
+    "category": "Spare Part",
+    "partNo": "TRN-AE-FS-002",
+    "makerRemarks": "MAN"
+   },
+   {
+    "label": "Fuel Filter Element",
+    "level": 4,
+    "category": "Spare Part",
+    "partNo": "TRN-AE-FS-003",
+    "makerRemarks": "MAN"
+   },
+   {
+    "label": "Delivery Valve",
+    "level": 4,
+    "category": "Spare Part",
+    "partNo": "TRN-AE-FS-004",
+    "makerRemarks": "MAN"
+   },
+   {
+    "label": "Cooling Water System",
+    "level": 2,
+    "category": "Sub-System",
+    "partNo": "",
+    "makerRemarks": ""
+   },
+   {
+    "label": "Pumps & Cooler",
+    "level": 3,
+    "category": "Component",
+    "partNo": "",
+    "makerRemarks": ""
+   },
+   {
+    "label": "FW Pump Mechanical Seal",
+    "level": 4,
+    "category": "Spare Part",
+    "partNo": "TRN-AE-CW-001",
+    "makerRemarks": "MAN"
+   },
+   {
+    "label": "Thermostatic Valve Element",
+    "level": 4,
+    "category": "Spare Part",
+    "partNo": "TRN-AE-CW-002",
+    "makerRemarks": "MAN"
+   },
+   {
+    "label": "HT/LT Cooler Gasket Set",
+    "level": 4,
+    "category": "Spare Part",
+    "partNo": "TRN-AE-CW-003",
+    "makerRemarks": "MAN"
+   },
+   {
+    "label": "Turbocharger",
+    "level": 2,
+    "category": "Sub-System",
+    "partNo": "",
+    "makerRemarks": ""
+   },
+   {
+    "label": "Bearing & Cartridge",
+    "level": 3,
+    "category": "Component",
+    "partNo": "",
+    "makerRemarks": ""
+   },
+   {
+    "label": "Bearing Cartridge Kit",
+    "level": 4,
+    "category": "Spare Part",
+    "partNo": "TRN-AE-TC-001",
+    "makerRemarks": "MAN"
+   },
+   {
+    "label": "Compressor Cleaning Nozzle",
+    "level": 4,
+    "category": "Spare Part",
+    "partNo": "TRN-AE-TC-002",
+    "makerRemarks": "MAN"
+   },
+   {
+    "label": "Auxiliary Boiler (Aalborg)",
+    "level": 1,
+    "category": "Major System",
+    "partNo": "",
+    "makerRemarks": ""
+   },
+   {
+    "label": "Burner Unit",
+    "level": 2,
+    "category": "Sub-System",
+    "partNo": "",
+    "makerRemarks": ""
+   },
+   {
+    "label": "Burner Assembly",
+    "level": 3,
+    "category": "Component",
+    "partNo": "",
+    "makerRemarks": ""
+   },
+   {
+    "label": "Atomizer / Nozzle",
+    "level": 4,
+    "category": "Spare Part",
+    "partNo": "TRN-BLR-BN-001",
+    "makerRemarks": "Aalborg"
+   },
+   {
+    "label": "Ignition Electrode",
+    "level": 4,
+    "category": "Spare Part",
+    "partNo": "TRN-BLR-BN-002",
+    "makerRemarks": "Aalborg"
+   },
+   {
+    "label": "Solenoid Valve",
+    "level": 4,
+    "category": "Spare Part",
+    "partNo": "TRN-BLR-BN-003",
+    "makerRemarks": "Aalborg"
+   },
+   {
+    "label": "Photocell / Flame Sensor",
+    "level": 4,
+    "category": "Spare Part",
+    "partNo": "TRN-BLR-BN-004",
+    "makerRemarks": "Aalborg"
+   },
+   {
+    "label": "Feed Water System",
+    "level": 2,
+    "category": "Sub-System",
+    "partNo": "",
+    "makerRemarks": ""
+   },
+   {
+    "label": "Feed Pump & Fittings",
+    "level": 3,
+    "category": "Component",
+    "partNo": "",
+    "makerRemarks": ""
+   },
+   {
+    "label": "Feed Pump Mechanical Seal",
+    "level": 4,
+    "category": "Spare Part",
+    "partNo": "TRN-BLR-FW-001",
+    "makerRemarks": "Aalborg"
+   },
+   {
+    "label": "Feed Check Valve",
+    "level": 4,
+    "category": "Spare Part",
+    "partNo": "TRN-BLR-FW-002",
+    "makerRemarks": "Aalborg"
+   },
+   {
+    "label": "Water Level Gauge Glass",
+    "level": 4,
+    "category": "Spare Part",
+    "partNo": "TRN-BLR-FW-003",
+    "makerRemarks": "Aalborg"
+   },
+   {
+    "label": "Steering Gear (Rolls-Royce)",
+    "level": 1,
+    "category": "Major System",
+    "partNo": "",
+    "makerRemarks": ""
+   },
+   {
+    "label": "Hydraulic Power Unit",
+    "level": 2,
+    "category": "Sub-System",
+    "partNo": "",
+    "makerRemarks": ""
+   },
+   {
+    "label": "Hydraulic Pump",
+    "level": 3,
+    "category": "Component",
+    "partNo": "",
+    "makerRemarks": ""
+   },
+   {
+    "label": "Variable Displacement Pump Seal Kit",
+    "level": 4,
+    "category": "Spare Part",
+    "partNo": "TRN-STG-HP-001",
+    "makerRemarks": "Rolls-Royce"
+   },
+   {
+    "label": "Relief Valve",
+    "level": 4,
+    "category": "Spare Part",
+    "partNo": "TRN-STG-HP-002",
+    "makerRemarks": "Rolls-Royce"
+   },
+   {
+    "label": "Solenoid Valve",
+    "level": 4,
+    "category": "Spare Part",
+    "partNo": "TRN-STG-HP-003",
+    "makerRemarks": "Rolls-Royce"
+   },
+   {
+    "label": "Rudder Actuator",
+    "level": 2,
+    "category": "Sub-System",
+    "partNo": "",
+    "makerRemarks": ""
+   },
+   {
+    "label": "Rotary Vane Actuator",
+    "level": 3,
+    "category": "Component",
+    "partNo": "",
+    "makerRemarks": ""
+   },
+   {
+    "label": "Vane Seal Kit",
+    "level": 4,
+    "category": "Spare Part",
+    "partNo": "TRN-STG-RV-001",
+    "makerRemarks": "Rolls-Royce"
+   },
+   {
+    "label": "O-ring Set",
+    "level": 4,
+    "category": "Spare Part",
+    "partNo": "TRN-STG-RV-002",
+    "makerRemarks": "Rolls-Royce"
+   },
+   {
+    "label": "Deck Machinery (MacGregor)",
+    "level": 1,
+    "category": "Major System",
+    "partNo": "",
+    "makerRemarks": ""
+   },
+   {
+    "label": "Windlass / Mooring Winch",
+    "level": 2,
+    "category": "Sub-System",
+    "partNo": "",
+    "makerRemarks": ""
+   },
+   {
+    "label": "Winch Drive",
+    "level": 3,
+    "category": "Component",
+    "partNo": "",
+    "makerRemarks": ""
+   },
+   {
+    "label": "Hydraulic Motor",
+    "level": 4,
+    "category": "Spare Part",
+    "partNo": "TRN-DM-WM-001",
+    "makerRemarks": "MacGregor"
+   },
+   {
+    "label": "Brake Band Lining",
+    "level": 4,
+    "category": "Spare Part",
+    "partNo": "TRN-DM-WM-002",
+    "makerRemarks": "MacGregor"
+   },
+   {
+    "label": "Gear Oil Seal Set",
+    "level": 4,
+    "category": "Spare Part",
+    "partNo": "TRN-DM-WM-003",
+    "makerRemarks": "MacGregor"
+   },
+   {
+    "label": "Anchor & Chain",
+    "level": 2,
+    "category": "Sub-System",
+    "partNo": "",
+    "makerRemarks": ""
+   },
+   {
+    "label": "Chain Fittings",
+    "level": 3,
+    "category": "Component",
+    "partNo": "",
+    "makerRemarks": ""
+   },
+   {
+    "label": "Kenter Shackle",
+    "level": 4,
+    "category": "Spare Part",
+    "partNo": "TRN-DM-AC-001",
+    "makerRemarks": "MacGregor"
+   },
+   {
+    "label": "Swivel Piece",
+    "level": 4,
+    "category": "Spare Part",
+    "partNo": "TRN-DM-AC-002",
+    "makerRemarks": "MacGregor"
+   },
+   {
+    "label": "Fresh Water Generator (Alfa Laval)",
+    "level": 1,
+    "category": "Major System",
+    "partNo": "",
+    "makerRemarks": ""
+   },
+   {
+    "label": "Evaporator",
+    "level": 2,
+    "category": "Sub-System",
+    "partNo": "",
+    "makerRemarks": ""
+   },
+   {
+    "label": "Plate Pack",
+    "level": 3,
+    "category": "Component",
+    "partNo": "",
+    "makerRemarks": ""
+   },
+   {
+    "label": "Titanium Plate Set",
+    "level": 4,
+    "category": "Spare Part",
+    "partNo": "TRN-FWG-EV-001",
+    "makerRemarks": "Alfa Laval"
+   },
+   {
+    "label": "Plate Gasket Set",
+    "level": 4,
+    "category": "Spare Part",
+    "partNo": "TRN-FWG-EV-002",
+    "makerRemarks": "Alfa Laval"
+   },
+   {
+    "label": "Ejector / Vacuum System",
+    "level": 2,
+    "category": "Sub-System",
+    "partNo": "",
+    "makerRemarks": ""
+   },
+   {
+    "label": "Ejector Pump",
+    "level": 3,
+    "category": "Component",
+    "partNo": "",
+    "makerRemarks": ""
+   },
+   {
+    "label": "Mechanical Seal",
+    "level": 4,
+    "category": "Spare Part",
+    "partNo": "TRN-FWG-EJ-001",
+    "makerRemarks": "Alfa Laval"
+   },
+   {
+    "label": "Impeller",
+    "level": 4,
+    "category": "Spare Part",
+    "partNo": "TRN-FWG-EJ-002",
+    "makerRemarks": "Alfa Laval"
+   },
+   {
+    "label": "Air Compressor - Main & Service (Sperre)",
+    "level": 1,
+    "category": "Major System",
+    "partNo": "",
+    "makerRemarks": ""
+   },
+   {
+    "label": "Compressor Unit",
+    "level": 2,
+    "category": "Sub-System",
+    "partNo": "",
+    "makerRemarks": ""
+   },
+   {
+    "label": "Cylinder Assembly",
+    "level": 3,
+    "category": "Component",
+    "partNo": "",
+    "makerRemarks": ""
+   },
+   {
+    "label": "Piston Ring Set",
+    "level": 4,
+    "category": "Spare Part",
+    "partNo": "TRN-AC-CU-001",
+    "makerRemarks": "Sperre"
+   },
+   {
+    "label": "Valve Plate Set",
+    "level": 4,
+    "category": "Spare Part",
+    "partNo": "TRN-AC-CU-002",
+    "makerRemarks": "Sperre"
+   },
+   {
+    "label": "Air Filter Element",
+    "level": 4,
+    "category": "Spare Part",
+    "partNo": "TRN-AC-CU-003",
+    "makerRemarks": "Sperre"
+   },
+   {
+    "label": "FO & LO Purifiers (Alfa Laval)",
+    "level": 1,
+    "category": "Major System",
+    "partNo": "",
+    "makerRemarks": ""
+   },
+   {
+    "label": "Bowl Assembly",
+    "level": 2,
+    "category": "Sub-System",
+    "partNo": "",
+    "makerRemarks": ""
+   },
+   {
+    "label": "Separator Bowl",
+    "level": 3,
+    "category": "Component",
+    "partNo": "",
+    "makerRemarks": ""
+   },
+   {
+    "label": "Gravity Disc Set",
+    "level": 4,
+    "category": "Spare Part",
+    "partNo": "TRN-PUR-BW-001",
+    "makerRemarks": "Alfa Laval"
+   },
+   {
+    "label": "O-ring / Gasket Kit",
+    "level": 4,
+    "category": "Spare Part",
+    "partNo": "TRN-PUR-BW-002",
+    "makerRemarks": "Alfa Laval"
+   },
+   {
+    "label": "Sliding Bowl Bottom Seal Ring",
+    "level": 4,
+    "category": "Spare Part",
+    "partNo": "TRN-PUR-BW-003",
+    "makerRemarks": "Alfa Laval"
+   },
+   {
+    "label": "Ballast / Bilge / GS Pumps (Framo)",
+    "level": 1,
+    "category": "Major System",
+    "partNo": "",
+    "makerRemarks": ""
+   },
+   {
+    "label": "Centrifugal Pumps",
+    "level": 2,
+    "category": "Sub-System",
+    "partNo": "",
+    "makerRemarks": ""
+   },
+   {
+    "label": "Pump Assembly",
+    "level": 3,
+    "category": "Component",
+    "partNo": "",
+    "makerRemarks": ""
+   },
+   {
+    "label": "Mechanical Seal",
+    "level": 4,
+    "category": "Spare Part",
+    "partNo": "TRN-PMP-CP-001",
+    "makerRemarks": "Framo"
+   },
+   {
+    "label": "Impeller",
+    "level": 4,
+    "category": "Spare Part",
+    "partNo": "TRN-PMP-CP-002",
+    "makerRemarks": "Framo"
+   },
+   {
+    "label": "Wear Ring",
+    "level": 4,
+    "category": "Spare Part",
+    "partNo": "TRN-PMP-CP-003",
+    "makerRemarks": "Framo"
+   },
+   {
+    "label": "Fire Fighting System (Skum)",
+    "level": 1,
+    "category": "Major System",
+    "partNo": "",
+    "makerRemarks": ""
+   },
+   {
+    "label": "Fire Pump",
+    "level": 2,
+    "category": "Sub-System",
+    "partNo": "",
+    "makerRemarks": ""
+   },
+   {
+    "label": "Pump Assembly",
+    "level": 3,
+    "category": "Component",
+    "partNo": "",
+    "makerRemarks": ""
+   },
+   {
+    "label": "Mechanical Seal",
+    "level": 4,
+    "category": "Spare Part",
+    "partNo": "TRN-FF-FP-001",
+    "makerRemarks": "Skum"
+   },
+   {
+    "label": "Impeller",
+    "level": 4,
+    "category": "Spare Part",
+    "partNo": "TRN-FF-FP-002",
+    "makerRemarks": "Skum"
+   },
+   {
+    "label": "CO2 / Foam System",
+    "level": 2,
+    "category": "Sub-System",
+    "partNo": "",
+    "makerRemarks": ""
+   },
+   {
+    "label": "Release & Nozzles",
+    "level": 3,
+    "category": "Component",
+    "partNo": "",
+    "makerRemarks": ""
+   },
+   {
+    "label": "Cylinder Release Valve",
+    "level": 4,
+    "category": "Spare Part",
+    "partNo": "TRN-FF-CO2-001",
+    "makerRemarks": "Skum"
+   },
+   {
+    "label": "Discharge Nozzle",
+    "level": 4,
+    "category": "Spare Part",
+    "partNo": "TRN-FF-CO2-002",
+    "makerRemarks": "Skum"
+   },
+   {
+    "label": "Reefer Container Plant (Carrier Transicold PrimeLINE)",
+    "level": 1,
+    "category": "Major System",
+    "partNo": "",
+    "makerRemarks": ""
+   },
+   {
+    "label": "Compressor Unit",
+    "level": 2,
+    "category": "Sub-System",
+    "partNo": "",
+    "makerRemarks": ""
+   },
+   {
+    "label": "Compressor Assembly",
+    "level": 3,
+    "category": "Component",
+    "partNo": "",
+    "makerRemarks": ""
+   },
+   {
+    "label": "Suction Valve Plate",
+    "level": 4,
+    "category": "Spare Part",
+    "partNo": "TRN-RF-CP-001",
+    "makerRemarks": "Carrier Transicold"
+   },
+   {
+    "label": "Discharge Valve Plate",
+    "level": 4,
+    "category": "Spare Part",
+    "partNo": "TRN-RF-CP-002",
+    "makerRemarks": "Carrier Transicold"
+   },
+   {
+    "label": "Gasket Kit",
+    "level": 4,
+    "category": "Spare Part",
+    "partNo": "TRN-RF-CP-003",
+    "makerRemarks": "Carrier Transicold"
+   },
+   {
+    "label": "Condenser / Evaporator",
+    "level": 2,
+    "category": "Sub-System",
+    "partNo": "",
+    "makerRemarks": ""
+   },
+   {
+    "label": "Heat Exchanger Unit",
+    "level": 3,
+    "category": "Component",
+    "partNo": "",
+    "makerRemarks": ""
+   },
+   {
+    "label": "Condenser Fan Motor",
+    "level": 4,
+    "category": "Spare Part",
+    "partNo": "TRN-RF-CE-001",
+    "makerRemarks": "Carrier Transicold"
+   },
+   {
+    "label": "Evaporator Coil",
+    "level": 4,
+    "category": "Spare Part",
+    "partNo": "TRN-RF-CE-002",
+    "makerRemarks": "Carrier Transicold"
+   },
+   {
+    "label": "Container Lashing System (MacGregor)",
+    "level": 1,
+    "category": "Major System",
+    "partNo": "",
+    "makerRemarks": ""
+   },
+   {
+    "label": "Twistlocks & Lashing Rods",
+    "level": 2,
+    "category": "Sub-System",
+    "partNo": "",
+    "makerRemarks": ""
+   },
+   {
+    "label": "Securing Fittings",
+    "level": 3,
+    "category": "Component",
+    "partNo": "",
+    "makerRemarks": ""
+   },
+   {
+    "label": "Twistlock (Semi-Automatic)",
+    "level": 4,
+    "category": "Spare Part",
+    "partNo": "TRN-LSH-TW-001",
+    "makerRemarks": "MacGregor"
+   },
+   {
+    "label": "Turnbuckle",
+    "level": 4,
+    "category": "Spare Part",
+    "partNo": "TRN-LSH-TW-002",
+    "makerRemarks": "MacGregor"
+   },
+   {
+    "label": "Lashing Rod",
+    "level": 4,
+    "category": "Spare Part",
+    "partNo": "TRN-LSH-TW-003",
+    "makerRemarks": "MacGregor"
+   },
+   {
+    "label": "Cell Guide System",
+    "level": 1,
+    "category": "Major System",
+    "partNo": "",
+    "makerRemarks": ""
+   },
+   {
+    "label": "Guide Rails",
+    "level": 2,
+    "category": "Sub-System",
+    "partNo": "",
+    "makerRemarks": ""
+   },
+   {
+    "label": "Rail Assembly",
+    "level": 3,
+    "category": "Component",
+    "partNo": "",
+    "makerRemarks": ""
+   },
+   {
+    "label": "Guide Shoe",
+    "level": 4,
+    "category": "Spare Part",
+    "partNo": "TRN-CG-GR-001",
+    "makerRemarks": "MacGregor"
+   },
+   {
+    "label": "Guide Roller",
+    "level": 4,
+    "category": "Spare Part",
+    "partNo": "TRN-CG-GR-002",
+    "makerRemarks": "MacGregor"
+   },
+   {
+    "label": "Stores & Consumables",
+    "level": 1,
+    "category": "Major System",
+    "partNo": "",
+    "makerRemarks": ""
+   },
+   {
+    "label": "Lubricating Oils",
+    "level": 2,
+    "category": "Sub-System",
+    "partNo": "",
+    "makerRemarks": ""
+   },
+   {
+    "label": "System Oil (Main / Aux Engine Sump)",
+    "level": 3,
+    "category": "Component",
+    "partNo": "",
+    "makerRemarks": ""
+   },
+   {
+    "label": "System Oil SAE 30 (TBN 5-10) - 209L Drum",
+    "level": 4,
+    "category": "Consumable / Store Item",
+    "partNo": "TRN-STR-LO-001",
+    "makerRemarks": "Shell/Castrol"
+   },
+   {
+    "label": "Aux Engine Sump Oil SAE 40 - 209L Drum",
+    "level": 4,
+    "category": "Consumable / Store Item",
+    "partNo": "TRN-STR-LO-002",
+    "makerRemarks": "Shell/Castrol"
+   },
+   {
+    "label": "Used Oil Sample Kit / Bottles",
+    "level": 4,
+    "category": "Consumable / Store Item",
+    "partNo": "TRN-STR-LO-003",
+    "makerRemarks": "Shell/Castrol"
+   },
+   {
+    "label": "Cylinder Oil (Main Engine)",
+    "level": 3,
+    "category": "Component",
+    "partNo": "",
+    "makerRemarks": ""
+   },
+   {
+    "label": "Cylinder Oil 70 BN - 209L Drum",
+    "level": 4,
+    "category": "Consumable / Store Item",
+    "partNo": "TRN-STR-LO-004",
+    "makerRemarks": "Shell/Castrol"
+   },
+   {
+    "label": "Cylinder Oil 100 BN - 209L Drum",
+    "level": 4,
+    "category": "Consumable / Store Item",
+    "partNo": "TRN-STR-LO-005",
+    "makerRemarks": "Shell/Castrol"
+   },
+   {
+    "label": "Cylinder Oil Feed Rate Test Kit",
+    "level": 4,
+    "category": "Consumable / Store Item",
+    "partNo": "TRN-STR-LO-006",
+    "makerRemarks": "Shell/Castrol"
+   },
+   {
+    "label": "Turbine & Hydraulic Oils",
+    "level": 3,
+    "category": "Component",
+    "partNo": "",
+    "makerRemarks": ""
+   },
+   {
+    "label": "Turbine Oil ISO VG46 - 209L Drum",
+    "level": 4,
+    "category": "Consumable / Store Item",
+    "partNo": "TRN-STR-LO-007",
+    "makerRemarks": "Shell/Castrol"
+   },
+   {
+    "label": "Hydraulic Oil ISO VG32 - 209L Drum",
+    "level": 4,
+    "category": "Consumable / Store Item",
+    "partNo": "TRN-STR-LO-008",
+    "makerRemarks": "Shell/Castrol"
+   },
+   {
+    "label": "Boiler & Cooling Water Chemicals",
+    "level": 2,
+    "category": "Sub-System",
+    "partNo": "",
+    "makerRemarks": ""
+   },
+   {
+    "label": "Boiler Water Treatment",
+    "level": 3,
+    "category": "Component",
+    "partNo": "",
+    "makerRemarks": ""
+   },
+   {
+    "label": "Boiler Compound (Alkalinity Control) - 25L Drum",
+    "level": 4,
+    "category": "Consumable / Store Item",
+    "partNo": "TRN-STR-CH-001",
+    "makerRemarks": "Drew Marine"
+   },
+   {
+    "label": "Oxygen Scavenger Chemical - 25L Drum",
+    "level": 4,
+    "category": "Consumable / Store Item",
+    "partNo": "TRN-STR-CH-002",
+    "makerRemarks": "Drew Marine"
+   },
+   {
+    "label": "Boiler Water Test Kit",
+    "level": 4,
+    "category": "Consumable / Store Item",
+    "partNo": "TRN-STR-CH-003",
+    "makerRemarks": "Drew Marine"
+   },
+   {
+    "label": "Cooling Water Treatment (Jacket Water)",
+    "level": 3,
+    "category": "Component",
+    "partNo": "",
+    "makerRemarks": ""
+   },
+   {
+    "label": "Nitrite-Based Coolant Treatment - 25L Drum",
+    "level": 4,
+    "category": "Consumable / Store Item",
+    "partNo": "TRN-STR-CH-004",
+    "makerRemarks": "Drew Marine"
+   },
+   {
+    "label": "Coolant Test Strips / Refractometer Kit",
+    "level": 4,
+    "category": "Consumable / Store Item",
+    "partNo": "TRN-STR-CH-005",
+    "makerRemarks": "Drew Marine"
+   },
+   {
+    "label": "Cleaning & Purifier Chemicals",
+    "level": 2,
+    "category": "Sub-System",
+    "partNo": "",
+    "makerRemarks": ""
+   },
+   {
+    "label": "Purifier / Tank Cleaning Chemicals",
+    "level": 3,
+    "category": "Component",
+    "partNo": "",
+    "makerRemarks": ""
+   },
+   {
+    "label": "Purifier Bowl Cleaning Chemical - 25L Drum",
+    "level": 4,
+    "category": "Consumable / Store Item",
+    "partNo": "TRN-STR-CH-006",
+    "makerRemarks": "Unitor"
+   },
+   {
+    "label": "Tank Cleaning Detergent - 25L Drum",
+    "level": 4,
+    "category": "Consumable / Store Item",
+    "partNo": "TRN-STR-CH-007",
+    "makerRemarks": "Unitor"
+   },
+   {
+    "label": "Engine Room Degreaser - 25L Drum",
+    "level": 4,
+    "category": "Consumable / Store Item",
+    "partNo": "TRN-STR-CH-008",
+    "makerRemarks": "Unitor"
+   },
+   {
+    "label": "Paints & Coatings",
+    "level": 2,
+    "category": "Sub-System",
+    "partNo": "",
+    "makerRemarks": ""
+   },
+   {
+    "label": "Hull & Deck Paints",
+    "level": 3,
+    "category": "Component",
+    "partNo": "",
+    "makerRemarks": ""
+   },
+   {
+    "label": "Anti-Corrosive Epoxy Paint - 20L Pail",
+    "level": 4,
+    "category": "Consumable / Store Item",
+    "partNo": "TRN-STR-PT-001",
+    "makerRemarks": "Jotun/Hempel"
+   },
+   {
+    "label": "Anti-Fouling Paint - 20L Pail",
+    "level": 4,
+    "category": "Consumable / Store Item",
+    "partNo": "TRN-STR-PT-002",
+    "makerRemarks": "Jotun/Hempel"
+   },
+   {
+    "label": "Deck Non-Skid Paint - 20L Pail",
+    "level": 4,
+    "category": "Consumable / Store Item",
+    "partNo": "TRN-STR-PT-003",
+    "makerRemarks": "Jotun/Hempel"
+   },
+   {
+    "label": "Paint Thinner - 20L Drum",
+    "level": 4,
+    "category": "Consumable / Store Item",
+    "partNo": "TRN-STR-PT-004",
+    "makerRemarks": "Jotun/Hempel"
+   },
+   {
+    "label": "Welding & Gas Stores",
+    "level": 2,
+    "category": "Sub-System",
+    "partNo": "",
+    "makerRemarks": ""
+   },
+   {
+    "label": "Welding Consumables & Gas Cylinders",
+    "level": 3,
+    "category": "Component",
+    "partNo": "",
+    "makerRemarks": ""
+   },
+   {
+    "label": "Oxygen Cylinder (Industrial)",
+    "level": 4,
+    "category": "Consumable / Store Item",
+    "partNo": "TRN-STR-WG-001",
+    "makerRemarks": "BOC/Linde"
+   },
+   {
+    "label": "Acetylene Cylinder",
+    "level": 4,
+    "category": "Consumable / Store Item",
+    "partNo": "TRN-STR-WG-002",
+    "makerRemarks": "BOC/Linde"
+   },
+   {
+    "label": "Welding Electrodes E6013 - Box",
+    "level": 4,
+    "category": "Consumable / Store Item",
+    "partNo": "TRN-STR-WG-003",
+    "makerRemarks": "BOC/Linde"
+   },
+   {
+    "label": "Cutting/Grinding Disc - Box",
+    "level": 4,
+    "category": "Consumable / Store Item",
+    "partNo": "TRN-STR-WG-004",
+    "makerRemarks": "BOC/Linde"
+   },
+   {
+    "label": "Engine Room General Stores",
+    "level": 2,
+    "category": "Sub-System",
+    "partNo": "",
+    "makerRemarks": ""
+   },
+   {
+    "label": "Gaskets, Packing & Jointing",
+    "level": 3,
+    "category": "Component",
+    "partNo": "",
+    "makerRemarks": ""
+   },
+   {
+    "label": "Jointing Sheet Roll (Klingersil-type)",
+    "level": 4,
+    "category": "Consumable / Store Item",
+    "partNo": "TRN-STR-ER-001",
+    "makerRemarks": "Klinger"
+   },
+   {
+    "label": "Gland Packing / Rope Seal - Roll",
+    "level": 4,
+    "category": "Consumable / Store Item",
+    "partNo": "TRN-STR-ER-002",
+    "makerRemarks": "Klinger"
+   },
+   {
+    "label": "Assorted Gasket Set (O-ring/Copper)",
+    "level": 4,
+    "category": "Consumable / Store Item",
+    "partNo": "TRN-STR-ER-003",
+    "makerRemarks": "Klinger"
+   },
+   {
+    "label": "Tools, PPE & Cleaning Materials",
+    "level": 3,
+    "category": "Component",
+    "partNo": "",
+    "makerRemarks": ""
+   },
+   {
+    "label": "Engine Room Wiping Rags - Bale",
+    "level": 4,
+    "category": "Consumable / Store Item",
+    "partNo": "TRN-STR-ER-004",
+    "makerRemarks": "General Stores"
+   },
+   {
+    "label": "Safety Gloves / Goggles / Ear Muffs - Set",
+    "level": 4,
+    "category": "Consumable / Store Item",
+    "partNo": "TRN-STR-ER-005",
+    "makerRemarks": "General Stores"
+   },
+   {
+    "label": "Wire Brush / Hand Tool Consumables",
+    "level": 4,
+    "category": "Consumable / Store Item",
+    "partNo": "TRN-STR-ER-006",
+    "makerRemarks": "General Stores"
+   },
+   {
+    "label": "Safety Stores - LSA",
+    "level": 2,
+    "category": "Sub-System",
+    "partNo": "",
+    "makerRemarks": ""
+   },
+   {
+    "label": "Life Saving Appliances",
+    "level": 3,
+    "category": "Component",
+    "partNo": "",
+    "makerRemarks": ""
+   },
+   {
+    "label": "Lifebuoy (SOLAS)",
+    "level": 4,
+    "category": "Consumable / Store Item",
+    "partNo": "TRN-STR-LSA-001",
+    "makerRemarks": "Viking/RFD"
+   },
+   {
+    "label": "Lifejacket (SOLAS)",
+    "level": 4,
+    "category": "Consumable / Store Item",
+    "partNo": "TRN-STR-LSA-002",
+    "makerRemarks": "Viking/RFD"
+   },
+   {
+    "label": "Immersion Suit",
+    "level": 4,
+    "category": "Consumable / Store Item",
+    "partNo": "TRN-STR-LSA-003",
+    "makerRemarks": "Viking/RFD"
+   },
+   {
+    "label": "EPIRB Battery",
+    "level": 4,
+    "category": "Consumable / Store Item",
+    "partNo": "TRN-STR-LSA-004",
+    "makerRemarks": "Viking/RFD"
+   },
+   {
+    "label": "Pyrotechnics - Rocket Parachute Flares (Set)",
+    "level": 4,
+    "category": "Consumable / Store Item",
+    "partNo": "TRN-STR-LSA-005",
+    "makerRemarks": "Viking/RFD"
+   },
+   {
+    "label": "Safety Stores - FFA",
+    "level": 2,
+    "category": "Sub-System",
+    "partNo": "",
+    "makerRemarks": ""
+   },
+   {
+    "label": "Fire Fighting Appliances",
+    "level": 3,
+    "category": "Component",
+    "partNo": "",
+    "makerRemarks": ""
+   },
+   {
+    "label": "Portable CO2 Fire Extinguisher",
+    "level": 4,
+    "category": "Consumable / Store Item",
+    "partNo": "TRN-STR-FFA-001",
+    "makerRemarks": "Kidde/Skum"
+   },
+   {
+    "label": "Portable Dry Powder Fire Extinguisher",
+    "level": 4,
+    "category": "Consumable / Store Item",
+    "partNo": "TRN-STR-FFA-002",
+    "makerRemarks": "Kidde/Skum"
+   },
+   {
+    "label": "Foam Concentrate - 25L Drum",
+    "level": 4,
+    "category": "Consumable / Store Item",
+    "partNo": "TRN-STR-FFA-003",
+    "makerRemarks": "Kidde/Skum"
+   },
+   {
+    "label": "SCBA Air Cylinder (Refill)",
+    "level": 4,
+    "category": "Consumable / Store Item",
+    "partNo": "TRN-STR-FFA-004",
+    "makerRemarks": "Kidde/Skum"
+   },
+   {
+    "label": "Fireman's Outfit (Complete Set)",
+    "level": 4,
+    "category": "Consumable / Store Item",
+    "partNo": "TRN-STR-FFA-005",
+    "makerRemarks": "Kidde/Skum"
+   },
+   {
+    "label": "Bosun / Deck Stores",
+    "level": 2,
+    "category": "Sub-System",
+    "partNo": "",
+    "makerRemarks": ""
+   },
+   {
+    "label": "Ropes, Wires & Rigging",
+    "level": 3,
+    "category": "Component",
+    "partNo": "",
+    "makerRemarks": ""
+   },
+   {
+    "label": "Mooring Rope (Polypropylene) - Coil",
+    "level": 4,
+    "category": "Consumable / Store Item",
+    "partNo": "TRN-STR-BS-001",
+    "makerRemarks": "Bridon/Bexco"
+   },
+   {
+    "label": "Mooring Wire Rope - Reel",
+    "level": 4,
+    "category": "Consumable / Store Item",
+    "partNo": "TRN-STR-BS-002",
+    "makerRemarks": "Bridon/Bexco"
+   },
+   {
+    "label": "D-Shackle / Bow Shackle - Set",
+    "level": 4,
+    "category": "Consumable / Store Item",
+    "partNo": "TRN-STR-BS-003",
+    "makerRemarks": "Bridon/Bexco"
+   },
+   {
+    "label": "Paint Brushes & Rollers - Set",
+    "level": 4,
+    "category": "Consumable / Store Item",
+    "partNo": "TRN-STR-BS-004",
+    "makerRemarks": "General Stores"
+   },
+   {
+    "label": "Stationery & General Stores",
+    "level": 2,
+    "category": "Sub-System",
+    "partNo": "",
+    "makerRemarks": ""
+   },
+   {
+    "label": "Record Books & Office Stationery",
+    "level": 3,
+    "category": "Component",
+    "partNo": "",
+    "makerRemarks": ""
+   },
+   {
+    "label": "Engine/Deck Log Book",
+    "level": 4,
+    "category": "Consumable / Store Item",
+    "partNo": "TRN-STR-ST-001",
+    "makerRemarks": "General Stores"
+   },
+   {
+    "label": "Oil Record Book",
+    "level": 4,
+    "category": "Consumable / Store Item",
+    "partNo": "TRN-STR-ST-002",
+    "makerRemarks": "General Stores"
+   },
+   {
+    "label": "Printer Paper / Toner / Stationery Set",
+    "level": 4,
+    "category": "Consumable / Store Item",
+    "partNo": "TRN-STR-ST-003",
+    "makerRemarks": "General Stores"
+   },
+   {
+    "label": "Provisions & Catering Stores",
+    "level": 2,
+    "category": "Sub-System",
+    "partNo": "",
+    "makerRemarks": ""
+   },
+   {
+    "label": "Dry / Frozen Provisions & Galley Consumables",
+    "level": 3,
+    "category": "Component",
+    "partNo": "",
+    "makerRemarks": ""
+   },
+   {
+    "label": "Dry Provisions - Assorted",
+    "level": 4,
+    "category": "Consumable / Store Item",
+    "partNo": "TRN-STR-PR-001",
+    "makerRemarks": "General Stores"
+   },
+   {
+    "label": "Frozen Provisions - Assorted",
+    "level": 4,
+    "category": "Consumable / Store Item",
+    "partNo": "TRN-STR-PR-002",
+    "makerRemarks": "General Stores"
+   },
+   {
+    "label": "Galley Cleaning & Catering Consumables",
+    "level": 4,
+    "category": "Consumable / Store Item",
+    "partNo": "TRN-STR-PR-003",
+    "makerRemarks": "General Stores"
+   }
+  ]
+ },
+ {
+  "owner": "mv_superintendent",
+  "title": "MV Oasis  \u2014  Container Ship",
+  "label": "[MV Oasis] MV Oasis",
+  "nodes": [
+   {
+    "label": "Main Propulsion Engine (Wartsila 12RT-flex96C)",
+    "level": 1,
+    "category": "Major System",
+    "partNo": "",
+    "makerRemarks": ""
+   },
+   {
+    "label": "Fuel Injection System",
+    "level": 2,
+    "category": "Sub-System",
+    "partNo": "",
+    "makerRemarks": ""
+   },
+   {
+    "label": "Fuel Injector / Injection Valve",
+    "level": 3,
+    "category": "Component",
+    "partNo": "",
+    "makerRemarks": ""
+   },
+   {
+    "label": "Injector Nozzle",
+    "level": 4,
+    "category": "Spare Part",
+    "partNo": "OAS-ME-FI-001",
+    "makerRemarks": "Wartsila"
+   },
+   {
+    "label": "Nozzle Tip",
+    "level": 4,
+    "category": "Spare Part",
+    "partNo": "OAS-ME-FI-002",
+    "makerRemarks": "Wartsila"
+   },
+   {
+    "label": "Injector Spindle",
+    "level": 4,
+    "category": "Spare Part",
+    "partNo": "OAS-ME-FI-003",
+    "makerRemarks": "Wartsila"
+   },
+   {
+    "label": "Injector Spring",
+    "level": 4,
+    "category": "Spare Part",
+    "partNo": "OAS-ME-FI-004",
+    "makerRemarks": "Wartsila"
+   },
+   {
+    "label": "O-ring / Copper Washer Set",
+    "level": 4,
+    "category": "Spare Part",
+    "partNo": "OAS-ME-FI-005",
+    "makerRemarks": "Wartsila"
+   },
+   {
+    "label": "Fuel Injection Pump",
+    "level": 3,
+    "category": "Component",
+    "partNo": "",
+    "makerRemarks": ""
+   },
+   {
+    "label": "Plunger & Barrel",
+    "level": 4,
+    "category": "Spare Part",
+    "partNo": "OAS-ME-FP-001",
+    "makerRemarks": "Wartsila"
+   },
+   {
+    "label": "Suction Valve",
+    "level": 4,
+    "category": "Spare Part",
+    "partNo": "OAS-ME-FP-002",
+    "makerRemarks": "Wartsila"
+   },
+   {
+    "label": "Delivery Valve",
+    "level": 4,
+    "category": "Spare Part",
+    "partNo": "OAS-ME-FP-003",
+    "makerRemarks": "Wartsila"
+   },
+   {
+    "label": "VIT Actuator Seal Kit",
+    "level": 4,
+    "category": "Spare Part",
+    "partNo": "OAS-ME-FP-004",
+    "makerRemarks": "Wartsila"
+   },
+   {
+    "label": "Cylinder Unit",
+    "level": 2,
+    "category": "Sub-System",
+    "partNo": "",
+    "makerRemarks": ""
+   },
+   {
+    "label": "Cylinder Liner",
+    "level": 3,
+    "category": "Component",
+    "partNo": "",
+    "makerRemarks": ""
+   },
+   {
+    "label": "Cylinder Liner",
+    "level": 4,
+    "category": "Spare Part",
+    "partNo": "OAS-ME-CL-001",
+    "makerRemarks": "Wartsila"
+   },
+   {
+    "label": "Liner O-ring Set",
+    "level": 4,
+    "category": "Spare Part",
+    "partNo": "OAS-ME-CL-002",
+    "makerRemarks": "Wartsila"
+   },
+   {
+    "label": "Anti-Polishing Ring",
+    "level": 4,
+    "category": "Spare Part",
+    "partNo": "OAS-ME-CL-003",
+    "makerRemarks": "Wartsila"
+   },
+   {
+    "label": "Piston Assembly",
+    "level": 3,
+    "category": "Component",
+    "partNo": "",
+    "makerRemarks": ""
+   },
+   {
+    "label": "Piston Crown",
+    "level": 4,
+    "category": "Spare Part",
+    "partNo": "OAS-ME-PA-001",
+    "makerRemarks": "Wartsila"
+   },
+   {
+    "label": "Piston Ring Set",
+    "level": 4,
+    "category": "Spare Part",
+    "partNo": "OAS-ME-PA-002",
+    "makerRemarks": "Wartsila"
+   },
+   {
+    "label": "Piston Rod",
+    "level": 4,
+    "category": "Spare Part",
+    "partNo": "OAS-ME-PA-003",
+    "makerRemarks": "Wartsila"
+   },
+   {
+    "label": "Stuffing Box Sealing Ring Set",
+    "level": 4,
+    "category": "Spare Part",
+    "partNo": "OAS-ME-PA-004",
+    "makerRemarks": "Wartsila"
+   },
+   {
+    "label": "Cylinder Cover",
+    "level": 3,
+    "category": "Component",
+    "partNo": "",
+    "makerRemarks": ""
+   },
+   {
+    "label": "Exhaust Valve Spindle",
+    "level": 4,
+    "category": "Spare Part",
+    "partNo": "OAS-ME-CC-001",
+    "makerRemarks": "Wartsila"
+   },
+   {
+    "label": "Exhaust Valve Seat",
+    "level": 4,
+    "category": "Spare Part",
+    "partNo": "OAS-ME-CC-002",
+    "makerRemarks": "Wartsila"
+   },
+   {
+    "label": "Rotocap",
+    "level": 4,
+    "category": "Spare Part",
+    "partNo": "OAS-ME-CC-003",
+    "makerRemarks": "Wartsila"
+   },
+   {
+    "label": "Cylinder Cover Gasket",
+    "level": 4,
+    "category": "Spare Part",
+    "partNo": "OAS-ME-CC-004",
+    "makerRemarks": "Wartsila"
+   },
+   {
+    "label": "Turbocharger",
+    "level": 2,
+    "category": "Sub-System",
+    "partNo": "",
+    "makerRemarks": ""
+   },
+   {
+    "label": "Rotor & Bearings",
+    "level": 3,
+    "category": "Component",
+    "partNo": "",
+    "makerRemarks": ""
+   },
+   {
+    "label": "Radial Bearing Set",
+    "level": 4,
+    "category": "Spare Part",
+    "partNo": "OAS-ME-TC-001",
+    "makerRemarks": "Wartsila"
+   },
+   {
+    "label": "Thrust Bearing Set",
+    "level": 4,
+    "category": "Spare Part",
+    "partNo": "OAS-ME-TC-002",
+    "makerRemarks": "Wartsila"
+   },
+   {
+    "label": "Sealing Air Filter",
+    "level": 4,
+    "category": "Spare Part",
+    "partNo": "OAS-ME-TC-003",
+    "makerRemarks": "Wartsila"
+   },
+   {
+    "label": "Compressor & Turbine Side",
+    "level": 3,
+    "category": "Component",
+    "partNo": "",
+    "makerRemarks": ""
+   },
+   {
+    "label": "Compressor Wheel Cleaning Nozzle",
+    "level": 4,
+    "category": "Spare Part",
+    "partNo": "OAS-ME-TC-004",
+    "makerRemarks": "Wartsila"
+   },
+   {
+    "label": "Turbine Blade Set",
+    "level": 4,
+    "category": "Spare Part",
+    "partNo": "OAS-ME-TC-005",
+    "makerRemarks": "Wartsila"
+   },
+   {
+    "label": "Silencer Element",
+    "level": 4,
+    "category": "Spare Part",
+    "partNo": "OAS-ME-TC-006",
+    "makerRemarks": "Wartsila"
+   },
+   {
+    "label": "Crankshaft & Running Gear",
+    "level": 2,
+    "category": "Sub-System",
+    "partNo": "",
+    "makerRemarks": ""
+   },
+   {
+    "label": "Main Bearing",
+    "level": 3,
+    "category": "Component",
+    "partNo": "",
+    "makerRemarks": ""
+   },
+   {
+    "label": "Main Bearing Shell (Upper)",
+    "level": 4,
+    "category": "Spare Part",
+    "partNo": "OAS-ME-CS-001",
+    "makerRemarks": "Wartsila"
+   },
+   {
+    "label": "Main Bearing Shell (Lower)",
+    "level": 4,
+    "category": "Spare Part",
+    "partNo": "OAS-ME-CS-002",
+    "makerRemarks": "Wartsila"
+   },
+   {
+    "label": "Thrust Pad Segment",
+    "level": 4,
+    "category": "Spare Part",
+    "partNo": "OAS-ME-CS-003",
+    "makerRemarks": "Wartsila"
+   },
+   {
+    "label": "Crosshead Bearing",
+    "level": 3,
+    "category": "Component",
+    "partNo": "",
+    "makerRemarks": ""
+   },
+   {
+    "label": "Bottom End Bearing Shell",
+    "level": 4,
+    "category": "Spare Part",
+    "partNo": "OAS-ME-CH-001",
+    "makerRemarks": "Wartsila"
+   },
+   {
+    "label": "Guide Shoe",
+    "level": 4,
+    "category": "Spare Part",
+    "partNo": "OAS-ME-CH-002",
+    "makerRemarks": "Wartsila"
+   },
+   {
+    "label": "Lubricating Oil System",
+    "level": 2,
+    "category": "Sub-System",
+    "partNo": "",
+    "makerRemarks": ""
+   },
+   {
+    "label": "LO Pump",
+    "level": 3,
+    "category": "Component",
+    "partNo": "",
+    "makerRemarks": ""
+   },
+   {
+    "label": "Gear Set / Impeller",
+    "level": 4,
+    "category": "Spare Part",
+    "partNo": "OAS-ME-LO-001",
+    "makerRemarks": "Wartsila"
+   },
+   {
+    "label": "Mechanical Seal",
+    "level": 4,
+    "category": "Spare Part",
+    "partNo": "OAS-ME-LO-002",
+    "makerRemarks": "Wartsila"
+   },
+   {
+    "label": "Relief Valve",
+    "level": 4,
+    "category": "Spare Part",
+    "partNo": "OAS-ME-LO-003",
+    "makerRemarks": "Wartsila"
+   },
+   {
+    "label": "LO Cooler & Filter",
+    "level": 3,
+    "category": "Component",
+    "partNo": "",
+    "makerRemarks": ""
+   },
+   {
+    "label": "Cooler Plate / Gasket Set",
+    "level": 4,
+    "category": "Spare Part",
+    "partNo": "OAS-ME-LO-004",
+    "makerRemarks": "Wartsila"
+   },
+   {
+    "label": "Duplex Filter Element",
+    "level": 4,
+    "category": "Spare Part",
+    "partNo": "OAS-ME-LO-005",
+    "makerRemarks": "Wartsila"
+   },
+   {
+    "label": "Auto Backflush Filter Cartridge",
+    "level": 4,
+    "category": "Spare Part",
+    "partNo": "OAS-ME-LO-006",
+    "makerRemarks": "Wartsila"
+   },
+   {
+    "label": "Auxiliary Diesel Generators (4 x Caterpillar C280-6)",
+    "level": 1,
+    "category": "Major System",
+    "partNo": "",
+    "makerRemarks": ""
+   },
+   {
+    "label": "Fuel System",
+    "level": 2,
+    "category": "Sub-System",
+    "partNo": "",
+    "makerRemarks": ""
+   },
+   {
+    "label": "Injector & Fuel Pump",
+    "level": 3,
+    "category": "Component",
+    "partNo": "",
+    "makerRemarks": ""
+   },
+   {
+    "label": "Injector Nozzle",
+    "level": 4,
+    "category": "Spare Part",
+    "partNo": "OAS-AE-FS-001",
+    "makerRemarks": "Caterpillar"
+   },
+   {
+    "label": "Fuel Pump Element",
+    "level": 4,
+    "category": "Spare Part",
+    "partNo": "OAS-AE-FS-002",
+    "makerRemarks": "Caterpillar"
+   },
+   {
+    "label": "Fuel Filter Element",
+    "level": 4,
+    "category": "Spare Part",
+    "partNo": "OAS-AE-FS-003",
+    "makerRemarks": "Caterpillar"
+   },
+   {
+    "label": "Delivery Valve",
+    "level": 4,
+    "category": "Spare Part",
+    "partNo": "OAS-AE-FS-004",
+    "makerRemarks": "Caterpillar"
+   },
+   {
+    "label": "Cooling Water System",
+    "level": 2,
+    "category": "Sub-System",
+    "partNo": "",
+    "makerRemarks": ""
+   },
+   {
+    "label": "Pumps & Cooler",
+    "level": 3,
+    "category": "Component",
+    "partNo": "",
+    "makerRemarks": ""
+   },
+   {
+    "label": "FW Pump Mechanical Seal",
+    "level": 4,
+    "category": "Spare Part",
+    "partNo": "OAS-AE-CW-001",
+    "makerRemarks": "Caterpillar"
+   },
+   {
+    "label": "Thermostatic Valve Element",
+    "level": 4,
+    "category": "Spare Part",
+    "partNo": "OAS-AE-CW-002",
+    "makerRemarks": "Caterpillar"
+   },
+   {
+    "label": "HT/LT Cooler Gasket Set",
+    "level": 4,
+    "category": "Spare Part",
+    "partNo": "OAS-AE-CW-003",
+    "makerRemarks": "Caterpillar"
+   },
+   {
+    "label": "Turbocharger",
+    "level": 2,
+    "category": "Sub-System",
+    "partNo": "",
+    "makerRemarks": ""
+   },
+   {
+    "label": "Bearing & Cartridge",
+    "level": 3,
+    "category": "Component",
+    "partNo": "",
+    "makerRemarks": ""
+   },
+   {
+    "label": "Bearing Cartridge Kit",
+    "level": 4,
+    "category": "Spare Part",
+    "partNo": "OAS-AE-TC-001",
+    "makerRemarks": "Caterpillar"
+   },
+   {
+    "label": "Compressor Cleaning Nozzle",
+    "level": 4,
+    "category": "Spare Part",
+    "partNo": "OAS-AE-TC-002",
+    "makerRemarks": "Caterpillar"
+   },
+   {
+    "label": "Auxiliary Boiler (Aalborg)",
+    "level": 1,
+    "category": "Major System",
+    "partNo": "",
+    "makerRemarks": ""
+   },
+   {
+    "label": "Burner Unit",
+    "level": 2,
+    "category": "Sub-System",
+    "partNo": "",
+    "makerRemarks": ""
+   },
+   {
+    "label": "Burner Assembly",
+    "level": 3,
+    "category": "Component",
+    "partNo": "",
+    "makerRemarks": ""
+   },
+   {
+    "label": "Atomizer / Nozzle",
+    "level": 4,
+    "category": "Spare Part",
+    "partNo": "OAS-BLR-BN-001",
+    "makerRemarks": "Aalborg"
+   },
+   {
+    "label": "Ignition Electrode",
+    "level": 4,
+    "category": "Spare Part",
+    "partNo": "OAS-BLR-BN-002",
+    "makerRemarks": "Aalborg"
+   },
+   {
+    "label": "Solenoid Valve",
+    "level": 4,
+    "category": "Spare Part",
+    "partNo": "OAS-BLR-BN-003",
+    "makerRemarks": "Aalborg"
+   },
+   {
+    "label": "Photocell / Flame Sensor",
+    "level": 4,
+    "category": "Spare Part",
+    "partNo": "OAS-BLR-BN-004",
+    "makerRemarks": "Aalborg"
+   },
+   {
+    "label": "Feed Water System",
+    "level": 2,
+    "category": "Sub-System",
+    "partNo": "",
+    "makerRemarks": ""
+   },
+   {
+    "label": "Feed Pump & Fittings",
+    "level": 3,
+    "category": "Component",
+    "partNo": "",
+    "makerRemarks": ""
+   },
+   {
+    "label": "Feed Pump Mechanical Seal",
+    "level": 4,
+    "category": "Spare Part",
+    "partNo": "OAS-BLR-FW-001",
+    "makerRemarks": "Aalborg"
+   },
+   {
+    "label": "Feed Check Valve",
+    "level": 4,
+    "category": "Spare Part",
+    "partNo": "OAS-BLR-FW-002",
+    "makerRemarks": "Aalborg"
+   },
+   {
+    "label": "Water Level Gauge Glass",
+    "level": 4,
+    "category": "Spare Part",
+    "partNo": "OAS-BLR-FW-003",
+    "makerRemarks": "Aalborg"
+   },
+   {
+    "label": "Steering Gear (Kawasaki)",
+    "level": 1,
+    "category": "Major System",
+    "partNo": "",
+    "makerRemarks": ""
+   },
+   {
+    "label": "Hydraulic Power Unit",
+    "level": 2,
+    "category": "Sub-System",
+    "partNo": "",
+    "makerRemarks": ""
+   },
+   {
+    "label": "Hydraulic Pump",
+    "level": 3,
+    "category": "Component",
+    "partNo": "",
+    "makerRemarks": ""
+   },
+   {
+    "label": "Variable Displacement Pump Seal Kit",
+    "level": 4,
+    "category": "Spare Part",
+    "partNo": "OAS-STG-HP-001",
+    "makerRemarks": "Kawasaki"
+   },
+   {
+    "label": "Relief Valve",
+    "level": 4,
+    "category": "Spare Part",
+    "partNo": "OAS-STG-HP-002",
+    "makerRemarks": "Kawasaki"
+   },
+   {
+    "label": "Solenoid Valve",
+    "level": 4,
+    "category": "Spare Part",
+    "partNo": "OAS-STG-HP-003",
+    "makerRemarks": "Kawasaki"
+   },
+   {
+    "label": "Rudder Actuator",
+    "level": 2,
+    "category": "Sub-System",
+    "partNo": "",
+    "makerRemarks": ""
+   },
+   {
+    "label": "Rotary Vane Actuator",
+    "level": 3,
+    "category": "Component",
+    "partNo": "",
+    "makerRemarks": ""
+   },
+   {
+    "label": "Vane Seal Kit",
+    "level": 4,
+    "category": "Spare Part",
+    "partNo": "OAS-STG-RV-001",
+    "makerRemarks": "Kawasaki"
+   },
+   {
+    "label": "O-ring Set",
+    "level": 4,
+    "category": "Spare Part",
+    "partNo": "OAS-STG-RV-002",
+    "makerRemarks": "Kawasaki"
+   },
+   {
+    "label": "Deck Machinery (Rapp Marine)",
+    "level": 1,
+    "category": "Major System",
+    "partNo": "",
+    "makerRemarks": ""
+   },
+   {
+    "label": "Windlass / Mooring Winch",
+    "level": 2,
+    "category": "Sub-System",
+    "partNo": "",
+    "makerRemarks": ""
+   },
+   {
+    "label": "Winch Drive",
+    "level": 3,
+    "category": "Component",
+    "partNo": "",
+    "makerRemarks": ""
+   },
+   {
+    "label": "Hydraulic Motor",
+    "level": 4,
+    "category": "Spare Part",
+    "partNo": "OAS-DM-WM-001",
+    "makerRemarks": "Rapp Marine"
+   },
+   {
+    "label": "Brake Band Lining",
+    "level": 4,
+    "category": "Spare Part",
+    "partNo": "OAS-DM-WM-002",
+    "makerRemarks": "Rapp Marine"
+   },
+   {
+    "label": "Gear Oil Seal Set",
+    "level": 4,
+    "category": "Spare Part",
+    "partNo": "OAS-DM-WM-003",
+    "makerRemarks": "Rapp Marine"
+   },
+   {
+    "label": "Anchor & Chain",
+    "level": 2,
+    "category": "Sub-System",
+    "partNo": "",
+    "makerRemarks": ""
+   },
+   {
+    "label": "Chain Fittings",
+    "level": 3,
+    "category": "Component",
+    "partNo": "",
+    "makerRemarks": ""
+   },
+   {
+    "label": "Kenter Shackle",
+    "level": 4,
+    "category": "Spare Part",
+    "partNo": "OAS-DM-AC-001",
+    "makerRemarks": "Rapp Marine"
+   },
+   {
+    "label": "Swivel Piece",
+    "level": 4,
+    "category": "Spare Part",
+    "partNo": "OAS-DM-AC-002",
+    "makerRemarks": "Rapp Marine"
+   },
+   {
+    "label": "Fresh Water Generator (Alfa Laval)",
+    "level": 1,
+    "category": "Major System",
+    "partNo": "",
+    "makerRemarks": ""
+   },
+   {
+    "label": "Evaporator",
+    "level": 2,
+    "category": "Sub-System",
+    "partNo": "",
+    "makerRemarks": ""
+   },
+   {
+    "label": "Plate Pack",
+    "level": 3,
+    "category": "Component",
+    "partNo": "",
+    "makerRemarks": ""
+   },
+   {
+    "label": "Titanium Plate Set",
+    "level": 4,
+    "category": "Spare Part",
+    "partNo": "OAS-FWG-EV-001",
+    "makerRemarks": "Alfa Laval"
+   },
+   {
+    "label": "Plate Gasket Set",
+    "level": 4,
+    "category": "Spare Part",
+    "partNo": "OAS-FWG-EV-002",
+    "makerRemarks": "Alfa Laval"
+   },
+   {
+    "label": "Ejector / Vacuum System",
+    "level": 2,
+    "category": "Sub-System",
+    "partNo": "",
+    "makerRemarks": ""
+   },
+   {
+    "label": "Ejector Pump",
+    "level": 3,
+    "category": "Component",
+    "partNo": "",
+    "makerRemarks": ""
+   },
+   {
+    "label": "Mechanical Seal",
+    "level": 4,
+    "category": "Spare Part",
+    "partNo": "OAS-FWG-EJ-001",
+    "makerRemarks": "Alfa Laval"
+   },
+   {
+    "label": "Impeller",
+    "level": 4,
+    "category": "Spare Part",
+    "partNo": "OAS-FWG-EJ-002",
+    "makerRemarks": "Alfa Laval"
+   },
+   {
+    "label": "Air Compressor - Main & Service (Sperre)",
+    "level": 1,
+    "category": "Major System",
+    "partNo": "",
+    "makerRemarks": ""
+   },
+   {
+    "label": "Compressor Unit",
+    "level": 2,
+    "category": "Sub-System",
+    "partNo": "",
+    "makerRemarks": ""
+   },
+   {
+    "label": "Cylinder Assembly",
+    "level": 3,
+    "category": "Component",
+    "partNo": "",
+    "makerRemarks": ""
+   },
+   {
+    "label": "Piston Ring Set",
+    "level": 4,
+    "category": "Spare Part",
+    "partNo": "OAS-AC-CU-001",
+    "makerRemarks": "Sperre"
+   },
+   {
+    "label": "Valve Plate Set",
+    "level": 4,
+    "category": "Spare Part",
+    "partNo": "OAS-AC-CU-002",
+    "makerRemarks": "Sperre"
+   },
+   {
+    "label": "Air Filter Element",
+    "level": 4,
+    "category": "Spare Part",
+    "partNo": "OAS-AC-CU-003",
+    "makerRemarks": "Sperre"
+   },
+   {
+    "label": "FO & LO Purifiers (Alfa Laval)",
+    "level": 1,
+    "category": "Major System",
+    "partNo": "",
+    "makerRemarks": ""
+   },
+   {
+    "label": "Bowl Assembly",
+    "level": 2,
+    "category": "Sub-System",
+    "partNo": "",
+    "makerRemarks": ""
+   },
+   {
+    "label": "Separator Bowl",
+    "level": 3,
+    "category": "Component",
+    "partNo": "",
+    "makerRemarks": ""
+   },
+   {
+    "label": "Gravity Disc Set",
+    "level": 4,
+    "category": "Spare Part",
+    "partNo": "OAS-PUR-BW-001",
+    "makerRemarks": "Alfa Laval"
+   },
+   {
+    "label": "O-ring / Gasket Kit",
+    "level": 4,
+    "category": "Spare Part",
+    "partNo": "OAS-PUR-BW-002",
+    "makerRemarks": "Alfa Laval"
+   },
+   {
+    "label": "Sliding Bowl Bottom Seal Ring",
+    "level": 4,
+    "category": "Spare Part",
+    "partNo": "OAS-PUR-BW-003",
+    "makerRemarks": "Alfa Laval"
+   },
+   {
+    "label": "Ballast / Bilge / GS Pumps (Framo)",
+    "level": 1,
+    "category": "Major System",
+    "partNo": "",
+    "makerRemarks": ""
+   },
+   {
+    "label": "Centrifugal Pumps",
+    "level": 2,
+    "category": "Sub-System",
+    "partNo": "",
+    "makerRemarks": ""
+   },
+   {
+    "label": "Pump Assembly",
+    "level": 3,
+    "category": "Component",
+    "partNo": "",
+    "makerRemarks": ""
+   },
+   {
+    "label": "Mechanical Seal",
+    "level": 4,
+    "category": "Spare Part",
+    "partNo": "OAS-PMP-CP-001",
+    "makerRemarks": "Framo"
+   },
+   {
+    "label": "Impeller",
+    "level": 4,
+    "category": "Spare Part",
+    "partNo": "OAS-PMP-CP-002",
+    "makerRemarks": "Framo"
+   },
+   {
+    "label": "Wear Ring",
+    "level": 4,
+    "category": "Spare Part",
+    "partNo": "OAS-PMP-CP-003",
+    "makerRemarks": "Framo"
+   },
+   {
+    "label": "Fire Fighting System (Skum)",
+    "level": 1,
+    "category": "Major System",
+    "partNo": "",
+    "makerRemarks": ""
+   },
+   {
+    "label": "Fire Pump",
+    "level": 2,
+    "category": "Sub-System",
+    "partNo": "",
+    "makerRemarks": ""
+   },
+   {
+    "label": "Pump Assembly",
+    "level": 3,
+    "category": "Component",
+    "partNo": "",
+    "makerRemarks": ""
+   },
+   {
+    "label": "Mechanical Seal",
+    "level": 4,
+    "category": "Spare Part",
+    "partNo": "OAS-FF-FP-001",
+    "makerRemarks": "Skum"
+   },
+   {
+    "label": "Impeller",
+    "level": 4,
+    "category": "Spare Part",
+    "partNo": "OAS-FF-FP-002",
+    "makerRemarks": "Skum"
+   },
+   {
+    "label": "CO2 / Foam System",
+    "level": 2,
+    "category": "Sub-System",
+    "partNo": "",
+    "makerRemarks": ""
+   },
+   {
+    "label": "Release & Nozzles",
+    "level": 3,
+    "category": "Component",
+    "partNo": "",
+    "makerRemarks": ""
+   },
+   {
+    "label": "Cylinder Release Valve",
+    "level": 4,
+    "category": "Spare Part",
+    "partNo": "OAS-FF-CO2-001",
+    "makerRemarks": "Skum"
+   },
+   {
+    "label": "Discharge Nozzle",
+    "level": 4,
+    "category": "Spare Part",
+    "partNo": "OAS-FF-CO2-002",
+    "makerRemarks": "Skum"
+   },
+   {
+    "label": "Reefer Container Plant (Daikin StarCool Integral)",
+    "level": 1,
+    "category": "Major System",
+    "partNo": "",
+    "makerRemarks": ""
+   },
+   {
+    "label": "Compressor Unit",
+    "level": 2,
+    "category": "Sub-System",
+    "partNo": "",
+    "makerRemarks": ""
+   },
+   {
+    "label": "Compressor Assembly",
+    "level": 3,
+    "category": "Component",
+    "partNo": "",
+    "makerRemarks": ""
+   },
+   {
+    "label": "Suction Valve Plate",
+    "level": 4,
+    "category": "Spare Part",
+    "partNo": "OAS-RF-CP-001",
+    "makerRemarks": "Daikin"
+   },
+   {
+    "label": "Discharge Valve Plate",
+    "level": 4,
+    "category": "Spare Part",
+    "partNo": "OAS-RF-CP-002",
+    "makerRemarks": "Daikin"
+   },
+   {
+    "label": "Gasket Kit",
+    "level": 4,
+    "category": "Spare Part",
+    "partNo": "OAS-RF-CP-003",
+    "makerRemarks": "Daikin"
+   },
+   {
+    "label": "Condenser / Evaporator",
+    "level": 2,
+    "category": "Sub-System",
+    "partNo": "",
+    "makerRemarks": ""
+   },
+   {
+    "label": "Heat Exchanger Unit",
+    "level": 3,
+    "category": "Component",
+    "partNo": "",
+    "makerRemarks": ""
+   },
+   {
+    "label": "Condenser Fan Motor",
+    "level": 4,
+    "category": "Spare Part",
+    "partNo": "OAS-RF-CE-001",
+    "makerRemarks": "Daikin"
+   },
+   {
+    "label": "Evaporator Coil",
+    "level": 4,
+    "category": "Spare Part",
+    "partNo": "OAS-RF-CE-002",
+    "makerRemarks": "Daikin"
+   },
+   {
+    "label": "Container Lashing System (Kuo Cheng)",
+    "level": 1,
+    "category": "Major System",
+    "partNo": "",
+    "makerRemarks": ""
+   },
+   {
+    "label": "Twistlocks & Lashing Rods",
+    "level": 2,
+    "category": "Sub-System",
+    "partNo": "",
+    "makerRemarks": ""
+   },
+   {
+    "label": "Securing Fittings",
+    "level": 3,
+    "category": "Component",
+    "partNo": "",
+    "makerRemarks": ""
+   },
+   {
+    "label": "Twistlock (Semi-Automatic)",
+    "level": 4,
+    "category": "Spare Part",
+    "partNo": "OAS-LSH-TW-001",
+    "makerRemarks": "Kuo Cheng"
+   },
+   {
+    "label": "Turnbuckle",
+    "level": 4,
+    "category": "Spare Part",
+    "partNo": "OAS-LSH-TW-002",
+    "makerRemarks": "Kuo Cheng"
+   },
+   {
+    "label": "Lashing Rod",
+    "level": 4,
+    "category": "Spare Part",
+    "partNo": "OAS-LSH-TW-003",
+    "makerRemarks": "Kuo Cheng"
+   },
+   {
+    "label": "Cell Guide System",
+    "level": 1,
+    "category": "Major System",
+    "partNo": "",
+    "makerRemarks": ""
+   },
+   {
+    "label": "Guide Rails",
+    "level": 2,
+    "category": "Sub-System",
+    "partNo": "",
+    "makerRemarks": ""
+   },
+   {
+    "label": "Rail Assembly",
+    "level": 3,
+    "category": "Component",
+    "partNo": "",
+    "makerRemarks": ""
+   },
+   {
+    "label": "Guide Shoe",
+    "level": 4,
+    "category": "Spare Part",
+    "partNo": "OAS-CG-GR-001",
+    "makerRemarks": "MacGregor"
+   },
+   {
+    "label": "Guide Roller",
+    "level": 4,
+    "category": "Spare Part",
+    "partNo": "OAS-CG-GR-002",
+    "makerRemarks": "MacGregor"
+   },
+   {
+    "label": "Stores & Consumables",
+    "level": 1,
+    "category": "Major System",
+    "partNo": "",
+    "makerRemarks": ""
+   },
+   {
+    "label": "Lubricating Oils",
+    "level": 2,
+    "category": "Sub-System",
+    "partNo": "",
+    "makerRemarks": ""
+   },
+   {
+    "label": "System Oil (Main / Aux Engine Sump)",
+    "level": 3,
+    "category": "Component",
+    "partNo": "",
+    "makerRemarks": ""
+   },
+   {
+    "label": "System Oil SAE 30 (TBN 5-10) - 209L Drum",
+    "level": 4,
+    "category": "Consumable / Store Item",
+    "partNo": "OAS-STR-LO-001",
+    "makerRemarks": "Shell/Castrol"
+   },
+   {
+    "label": "Aux Engine Sump Oil SAE 40 - 209L Drum",
+    "level": 4,
+    "category": "Consumable / Store Item",
+    "partNo": "OAS-STR-LO-002",
+    "makerRemarks": "Shell/Castrol"
+   },
+   {
+    "label": "Used Oil Sample Kit / Bottles",
+    "level": 4,
+    "category": "Consumable / Store Item",
+    "partNo": "OAS-STR-LO-003",
+    "makerRemarks": "Shell/Castrol"
+   },
+   {
+    "label": "Cylinder Oil (Main Engine)",
+    "level": 3,
+    "category": "Component",
+    "partNo": "",
+    "makerRemarks": ""
+   },
+   {
+    "label": "Cylinder Oil 70 BN - 209L Drum",
+    "level": 4,
+    "category": "Consumable / Store Item",
+    "partNo": "OAS-STR-LO-004",
+    "makerRemarks": "Shell/Castrol"
+   },
+   {
+    "label": "Cylinder Oil 100 BN - 209L Drum",
+    "level": 4,
+    "category": "Consumable / Store Item",
+    "partNo": "OAS-STR-LO-005",
+    "makerRemarks": "Shell/Castrol"
+   },
+   {
+    "label": "Cylinder Oil Feed Rate Test Kit",
+    "level": 4,
+    "category": "Consumable / Store Item",
+    "partNo": "OAS-STR-LO-006",
+    "makerRemarks": "Shell/Castrol"
+   },
+   {
+    "label": "Turbine & Hydraulic Oils",
+    "level": 3,
+    "category": "Component",
+    "partNo": "",
+    "makerRemarks": ""
+   },
+   {
+    "label": "Turbine Oil ISO VG46 - 209L Drum",
+    "level": 4,
+    "category": "Consumable / Store Item",
+    "partNo": "OAS-STR-LO-007",
+    "makerRemarks": "Shell/Castrol"
+   },
+   {
+    "label": "Hydraulic Oil ISO VG32 - 209L Drum",
+    "level": 4,
+    "category": "Consumable / Store Item",
+    "partNo": "OAS-STR-LO-008",
+    "makerRemarks": "Shell/Castrol"
+   },
+   {
+    "label": "Boiler & Cooling Water Chemicals",
+    "level": 2,
+    "category": "Sub-System",
+    "partNo": "",
+    "makerRemarks": ""
+   },
+   {
+    "label": "Boiler Water Treatment",
+    "level": 3,
+    "category": "Component",
+    "partNo": "",
+    "makerRemarks": ""
+   },
+   {
+    "label": "Boiler Compound (Alkalinity Control) - 25L Drum",
+    "level": 4,
+    "category": "Consumable / Store Item",
+    "partNo": "OAS-STR-CH-001",
+    "makerRemarks": "Drew Marine"
+   },
+   {
+    "label": "Oxygen Scavenger Chemical - 25L Drum",
+    "level": 4,
+    "category": "Consumable / Store Item",
+    "partNo": "OAS-STR-CH-002",
+    "makerRemarks": "Drew Marine"
+   },
+   {
+    "label": "Boiler Water Test Kit",
+    "level": 4,
+    "category": "Consumable / Store Item",
+    "partNo": "OAS-STR-CH-003",
+    "makerRemarks": "Drew Marine"
+   },
+   {
+    "label": "Cooling Water Treatment (Jacket Water)",
+    "level": 3,
+    "category": "Component",
+    "partNo": "",
+    "makerRemarks": ""
+   },
+   {
+    "label": "Nitrite-Based Coolant Treatment - 25L Drum",
+    "level": 4,
+    "category": "Consumable / Store Item",
+    "partNo": "OAS-STR-CH-004",
+    "makerRemarks": "Drew Marine"
+   },
+   {
+    "label": "Coolant Test Strips / Refractometer Kit",
+    "level": 4,
+    "category": "Consumable / Store Item",
+    "partNo": "OAS-STR-CH-005",
+    "makerRemarks": "Drew Marine"
+   },
+   {
+    "label": "Cleaning & Purifier Chemicals",
+    "level": 2,
+    "category": "Sub-System",
+    "partNo": "",
+    "makerRemarks": ""
+   },
+   {
+    "label": "Purifier / Tank Cleaning Chemicals",
+    "level": 3,
+    "category": "Component",
+    "partNo": "",
+    "makerRemarks": ""
+   },
+   {
+    "label": "Purifier Bowl Cleaning Chemical - 25L Drum",
+    "level": 4,
+    "category": "Consumable / Store Item",
+    "partNo": "OAS-STR-CH-006",
+    "makerRemarks": "Unitor"
+   },
+   {
+    "label": "Tank Cleaning Detergent - 25L Drum",
+    "level": 4,
+    "category": "Consumable / Store Item",
+    "partNo": "OAS-STR-CH-007",
+    "makerRemarks": "Unitor"
+   },
+   {
+    "label": "Engine Room Degreaser - 25L Drum",
+    "level": 4,
+    "category": "Consumable / Store Item",
+    "partNo": "OAS-STR-CH-008",
+    "makerRemarks": "Unitor"
+   },
+   {
+    "label": "Paints & Coatings",
+    "level": 2,
+    "category": "Sub-System",
+    "partNo": "",
+    "makerRemarks": ""
+   },
+   {
+    "label": "Hull & Deck Paints",
+    "level": 3,
+    "category": "Component",
+    "partNo": "",
+    "makerRemarks": ""
+   },
+   {
+    "label": "Anti-Corrosive Epoxy Paint - 20L Pail",
+    "level": 4,
+    "category": "Consumable / Store Item",
+    "partNo": "OAS-STR-PT-001",
+    "makerRemarks": "Jotun/Hempel"
+   },
+   {
+    "label": "Anti-Fouling Paint - 20L Pail",
+    "level": 4,
+    "category": "Consumable / Store Item",
+    "partNo": "OAS-STR-PT-002",
+    "makerRemarks": "Jotun/Hempel"
+   },
+   {
+    "label": "Deck Non-Skid Paint - 20L Pail",
+    "level": 4,
+    "category": "Consumable / Store Item",
+    "partNo": "OAS-STR-PT-003",
+    "makerRemarks": "Jotun/Hempel"
+   },
+   {
+    "label": "Paint Thinner - 20L Drum",
+    "level": 4,
+    "category": "Consumable / Store Item",
+    "partNo": "OAS-STR-PT-004",
+    "makerRemarks": "Jotun/Hempel"
+   },
+   {
+    "label": "Welding & Gas Stores",
+    "level": 2,
+    "category": "Sub-System",
+    "partNo": "",
+    "makerRemarks": ""
+   },
+   {
+    "label": "Welding Consumables & Gas Cylinders",
+    "level": 3,
+    "category": "Component",
+    "partNo": "",
+    "makerRemarks": ""
+   },
+   {
+    "label": "Oxygen Cylinder (Industrial)",
+    "level": 4,
+    "category": "Consumable / Store Item",
+    "partNo": "OAS-STR-WG-001",
+    "makerRemarks": "BOC/Linde"
+   },
+   {
+    "label": "Acetylene Cylinder",
+    "level": 4,
+    "category": "Consumable / Store Item",
+    "partNo": "OAS-STR-WG-002",
+    "makerRemarks": "BOC/Linde"
+   },
+   {
+    "label": "Welding Electrodes E6013 - Box",
+    "level": 4,
+    "category": "Consumable / Store Item",
+    "partNo": "OAS-STR-WG-003",
+    "makerRemarks": "BOC/Linde"
+   },
+   {
+    "label": "Cutting/Grinding Disc - Box",
+    "level": 4,
+    "category": "Consumable / Store Item",
+    "partNo": "OAS-STR-WG-004",
+    "makerRemarks": "BOC/Linde"
+   },
+   {
+    "label": "Engine Room General Stores",
+    "level": 2,
+    "category": "Sub-System",
+    "partNo": "",
+    "makerRemarks": ""
+   },
+   {
+    "label": "Gaskets, Packing & Jointing",
+    "level": 3,
+    "category": "Component",
+    "partNo": "",
+    "makerRemarks": ""
+   },
+   {
+    "label": "Jointing Sheet Roll (Klingersil-type)",
+    "level": 4,
+    "category": "Consumable / Store Item",
+    "partNo": "OAS-STR-ER-001",
+    "makerRemarks": "Klinger"
+   },
+   {
+    "label": "Gland Packing / Rope Seal - Roll",
+    "level": 4,
+    "category": "Consumable / Store Item",
+    "partNo": "OAS-STR-ER-002",
+    "makerRemarks": "Klinger"
+   },
+   {
+    "label": "Assorted Gasket Set (O-ring/Copper)",
+    "level": 4,
+    "category": "Consumable / Store Item",
+    "partNo": "OAS-STR-ER-003",
+    "makerRemarks": "Klinger"
+   },
+   {
+    "label": "Tools, PPE & Cleaning Materials",
+    "level": 3,
+    "category": "Component",
+    "partNo": "",
+    "makerRemarks": ""
+   },
+   {
+    "label": "Engine Room Wiping Rags - Bale",
+    "level": 4,
+    "category": "Consumable / Store Item",
+    "partNo": "OAS-STR-ER-004",
+    "makerRemarks": "General Stores"
+   },
+   {
+    "label": "Safety Gloves / Goggles / Ear Muffs - Set",
+    "level": 4,
+    "category": "Consumable / Store Item",
+    "partNo": "OAS-STR-ER-005",
+    "makerRemarks": "General Stores"
+   },
+   {
+    "label": "Wire Brush / Hand Tool Consumables",
+    "level": 4,
+    "category": "Consumable / Store Item",
+    "partNo": "OAS-STR-ER-006",
+    "makerRemarks": "General Stores"
+   },
+   {
+    "label": "Safety Stores - LSA",
+    "level": 2,
+    "category": "Sub-System",
+    "partNo": "",
+    "makerRemarks": ""
+   },
+   {
+    "label": "Life Saving Appliances",
+    "level": 3,
+    "category": "Component",
+    "partNo": "",
+    "makerRemarks": ""
+   },
+   {
+    "label": "Lifebuoy (SOLAS)",
+    "level": 4,
+    "category": "Consumable / Store Item",
+    "partNo": "OAS-STR-LSA-001",
+    "makerRemarks": "Viking/RFD"
+   },
+   {
+    "label": "Lifejacket (SOLAS)",
+    "level": 4,
+    "category": "Consumable / Store Item",
+    "partNo": "OAS-STR-LSA-002",
+    "makerRemarks": "Viking/RFD"
+   },
+   {
+    "label": "Immersion Suit",
+    "level": 4,
+    "category": "Consumable / Store Item",
+    "partNo": "OAS-STR-LSA-003",
+    "makerRemarks": "Viking/RFD"
+   },
+   {
+    "label": "EPIRB Battery",
+    "level": 4,
+    "category": "Consumable / Store Item",
+    "partNo": "OAS-STR-LSA-004",
+    "makerRemarks": "Viking/RFD"
+   },
+   {
+    "label": "Pyrotechnics - Rocket Parachute Flares (Set)",
+    "level": 4,
+    "category": "Consumable / Store Item",
+    "partNo": "OAS-STR-LSA-005",
+    "makerRemarks": "Viking/RFD"
+   },
+   {
+    "label": "Safety Stores - FFA",
+    "level": 2,
+    "category": "Sub-System",
+    "partNo": "",
+    "makerRemarks": ""
+   },
+   {
+    "label": "Fire Fighting Appliances",
+    "level": 3,
+    "category": "Component",
+    "partNo": "",
+    "makerRemarks": ""
+   },
+   {
+    "label": "Portable CO2 Fire Extinguisher",
+    "level": 4,
+    "category": "Consumable / Store Item",
+    "partNo": "OAS-STR-FFA-001",
+    "makerRemarks": "Kidde/Skum"
+   },
+   {
+    "label": "Portable Dry Powder Fire Extinguisher",
+    "level": 4,
+    "category": "Consumable / Store Item",
+    "partNo": "OAS-STR-FFA-002",
+    "makerRemarks": "Kidde/Skum"
+   },
+   {
+    "label": "Foam Concentrate - 25L Drum",
+    "level": 4,
+    "category": "Consumable / Store Item",
+    "partNo": "OAS-STR-FFA-003",
+    "makerRemarks": "Kidde/Skum"
+   },
+   {
+    "label": "SCBA Air Cylinder (Refill)",
+    "level": 4,
+    "category": "Consumable / Store Item",
+    "partNo": "OAS-STR-FFA-004",
+    "makerRemarks": "Kidde/Skum"
+   },
+   {
+    "label": "Fireman's Outfit (Complete Set)",
+    "level": 4,
+    "category": "Consumable / Store Item",
+    "partNo": "OAS-STR-FFA-005",
+    "makerRemarks": "Kidde/Skum"
+   },
+   {
+    "label": "Bosun / Deck Stores",
+    "level": 2,
+    "category": "Sub-System",
+    "partNo": "",
+    "makerRemarks": ""
+   },
+   {
+    "label": "Ropes, Wires & Rigging",
+    "level": 3,
+    "category": "Component",
+    "partNo": "",
+    "makerRemarks": ""
+   },
+   {
+    "label": "Mooring Rope (Polypropylene) - Coil",
+    "level": 4,
+    "category": "Consumable / Store Item",
+    "partNo": "OAS-STR-BS-001",
+    "makerRemarks": "Bridon/Bexco"
+   },
+   {
+    "label": "Mooring Wire Rope - Reel",
+    "level": 4,
+    "category": "Consumable / Store Item",
+    "partNo": "OAS-STR-BS-002",
+    "makerRemarks": "Bridon/Bexco"
+   },
+   {
+    "label": "D-Shackle / Bow Shackle - Set",
+    "level": 4,
+    "category": "Consumable / Store Item",
+    "partNo": "OAS-STR-BS-003",
+    "makerRemarks": "Bridon/Bexco"
+   },
+   {
+    "label": "Paint Brushes & Rollers - Set",
+    "level": 4,
+    "category": "Consumable / Store Item",
+    "partNo": "OAS-STR-BS-004",
+    "makerRemarks": "General Stores"
+   },
+   {
+    "label": "Stationery & General Stores",
+    "level": 2,
+    "category": "Sub-System",
+    "partNo": "",
+    "makerRemarks": ""
+   },
+   {
+    "label": "Record Books & Office Stationery",
+    "level": 3,
+    "category": "Component",
+    "partNo": "",
+    "makerRemarks": ""
+   },
+   {
+    "label": "Engine/Deck Log Book",
+    "level": 4,
+    "category": "Consumable / Store Item",
+    "partNo": "OAS-STR-ST-001",
+    "makerRemarks": "General Stores"
+   },
+   {
+    "label": "Oil Record Book",
+    "level": 4,
+    "category": "Consumable / Store Item",
+    "partNo": "OAS-STR-ST-002",
+    "makerRemarks": "General Stores"
+   },
+   {
+    "label": "Printer Paper / Toner / Stationery Set",
+    "level": 4,
+    "category": "Consumable / Store Item",
+    "partNo": "OAS-STR-ST-003",
+    "makerRemarks": "General Stores"
+   },
+   {
+    "label": "Provisions & Catering Stores",
+    "level": 2,
+    "category": "Sub-System",
+    "partNo": "",
+    "makerRemarks": ""
+   },
+   {
+    "label": "Dry / Frozen Provisions & Galley Consumables",
+    "level": 3,
+    "category": "Component",
+    "partNo": "",
+    "makerRemarks": ""
+   },
+   {
+    "label": "Dry Provisions - Assorted",
+    "level": 4,
+    "category": "Consumable / Store Item",
+    "partNo": "OAS-STR-PR-001",
+    "makerRemarks": "General Stores"
+   },
+   {
+    "label": "Frozen Provisions - Assorted",
+    "level": 4,
+    "category": "Consumable / Store Item",
+    "partNo": "OAS-STR-PR-002",
+    "makerRemarks": "General Stores"
+   },
+   {
+    "label": "Galley Cleaning & Catering Consumables",
+    "level": 4,
+    "category": "Consumable / Store Item",
+    "partNo": "OAS-STR-PR-003",
+    "makerRemarks": "General Stores"
+   }
+  ]
+ },
+ {
+  "owner": "mv_superintendent",
+  "title": "MT Giza  \u2014  Gas Tanker",
+  "label": "[MT Giza] MT Giza",
+  "nodes": [
+   {
+    "label": "Main Propulsion Engine (MAN B&W 5G70ME-GI)",
+    "level": 1,
+    "category": "Major System",
+    "partNo": "",
+    "makerRemarks": ""
+   },
+   {
+    "label": "Fuel Injection System",
+    "level": 2,
+    "category": "Sub-System",
+    "partNo": "",
+    "makerRemarks": ""
+   },
+   {
+    "label": "Fuel Injector / Injection Valve",
+    "level": 3,
+    "category": "Component",
+    "partNo": "",
+    "makerRemarks": ""
+   },
+   {
+    "label": "Injector Nozzle",
+    "level": 4,
+    "category": "Spare Part",
+    "partNo": "GIZ-ME-FI-001",
+    "makerRemarks": "MAN B&W"
+   },
+   {
+    "label": "Nozzle Tip",
+    "level": 4,
+    "category": "Spare Part",
+    "partNo": "GIZ-ME-FI-002",
+    "makerRemarks": "MAN B&W"
+   },
+   {
+    "label": "Injector Spindle",
+    "level": 4,
+    "category": "Spare Part",
+    "partNo": "GIZ-ME-FI-003",
+    "makerRemarks": "MAN B&W"
+   },
+   {
+    "label": "Injector Spring",
+    "level": 4,
+    "category": "Spare Part",
+    "partNo": "GIZ-ME-FI-004",
+    "makerRemarks": "MAN B&W"
+   },
+   {
+    "label": "O-ring / Copper Washer Set",
+    "level": 4,
+    "category": "Spare Part",
+    "partNo": "GIZ-ME-FI-005",
+    "makerRemarks": "MAN B&W"
+   },
+   {
+    "label": "Fuel Injection Pump",
+    "level": 3,
+    "category": "Component",
+    "partNo": "",
+    "makerRemarks": ""
+   },
+   {
+    "label": "Plunger & Barrel",
+    "level": 4,
+    "category": "Spare Part",
+    "partNo": "GIZ-ME-FP-001",
+    "makerRemarks": "MAN B&W"
+   },
+   {
+    "label": "Suction Valve",
+    "level": 4,
+    "category": "Spare Part",
+    "partNo": "GIZ-ME-FP-002",
+    "makerRemarks": "MAN B&W"
+   },
+   {
+    "label": "Delivery Valve",
+    "level": 4,
+    "category": "Spare Part",
+    "partNo": "GIZ-ME-FP-003",
+    "makerRemarks": "MAN B&W"
+   },
+   {
+    "label": "VIT Actuator Seal Kit",
+    "level": 4,
+    "category": "Spare Part",
+    "partNo": "GIZ-ME-FP-004",
+    "makerRemarks": "MAN B&W"
+   },
+   {
+    "label": "Cylinder Unit",
+    "level": 2,
+    "category": "Sub-System",
+    "partNo": "",
+    "makerRemarks": ""
+   },
+   {
+    "label": "Cylinder Liner",
+    "level": 3,
+    "category": "Component",
+    "partNo": "",
+    "makerRemarks": ""
+   },
+   {
+    "label": "Cylinder Liner",
+    "level": 4,
+    "category": "Spare Part",
+    "partNo": "GIZ-ME-CL-001",
+    "makerRemarks": "MAN B&W"
+   },
+   {
+    "label": "Liner O-ring Set",
+    "level": 4,
+    "category": "Spare Part",
+    "partNo": "GIZ-ME-CL-002",
+    "makerRemarks": "MAN B&W"
+   },
+   {
+    "label": "Anti-Polishing Ring",
+    "level": 4,
+    "category": "Spare Part",
+    "partNo": "GIZ-ME-CL-003",
+    "makerRemarks": "MAN B&W"
+   },
+   {
+    "label": "Piston Assembly",
+    "level": 3,
+    "category": "Component",
+    "partNo": "",
+    "makerRemarks": ""
+   },
+   {
+    "label": "Piston Crown",
+    "level": 4,
+    "category": "Spare Part",
+    "partNo": "GIZ-ME-PA-001",
+    "makerRemarks": "MAN B&W"
+   },
+   {
+    "label": "Piston Ring Set",
+    "level": 4,
+    "category": "Spare Part",
+    "partNo": "GIZ-ME-PA-002",
+    "makerRemarks": "MAN B&W"
+   },
+   {
+    "label": "Piston Rod",
+    "level": 4,
+    "category": "Spare Part",
+    "partNo": "GIZ-ME-PA-003",
+    "makerRemarks": "MAN B&W"
+   },
+   {
+    "label": "Stuffing Box Sealing Ring Set",
+    "level": 4,
+    "category": "Spare Part",
+    "partNo": "GIZ-ME-PA-004",
+    "makerRemarks": "MAN B&W"
+   },
+   {
+    "label": "Cylinder Cover",
+    "level": 3,
+    "category": "Component",
+    "partNo": "",
+    "makerRemarks": ""
+   },
+   {
+    "label": "Exhaust Valve Spindle",
+    "level": 4,
+    "category": "Spare Part",
+    "partNo": "GIZ-ME-CC-001",
+    "makerRemarks": "MAN B&W"
+   },
+   {
+    "label": "Exhaust Valve Seat",
+    "level": 4,
+    "category": "Spare Part",
+    "partNo": "GIZ-ME-CC-002",
+    "makerRemarks": "MAN B&W"
+   },
+   {
+    "label": "Rotocap",
+    "level": 4,
+    "category": "Spare Part",
+    "partNo": "GIZ-ME-CC-003",
+    "makerRemarks": "MAN B&W"
+   },
+   {
+    "label": "Cylinder Cover Gasket",
+    "level": 4,
+    "category": "Spare Part",
+    "partNo": "GIZ-ME-CC-004",
+    "makerRemarks": "MAN B&W"
+   },
+   {
+    "label": "Turbocharger",
+    "level": 2,
+    "category": "Sub-System",
+    "partNo": "",
+    "makerRemarks": ""
+   },
+   {
+    "label": "Rotor & Bearings",
+    "level": 3,
+    "category": "Component",
+    "partNo": "",
+    "makerRemarks": ""
+   },
+   {
+    "label": "Radial Bearing Set",
+    "level": 4,
+    "category": "Spare Part",
+    "partNo": "GIZ-ME-TC-001",
+    "makerRemarks": "MAN B&W"
+   },
+   {
+    "label": "Thrust Bearing Set",
+    "level": 4,
+    "category": "Spare Part",
+    "partNo": "GIZ-ME-TC-002",
+    "makerRemarks": "MAN B&W"
+   },
+   {
+    "label": "Sealing Air Filter",
+    "level": 4,
+    "category": "Spare Part",
+    "partNo": "GIZ-ME-TC-003",
+    "makerRemarks": "MAN B&W"
+   },
+   {
+    "label": "Compressor & Turbine Side",
+    "level": 3,
+    "category": "Component",
+    "partNo": "",
+    "makerRemarks": ""
+   },
+   {
+    "label": "Compressor Wheel Cleaning Nozzle",
+    "level": 4,
+    "category": "Spare Part",
+    "partNo": "GIZ-ME-TC-004",
+    "makerRemarks": "MAN B&W"
+   },
+   {
+    "label": "Turbine Blade Set",
+    "level": 4,
+    "category": "Spare Part",
+    "partNo": "GIZ-ME-TC-005",
+    "makerRemarks": "MAN B&W"
+   },
+   {
+    "label": "Silencer Element",
+    "level": 4,
+    "category": "Spare Part",
+    "partNo": "GIZ-ME-TC-006",
+    "makerRemarks": "MAN B&W"
+   },
+   {
+    "label": "Crankshaft & Running Gear",
+    "level": 2,
+    "category": "Sub-System",
+    "partNo": "",
+    "makerRemarks": ""
+   },
+   {
+    "label": "Main Bearing",
+    "level": 3,
+    "category": "Component",
+    "partNo": "",
+    "makerRemarks": ""
+   },
+   {
+    "label": "Main Bearing Shell (Upper)",
+    "level": 4,
+    "category": "Spare Part",
+    "partNo": "GIZ-ME-CS-001",
+    "makerRemarks": "MAN B&W"
+   },
+   {
+    "label": "Main Bearing Shell (Lower)",
+    "level": 4,
+    "category": "Spare Part",
+    "partNo": "GIZ-ME-CS-002",
+    "makerRemarks": "MAN B&W"
+   },
+   {
+    "label": "Thrust Pad Segment",
+    "level": 4,
+    "category": "Spare Part",
+    "partNo": "GIZ-ME-CS-003",
+    "makerRemarks": "MAN B&W"
+   },
+   {
+    "label": "Crosshead Bearing",
+    "level": 3,
+    "category": "Component",
+    "partNo": "",
+    "makerRemarks": ""
+   },
+   {
+    "label": "Bottom End Bearing Shell",
+    "level": 4,
+    "category": "Spare Part",
+    "partNo": "GIZ-ME-CH-001",
+    "makerRemarks": "MAN B&W"
+   },
+   {
+    "label": "Guide Shoe",
+    "level": 4,
+    "category": "Spare Part",
+    "partNo": "GIZ-ME-CH-002",
+    "makerRemarks": "MAN B&W"
+   },
+   {
+    "label": "Lubricating Oil System",
+    "level": 2,
+    "category": "Sub-System",
+    "partNo": "",
+    "makerRemarks": ""
+   },
+   {
+    "label": "LO Pump",
+    "level": 3,
+    "category": "Component",
+    "partNo": "",
+    "makerRemarks": ""
+   },
+   {
+    "label": "Gear Set / Impeller",
+    "level": 4,
+    "category": "Spare Part",
+    "partNo": "GIZ-ME-LO-001",
+    "makerRemarks": "MAN B&W"
+   },
+   {
+    "label": "Mechanical Seal",
+    "level": 4,
+    "category": "Spare Part",
+    "partNo": "GIZ-ME-LO-002",
+    "makerRemarks": "MAN B&W"
+   },
+   {
+    "label": "Relief Valve",
+    "level": 4,
+    "category": "Spare Part",
+    "partNo": "GIZ-ME-LO-003",
+    "makerRemarks": "MAN B&W"
+   },
+   {
+    "label": "LO Cooler & Filter",
+    "level": 3,
+    "category": "Component",
+    "partNo": "",
+    "makerRemarks": ""
+   },
+   {
+    "label": "Cooler Plate / Gasket Set",
+    "level": 4,
+    "category": "Spare Part",
+    "partNo": "GIZ-ME-LO-004",
+    "makerRemarks": "MAN B&W"
+   },
+   {
+    "label": "Duplex Filter Element",
+    "level": 4,
+    "category": "Spare Part",
+    "partNo": "GIZ-ME-LO-005",
+    "makerRemarks": "MAN B&W"
+   },
+   {
+    "label": "Auto Backflush Filter Cartridge",
+    "level": 4,
+    "category": "Spare Part",
+    "partNo": "GIZ-ME-LO-006",
+    "makerRemarks": "MAN B&W"
+   },
+   {
+    "label": "Auxiliary Diesel Generators (4 x Wartsila 6L34DF)",
+    "level": 1,
+    "category": "Major System",
+    "partNo": "",
+    "makerRemarks": ""
+   },
+   {
+    "label": "Fuel System",
+    "level": 2,
+    "category": "Sub-System",
+    "partNo": "",
+    "makerRemarks": ""
+   },
+   {
+    "label": "Injector & Fuel Pump",
+    "level": 3,
+    "category": "Component",
+    "partNo": "",
+    "makerRemarks": ""
+   },
+   {
+    "label": "Injector Nozzle",
+    "level": 4,
+    "category": "Spare Part",
+    "partNo": "GIZ-AE-FS-001",
+    "makerRemarks": "Wartsila"
+   },
+   {
+    "label": "Fuel Pump Element",
+    "level": 4,
+    "category": "Spare Part",
+    "partNo": "GIZ-AE-FS-002",
+    "makerRemarks": "Wartsila"
+   },
+   {
+    "label": "Fuel Filter Element",
+    "level": 4,
+    "category": "Spare Part",
+    "partNo": "GIZ-AE-FS-003",
+    "makerRemarks": "Wartsila"
+   },
+   {
+    "label": "Delivery Valve",
+    "level": 4,
+    "category": "Spare Part",
+    "partNo": "GIZ-AE-FS-004",
+    "makerRemarks": "Wartsila"
+   },
+   {
+    "label": "Cooling Water System",
+    "level": 2,
+    "category": "Sub-System",
+    "partNo": "",
+    "makerRemarks": ""
+   },
+   {
+    "label": "Pumps & Cooler",
+    "level": 3,
+    "category": "Component",
+    "partNo": "",
+    "makerRemarks": ""
+   },
+   {
+    "label": "FW Pump Mechanical Seal",
+    "level": 4,
+    "category": "Spare Part",
+    "partNo": "GIZ-AE-CW-001",
+    "makerRemarks": "Wartsila"
+   },
+   {
+    "label": "Thermostatic Valve Element",
+    "level": 4,
+    "category": "Spare Part",
+    "partNo": "GIZ-AE-CW-002",
+    "makerRemarks": "Wartsila"
+   },
+   {
+    "label": "HT/LT Cooler Gasket Set",
+    "level": 4,
+    "category": "Spare Part",
+    "partNo": "GIZ-AE-CW-003",
+    "makerRemarks": "Wartsila"
+   },
+   {
+    "label": "Turbocharger",
+    "level": 2,
+    "category": "Sub-System",
+    "partNo": "",
+    "makerRemarks": ""
+   },
+   {
+    "label": "Bearing & Cartridge",
+    "level": 3,
+    "category": "Component",
+    "partNo": "",
+    "makerRemarks": ""
+   },
+   {
+    "label": "Bearing Cartridge Kit",
+    "level": 4,
+    "category": "Spare Part",
+    "partNo": "GIZ-AE-TC-001",
+    "makerRemarks": "Wartsila"
+   },
+   {
+    "label": "Compressor Cleaning Nozzle",
+    "level": 4,
+    "category": "Spare Part",
+    "partNo": "GIZ-AE-TC-002",
+    "makerRemarks": "Wartsila"
+   },
+   {
+    "label": "Auxiliary Boiler (Aalborg Mission OC)",
+    "level": 1,
+    "category": "Major System",
+    "partNo": "",
+    "makerRemarks": ""
+   },
+   {
+    "label": "Burner Unit",
+    "level": 2,
+    "category": "Sub-System",
+    "partNo": "",
+    "makerRemarks": ""
+   },
+   {
+    "label": "Burner Assembly",
+    "level": 3,
+    "category": "Component",
+    "partNo": "",
+    "makerRemarks": ""
+   },
+   {
+    "label": "Atomizer / Nozzle",
+    "level": 4,
+    "category": "Spare Part",
+    "partNo": "GIZ-BLR-BN-001",
+    "makerRemarks": "Aalborg Mission OC"
+   },
+   {
+    "label": "Ignition Electrode",
+    "level": 4,
+    "category": "Spare Part",
+    "partNo": "GIZ-BLR-BN-002",
+    "makerRemarks": "Aalborg Mission OC"
+   },
+   {
+    "label": "Solenoid Valve",
+    "level": 4,
+    "category": "Spare Part",
+    "partNo": "GIZ-BLR-BN-003",
+    "makerRemarks": "Aalborg Mission OC"
+   },
+   {
+    "label": "Photocell / Flame Sensor",
+    "level": 4,
+    "category": "Spare Part",
+    "partNo": "GIZ-BLR-BN-004",
+    "makerRemarks": "Aalborg Mission OC"
+   },
+   {
+    "label": "Feed Water System",
+    "level": 2,
+    "category": "Sub-System",
+    "partNo": "",
+    "makerRemarks": ""
+   },
+   {
+    "label": "Feed Pump & Fittings",
+    "level": 3,
+    "category": "Component",
+    "partNo": "",
+    "makerRemarks": ""
+   },
+   {
+    "label": "Feed Pump Mechanical Seal",
+    "level": 4,
+    "category": "Spare Part",
+    "partNo": "GIZ-BLR-FW-001",
+    "makerRemarks": "Aalborg Mission OC"
+   },
+   {
+    "label": "Feed Check Valve",
+    "level": 4,
+    "category": "Spare Part",
+    "partNo": "GIZ-BLR-FW-002",
+    "makerRemarks": "Aalborg Mission OC"
+   },
+   {
+    "label": "Water Level Gauge Glass",
+    "level": 4,
+    "category": "Spare Part",
+    "partNo": "GIZ-BLR-FW-003",
+    "makerRemarks": "Aalborg Mission OC"
+   },
+   {
+    "label": "Steering Gear (Rolls-Royce)",
+    "level": 1,
+    "category": "Major System",
+    "partNo": "",
+    "makerRemarks": ""
+   },
+   {
+    "label": "Hydraulic Power Unit",
+    "level": 2,
+    "category": "Sub-System",
+    "partNo": "",
+    "makerRemarks": ""
+   },
+   {
+    "label": "Hydraulic Pump",
+    "level": 3,
+    "category": "Component",
+    "partNo": "",
+    "makerRemarks": ""
+   },
+   {
+    "label": "Variable Displacement Pump Seal Kit",
+    "level": 4,
+    "category": "Spare Part",
+    "partNo": "GIZ-STG-HP-001",
+    "makerRemarks": "Rolls-Royce"
+   },
+   {
+    "label": "Relief Valve",
+    "level": 4,
+    "category": "Spare Part",
+    "partNo": "GIZ-STG-HP-002",
+    "makerRemarks": "Rolls-Royce"
+   },
+   {
+    "label": "Solenoid Valve",
+    "level": 4,
+    "category": "Spare Part",
+    "partNo": "GIZ-STG-HP-003",
+    "makerRemarks": "Rolls-Royce"
+   },
+   {
+    "label": "Rudder Actuator",
+    "level": 2,
+    "category": "Sub-System",
+    "partNo": "",
+    "makerRemarks": ""
+   },
+   {
+    "label": "Rotary Vane Actuator",
+    "level": 3,
+    "category": "Component",
+    "partNo": "",
+    "makerRemarks": ""
+   },
+   {
+    "label": "Vane Seal Kit",
+    "level": 4,
+    "category": "Spare Part",
+    "partNo": "GIZ-STG-RV-001",
+    "makerRemarks": "Rolls-Royce"
+   },
+   {
+    "label": "O-ring Set",
+    "level": 4,
+    "category": "Spare Part",
+    "partNo": "GIZ-STG-RV-002",
+    "makerRemarks": "Rolls-Royce"
+   },
+   {
+    "label": "Deck Machinery (MacGregor)",
+    "level": 1,
+    "category": "Major System",
+    "partNo": "",
+    "makerRemarks": ""
+   },
+   {
+    "label": "Windlass / Mooring Winch",
+    "level": 2,
+    "category": "Sub-System",
+    "partNo": "",
+    "makerRemarks": ""
+   },
+   {
+    "label": "Winch Drive",
+    "level": 3,
+    "category": "Component",
+    "partNo": "",
+    "makerRemarks": ""
+   },
+   {
+    "label": "Hydraulic Motor",
+    "level": 4,
+    "category": "Spare Part",
+    "partNo": "GIZ-DM-WM-001",
+    "makerRemarks": "MacGregor"
+   },
+   {
+    "label": "Brake Band Lining",
+    "level": 4,
+    "category": "Spare Part",
+    "partNo": "GIZ-DM-WM-002",
+    "makerRemarks": "MacGregor"
+   },
+   {
+    "label": "Gear Oil Seal Set",
+    "level": 4,
+    "category": "Spare Part",
+    "partNo": "GIZ-DM-WM-003",
+    "makerRemarks": "MacGregor"
+   },
+   {
+    "label": "Anchor & Chain",
+    "level": 2,
+    "category": "Sub-System",
+    "partNo": "",
+    "makerRemarks": ""
+   },
+   {
+    "label": "Chain Fittings",
+    "level": 3,
+    "category": "Component",
+    "partNo": "",
+    "makerRemarks": ""
+   },
+   {
+    "label": "Kenter Shackle",
+    "level": 4,
+    "category": "Spare Part",
+    "partNo": "GIZ-DM-AC-001",
+    "makerRemarks": "MacGregor"
+   },
+   {
+    "label": "Swivel Piece",
+    "level": 4,
+    "category": "Spare Part",
+    "partNo": "GIZ-DM-AC-002",
+    "makerRemarks": "MacGregor"
+   },
+   {
+    "label": "Fresh Water Generator (Alfa Laval)",
+    "level": 1,
+    "category": "Major System",
+    "partNo": "",
+    "makerRemarks": ""
+   },
+   {
+    "label": "Evaporator",
+    "level": 2,
+    "category": "Sub-System",
+    "partNo": "",
+    "makerRemarks": ""
+   },
+   {
+    "label": "Plate Pack",
+    "level": 3,
+    "category": "Component",
+    "partNo": "",
+    "makerRemarks": ""
+   },
+   {
+    "label": "Titanium Plate Set",
+    "level": 4,
+    "category": "Spare Part",
+    "partNo": "GIZ-FWG-EV-001",
+    "makerRemarks": "Alfa Laval"
+   },
+   {
+    "label": "Plate Gasket Set",
+    "level": 4,
+    "category": "Spare Part",
+    "partNo": "GIZ-FWG-EV-002",
+    "makerRemarks": "Alfa Laval"
+   },
+   {
+    "label": "Ejector / Vacuum System",
+    "level": 2,
+    "category": "Sub-System",
+    "partNo": "",
+    "makerRemarks": ""
+   },
+   {
+    "label": "Ejector Pump",
+    "level": 3,
+    "category": "Component",
+    "partNo": "",
+    "makerRemarks": ""
+   },
+   {
+    "label": "Mechanical Seal",
+    "level": 4,
+    "category": "Spare Part",
+    "partNo": "GIZ-FWG-EJ-001",
+    "makerRemarks": "Alfa Laval"
+   },
+   {
+    "label": "Impeller",
+    "level": 4,
+    "category": "Spare Part",
+    "partNo": "GIZ-FWG-EJ-002",
+    "makerRemarks": "Alfa Laval"
+   },
+   {
+    "label": "Air Compressor - Main & Service (Sperre)",
+    "level": 1,
+    "category": "Major System",
+    "partNo": "",
+    "makerRemarks": ""
+   },
+   {
+    "label": "Compressor Unit",
+    "level": 2,
+    "category": "Sub-System",
+    "partNo": "",
+    "makerRemarks": ""
+   },
+   {
+    "label": "Cylinder Assembly",
+    "level": 3,
+    "category": "Component",
+    "partNo": "",
+    "makerRemarks": ""
+   },
+   {
+    "label": "Piston Ring Set",
+    "level": 4,
+    "category": "Spare Part",
+    "partNo": "GIZ-AC-CU-001",
+    "makerRemarks": "Sperre"
+   },
+   {
+    "label": "Valve Plate Set",
+    "level": 4,
+    "category": "Spare Part",
+    "partNo": "GIZ-AC-CU-002",
+    "makerRemarks": "Sperre"
+   },
+   {
+    "label": "Air Filter Element",
+    "level": 4,
+    "category": "Spare Part",
+    "partNo": "GIZ-AC-CU-003",
+    "makerRemarks": "Sperre"
+   },
+   {
+    "label": "FO & LO Purifiers (Alfa Laval)",
+    "level": 1,
+    "category": "Major System",
+    "partNo": "",
+    "makerRemarks": ""
+   },
+   {
+    "label": "Bowl Assembly",
+    "level": 2,
+    "category": "Sub-System",
+    "partNo": "",
+    "makerRemarks": ""
+   },
+   {
+    "label": "Separator Bowl",
+    "level": 3,
+    "category": "Component",
+    "partNo": "",
+    "makerRemarks": ""
+   },
+   {
+    "label": "Gravity Disc Set",
+    "level": 4,
+    "category": "Spare Part",
+    "partNo": "GIZ-PUR-BW-001",
+    "makerRemarks": "Alfa Laval"
+   },
+   {
+    "label": "O-ring / Gasket Kit",
+    "level": 4,
+    "category": "Spare Part",
+    "partNo": "GIZ-PUR-BW-002",
+    "makerRemarks": "Alfa Laval"
+   },
+   {
+    "label": "Sliding Bowl Bottom Seal Ring",
+    "level": 4,
+    "category": "Spare Part",
+    "partNo": "GIZ-PUR-BW-003",
+    "makerRemarks": "Alfa Laval"
+   },
+   {
+    "label": "Ballast / Bilge / GS Pumps (Framo)",
+    "level": 1,
+    "category": "Major System",
+    "partNo": "",
+    "makerRemarks": ""
+   },
+   {
+    "label": "Centrifugal Pumps",
+    "level": 2,
+    "category": "Sub-System",
+    "partNo": "",
+    "makerRemarks": ""
+   },
+   {
+    "label": "Pump Assembly",
+    "level": 3,
+    "category": "Component",
+    "partNo": "",
+    "makerRemarks": ""
+   },
+   {
+    "label": "Mechanical Seal",
+    "level": 4,
+    "category": "Spare Part",
+    "partNo": "GIZ-PMP-CP-001",
+    "makerRemarks": "Framo"
+   },
+   {
+    "label": "Impeller",
+    "level": 4,
+    "category": "Spare Part",
+    "partNo": "GIZ-PMP-CP-002",
+    "makerRemarks": "Framo"
+   },
+   {
+    "label": "Wear Ring",
+    "level": 4,
+    "category": "Spare Part",
+    "partNo": "GIZ-PMP-CP-003",
+    "makerRemarks": "Framo"
+   },
+   {
+    "label": "Fire Fighting System (Skum)",
+    "level": 1,
+    "category": "Major System",
+    "partNo": "",
+    "makerRemarks": ""
+   },
+   {
+    "label": "Fire Pump",
+    "level": 2,
+    "category": "Sub-System",
+    "partNo": "",
+    "makerRemarks": ""
+   },
+   {
+    "label": "Pump Assembly",
+    "level": 3,
+    "category": "Component",
+    "partNo": "",
+    "makerRemarks": ""
+   },
+   {
+    "label": "Mechanical Seal",
+    "level": 4,
+    "category": "Spare Part",
+    "partNo": "GIZ-FF-FP-001",
+    "makerRemarks": "Skum"
+   },
+   {
+    "label": "Impeller",
+    "level": 4,
+    "category": "Spare Part",
+    "partNo": "GIZ-FF-FP-002",
+    "makerRemarks": "Skum"
+   },
+   {
+    "label": "CO2 / Foam System",
+    "level": 2,
+    "category": "Sub-System",
+    "partNo": "",
+    "makerRemarks": ""
+   },
+   {
+    "label": "Release & Nozzles",
+    "level": 3,
+    "category": "Component",
+    "partNo": "",
+    "makerRemarks": ""
+   },
+   {
+    "label": "Cylinder Release Valve",
+    "level": 4,
+    "category": "Spare Part",
+    "partNo": "GIZ-FF-CO2-001",
+    "makerRemarks": "Skum"
+   },
+   {
+    "label": "Discharge Nozzle",
+    "level": 4,
+    "category": "Spare Part",
+    "partNo": "GIZ-FF-CO2-002",
+    "makerRemarks": "Skum"
+   },
+   {
+    "label": "Inert Gas Generator - IGG (Kwant Controls)",
+    "level": 1,
+    "category": "Major System",
+    "partNo": "",
+    "makerRemarks": ""
+   },
+   {
+    "label": "Fuel System",
+    "level": 2,
+    "category": "Sub-System",
+    "partNo": "",
+    "makerRemarks": ""
+   },
+   {
+    "label": "Injector",
+    "level": 3,
+    "category": "Component",
+    "partNo": "",
+    "makerRemarks": ""
+   },
+   {
+    "label": "Injector Nozzle",
+    "level": 4,
+    "category": "Spare Part",
+    "partNo": "GIZ-IGG-FS-001",
+    "makerRemarks": "Kwant"
+   },
+   {
+    "label": "Nozzle Holder",
+    "level": 4,
+    "category": "Spare Part",
+    "partNo": "GIZ-IGG-FS-002",
+    "makerRemarks": "Kwant"
+   },
+   {
+    "label": "O-ring Set",
+    "level": 4,
+    "category": "Spare Part",
+    "partNo": "GIZ-IGG-FS-003",
+    "makerRemarks": "Kwant"
+   },
+   {
+    "label": "Fuel Pump",
+    "level": 3,
+    "category": "Component",
+    "partNo": "",
+    "makerRemarks": ""
+   },
+   {
+    "label": "Plunger",
+    "level": 4,
+    "category": "Spare Part",
+    "partNo": "GIZ-IGG-FP-001",
+    "makerRemarks": "Kwant"
+   },
+   {
+    "label": "Delivery Valve",
+    "level": 4,
+    "category": "Spare Part",
+    "partNo": "GIZ-IGG-FP-002",
+    "makerRemarks": "Kwant"
+   },
+   {
+    "label": "Combustion Chamber",
+    "level": 2,
+    "category": "Sub-System",
+    "partNo": "",
+    "makerRemarks": ""
+   },
+   {
+    "label": "Burner Assembly",
+    "level": 3,
+    "category": "Component",
+    "partNo": "",
+    "makerRemarks": ""
+   },
+   {
+    "label": "Burner Nozzle",
+    "level": 4,
+    "category": "Spare Part",
+    "partNo": "GIZ-IGG-CC-001",
+    "makerRemarks": "Kwant"
+   },
+   {
+    "label": "Igniter Electrode",
+    "level": 4,
+    "category": "Spare Part",
+    "partNo": "GIZ-IGG-CC-002",
+    "makerRemarks": "Kwant"
+   },
+   {
+    "label": "Scrubber Tower",
+    "level": 2,
+    "category": "Sub-System",
+    "partNo": "",
+    "makerRemarks": ""
+   },
+   {
+    "label": "Scrubber Assembly",
+    "level": 3,
+    "category": "Component",
+    "partNo": "",
+    "makerRemarks": ""
+   },
+   {
+    "label": "Scrubber Spray Nozzle",
+    "level": 4,
+    "category": "Spare Part",
+    "partNo": "GIZ-IGG-SC-001",
+    "makerRemarks": "Kwant"
+   },
+   {
+    "label": "Demister Pad",
+    "level": 4,
+    "category": "Spare Part",
+    "partNo": "GIZ-IGG-SC-002",
+    "makerRemarks": "Kwant"
+   },
+   {
+    "label": "Cargo Containment / Reliquefaction Plant (TGE Marine)",
+    "level": 1,
+    "category": "Major System",
+    "partNo": "",
+    "makerRemarks": ""
+   },
+   {
+    "label": "Compressor",
+    "level": 2,
+    "category": "Sub-System",
+    "partNo": "",
+    "makerRemarks": ""
+   },
+   {
+    "label": "Reciprocating Compressor",
+    "level": 3,
+    "category": "Component",
+    "partNo": "",
+    "makerRemarks": ""
+   },
+   {
+    "label": "Valve Plate Set",
+    "level": 4,
+    "category": "Spare Part",
+    "partNo": "GIZ-RLQ-CP-001",
+    "makerRemarks": "TGE Marine"
+   },
+   {
+    "label": "Piston Ring Set",
+    "level": 4,
+    "category": "Spare Part",
+    "partNo": "GIZ-RLQ-CP-002",
+    "makerRemarks": "TGE Marine"
+   },
+   {
+    "label": "Condenser",
+    "level": 2,
+    "category": "Sub-System",
+    "partNo": "",
+    "makerRemarks": ""
+   },
+   {
+    "label": "Plate Condenser",
+    "level": 3,
+    "category": "Component",
+    "partNo": "",
+    "makerRemarks": ""
+   },
+   {
+    "label": "Plate Gasket Set",
+    "level": 4,
+    "category": "Spare Part",
+    "partNo": "GIZ-RLQ-CD-001",
+    "makerRemarks": "TGE Marine"
+   },
+   {
+    "label": "Fuel Gas Supply System (Dual Fuel - ME-GI)",
+    "level": 1,
+    "category": "Major System",
+    "partNo": "",
+    "makerRemarks": ""
+   },
+   {
+    "label": "Gas Valve Unit",
+    "level": 2,
+    "category": "Sub-System",
+    "partNo": "",
+    "makerRemarks": ""
+   },
+   {
+    "label": "GVU Assembly",
+    "level": 3,
+    "category": "Component",
+    "partNo": "",
+    "makerRemarks": ""
+   },
+   {
+    "label": "Gas Solenoid Valve",
+    "level": 4,
+    "category": "Spare Part",
+    "partNo": "GIZ-FGS-GV-001",
+    "makerRemarks": "MAN ES"
+   },
+   {
+    "label": "Pressure Sensor",
+    "level": 4,
+    "category": "Spare Part",
+    "partNo": "GIZ-FGS-GV-002",
+    "makerRemarks": "MAN ES"
+   },
+   {
+    "label": "Vaporizer",
+    "level": 2,
+    "category": "Sub-System",
+    "partNo": "",
+    "makerRemarks": ""
+   },
+   {
+    "label": "Heater Unit",
+    "level": 3,
+    "category": "Component",
+    "partNo": "",
+    "makerRemarks": ""
+   },
+   {
+    "label": "Heating Element",
+    "level": 4,
+    "category": "Spare Part",
+    "partNo": "GIZ-FGS-VP-001",
+    "makerRemarks": "TGE Marine"
+   },
+   {
+    "label": "Vaporizer Gasket Set",
+    "level": 4,
+    "category": "Spare Part",
+    "partNo": "GIZ-FGS-VP-002",
+    "makerRemarks": "TGE Marine"
+   },
+   {
+    "label": "Nitrogen Generator",
+    "level": 1,
+    "category": "Major System",
+    "partNo": "",
+    "makerRemarks": ""
+   },
+   {
+    "label": "Membrane Unit",
+    "level": 2,
+    "category": "Sub-System",
+    "partNo": "",
+    "makerRemarks": ""
+   },
+   {
+    "label": "Membrane Skid",
+    "level": 3,
+    "category": "Component",
+    "partNo": "",
+    "makerRemarks": ""
+   },
+   {
+    "label": "Membrane Cartridge",
+    "level": 4,
+    "category": "Spare Part",
+    "partNo": "GIZ-N2-MB-001",
+    "makerRemarks": "Nitrogen Gen. Ind."
+   },
+   {
+    "label": "Pre-Filter Element",
+    "level": 4,
+    "category": "Spare Part",
+    "partNo": "GIZ-N2-MB-002",
+    "makerRemarks": "Nitrogen Gen. Ind."
+   },
+   {
+    "label": "Stores & Consumables",
+    "level": 1,
+    "category": "Major System",
+    "partNo": "",
+    "makerRemarks": ""
+   },
+   {
+    "label": "Lubricating Oils",
+    "level": 2,
+    "category": "Sub-System",
+    "partNo": "",
+    "makerRemarks": ""
+   },
+   {
+    "label": "System Oil (Main / Aux Engine Sump)",
+    "level": 3,
+    "category": "Component",
+    "partNo": "",
+    "makerRemarks": ""
+   },
+   {
+    "label": "System Oil SAE 30 (TBN 5-10) - 209L Drum",
+    "level": 4,
+    "category": "Consumable / Store Item",
+    "partNo": "GIZ-STR-LO-001",
+    "makerRemarks": "Shell/Castrol"
+   },
+   {
+    "label": "Aux Engine Sump Oil SAE 40 - 209L Drum",
+    "level": 4,
+    "category": "Consumable / Store Item",
+    "partNo": "GIZ-STR-LO-002",
+    "makerRemarks": "Shell/Castrol"
+   },
+   {
+    "label": "Used Oil Sample Kit / Bottles",
+    "level": 4,
+    "category": "Consumable / Store Item",
+    "partNo": "GIZ-STR-LO-003",
+    "makerRemarks": "Shell/Castrol"
+   },
+   {
+    "label": "Cylinder Oil (Main Engine)",
+    "level": 3,
+    "category": "Component",
+    "partNo": "",
+    "makerRemarks": ""
+   },
+   {
+    "label": "Cylinder Oil 70 BN - 209L Drum",
+    "level": 4,
+    "category": "Consumable / Store Item",
+    "partNo": "GIZ-STR-LO-004",
+    "makerRemarks": "Shell/Castrol"
+   },
+   {
+    "label": "Cylinder Oil 100 BN - 209L Drum",
+    "level": 4,
+    "category": "Consumable / Store Item",
+    "partNo": "GIZ-STR-LO-005",
+    "makerRemarks": "Shell/Castrol"
+   },
+   {
+    "label": "Cylinder Oil Feed Rate Test Kit",
+    "level": 4,
+    "category": "Consumable / Store Item",
+    "partNo": "GIZ-STR-LO-006",
+    "makerRemarks": "Shell/Castrol"
+   },
+   {
+    "label": "Turbine & Hydraulic Oils",
+    "level": 3,
+    "category": "Component",
+    "partNo": "",
+    "makerRemarks": ""
+   },
+   {
+    "label": "Turbine Oil ISO VG46 - 209L Drum",
+    "level": 4,
+    "category": "Consumable / Store Item",
+    "partNo": "GIZ-STR-LO-007",
+    "makerRemarks": "Shell/Castrol"
+   },
+   {
+    "label": "Hydraulic Oil ISO VG32 - 209L Drum",
+    "level": 4,
+    "category": "Consumable / Store Item",
+    "partNo": "GIZ-STR-LO-008",
+    "makerRemarks": "Shell/Castrol"
+   },
+   {
+    "label": "Boiler & Cooling Water Chemicals",
+    "level": 2,
+    "category": "Sub-System",
+    "partNo": "",
+    "makerRemarks": ""
+   },
+   {
+    "label": "Boiler Water Treatment",
+    "level": 3,
+    "category": "Component",
+    "partNo": "",
+    "makerRemarks": ""
+   },
+   {
+    "label": "Boiler Compound (Alkalinity Control) - 25L Drum",
+    "level": 4,
+    "category": "Consumable / Store Item",
+    "partNo": "GIZ-STR-CH-001",
+    "makerRemarks": "Drew Marine"
+   },
+   {
+    "label": "Oxygen Scavenger Chemical - 25L Drum",
+    "level": 4,
+    "category": "Consumable / Store Item",
+    "partNo": "GIZ-STR-CH-002",
+    "makerRemarks": "Drew Marine"
+   },
+   {
+    "label": "Boiler Water Test Kit",
+    "level": 4,
+    "category": "Consumable / Store Item",
+    "partNo": "GIZ-STR-CH-003",
+    "makerRemarks": "Drew Marine"
+   },
+   {
+    "label": "Cooling Water Treatment (Jacket Water)",
+    "level": 3,
+    "category": "Component",
+    "partNo": "",
+    "makerRemarks": ""
+   },
+   {
+    "label": "Nitrite-Based Coolant Treatment - 25L Drum",
+    "level": 4,
+    "category": "Consumable / Store Item",
+    "partNo": "GIZ-STR-CH-004",
+    "makerRemarks": "Drew Marine"
+   },
+   {
+    "label": "Coolant Test Strips / Refractometer Kit",
+    "level": 4,
+    "category": "Consumable / Store Item",
+    "partNo": "GIZ-STR-CH-005",
+    "makerRemarks": "Drew Marine"
+   },
+   {
+    "label": "Cleaning & Purifier Chemicals",
+    "level": 2,
+    "category": "Sub-System",
+    "partNo": "",
+    "makerRemarks": ""
+   },
+   {
+    "label": "Purifier / Tank Cleaning Chemicals",
+    "level": 3,
+    "category": "Component",
+    "partNo": "",
+    "makerRemarks": ""
+   },
+   {
+    "label": "Purifier Bowl Cleaning Chemical - 25L Drum",
+    "level": 4,
+    "category": "Consumable / Store Item",
+    "partNo": "GIZ-STR-CH-006",
+    "makerRemarks": "Unitor"
+   },
+   {
+    "label": "Tank Cleaning Detergent - 25L Drum",
+    "level": 4,
+    "category": "Consumable / Store Item",
+    "partNo": "GIZ-STR-CH-007",
+    "makerRemarks": "Unitor"
+   },
+   {
+    "label": "Engine Room Degreaser - 25L Drum",
+    "level": 4,
+    "category": "Consumable / Store Item",
+    "partNo": "GIZ-STR-CH-008",
+    "makerRemarks": "Unitor"
+   },
+   {
+    "label": "Paints & Coatings",
+    "level": 2,
+    "category": "Sub-System",
+    "partNo": "",
+    "makerRemarks": ""
+   },
+   {
+    "label": "Hull & Deck Paints",
+    "level": 3,
+    "category": "Component",
+    "partNo": "",
+    "makerRemarks": ""
+   },
+   {
+    "label": "Anti-Corrosive Epoxy Paint - 20L Pail",
+    "level": 4,
+    "category": "Consumable / Store Item",
+    "partNo": "GIZ-STR-PT-001",
+    "makerRemarks": "Jotun/Hempel"
+   },
+   {
+    "label": "Anti-Fouling Paint - 20L Pail",
+    "level": 4,
+    "category": "Consumable / Store Item",
+    "partNo": "GIZ-STR-PT-002",
+    "makerRemarks": "Jotun/Hempel"
+   },
+   {
+    "label": "Deck Non-Skid Paint - 20L Pail",
+    "level": 4,
+    "category": "Consumable / Store Item",
+    "partNo": "GIZ-STR-PT-003",
+    "makerRemarks": "Jotun/Hempel"
+   },
+   {
+    "label": "Paint Thinner - 20L Drum",
+    "level": 4,
+    "category": "Consumable / Store Item",
+    "partNo": "GIZ-STR-PT-004",
+    "makerRemarks": "Jotun/Hempel"
+   },
+   {
+    "label": "Welding & Gas Stores",
+    "level": 2,
+    "category": "Sub-System",
+    "partNo": "",
+    "makerRemarks": ""
+   },
+   {
+    "label": "Welding Consumables & Gas Cylinders",
+    "level": 3,
+    "category": "Component",
+    "partNo": "",
+    "makerRemarks": ""
+   },
+   {
+    "label": "Oxygen Cylinder (Industrial)",
+    "level": 4,
+    "category": "Consumable / Store Item",
+    "partNo": "GIZ-STR-WG-001",
+    "makerRemarks": "BOC/Linde"
+   },
+   {
+    "label": "Acetylene Cylinder",
+    "level": 4,
+    "category": "Consumable / Store Item",
+    "partNo": "GIZ-STR-WG-002",
+    "makerRemarks": "BOC/Linde"
+   },
+   {
+    "label": "Welding Electrodes E6013 - Box",
+    "level": 4,
+    "category": "Consumable / Store Item",
+    "partNo": "GIZ-STR-WG-003",
+    "makerRemarks": "BOC/Linde"
+   },
+   {
+    "label": "Cutting/Grinding Disc - Box",
+    "level": 4,
+    "category": "Consumable / Store Item",
+    "partNo": "GIZ-STR-WG-004",
+    "makerRemarks": "BOC/Linde"
+   },
+   {
+    "label": "Engine Room General Stores",
+    "level": 2,
+    "category": "Sub-System",
+    "partNo": "",
+    "makerRemarks": ""
+   },
+   {
+    "label": "Gaskets, Packing & Jointing",
+    "level": 3,
+    "category": "Component",
+    "partNo": "",
+    "makerRemarks": ""
+   },
+   {
+    "label": "Jointing Sheet Roll (Klingersil-type)",
+    "level": 4,
+    "category": "Consumable / Store Item",
+    "partNo": "GIZ-STR-ER-001",
+    "makerRemarks": "Klinger"
+   },
+   {
+    "label": "Gland Packing / Rope Seal - Roll",
+    "level": 4,
+    "category": "Consumable / Store Item",
+    "partNo": "GIZ-STR-ER-002",
+    "makerRemarks": "Klinger"
+   },
+   {
+    "label": "Assorted Gasket Set (O-ring/Copper)",
+    "level": 4,
+    "category": "Consumable / Store Item",
+    "partNo": "GIZ-STR-ER-003",
+    "makerRemarks": "Klinger"
+   },
+   {
+    "label": "Tools, PPE & Cleaning Materials",
+    "level": 3,
+    "category": "Component",
+    "partNo": "",
+    "makerRemarks": ""
+   },
+   {
+    "label": "Engine Room Wiping Rags - Bale",
+    "level": 4,
+    "category": "Consumable / Store Item",
+    "partNo": "GIZ-STR-ER-004",
+    "makerRemarks": "General Stores"
+   },
+   {
+    "label": "Safety Gloves / Goggles / Ear Muffs - Set",
+    "level": 4,
+    "category": "Consumable / Store Item",
+    "partNo": "GIZ-STR-ER-005",
+    "makerRemarks": "General Stores"
+   },
+   {
+    "label": "Wire Brush / Hand Tool Consumables",
+    "level": 4,
+    "category": "Consumable / Store Item",
+    "partNo": "GIZ-STR-ER-006",
+    "makerRemarks": "General Stores"
+   },
+   {
+    "label": "Safety Stores - LSA",
+    "level": 2,
+    "category": "Sub-System",
+    "partNo": "",
+    "makerRemarks": ""
+   },
+   {
+    "label": "Life Saving Appliances",
+    "level": 3,
+    "category": "Component",
+    "partNo": "",
+    "makerRemarks": ""
+   },
+   {
+    "label": "Lifebuoy (SOLAS)",
+    "level": 4,
+    "category": "Consumable / Store Item",
+    "partNo": "GIZ-STR-LSA-001",
+    "makerRemarks": "Viking/RFD"
+   },
+   {
+    "label": "Lifejacket (SOLAS)",
+    "level": 4,
+    "category": "Consumable / Store Item",
+    "partNo": "GIZ-STR-LSA-002",
+    "makerRemarks": "Viking/RFD"
+   },
+   {
+    "label": "Immersion Suit",
+    "level": 4,
+    "category": "Consumable / Store Item",
+    "partNo": "GIZ-STR-LSA-003",
+    "makerRemarks": "Viking/RFD"
+   },
+   {
+    "label": "EPIRB Battery",
+    "level": 4,
+    "category": "Consumable / Store Item",
+    "partNo": "GIZ-STR-LSA-004",
+    "makerRemarks": "Viking/RFD"
+   },
+   {
+    "label": "Pyrotechnics - Rocket Parachute Flares (Set)",
+    "level": 4,
+    "category": "Consumable / Store Item",
+    "partNo": "GIZ-STR-LSA-005",
+    "makerRemarks": "Viking/RFD"
+   },
+   {
+    "label": "Safety Stores - FFA",
+    "level": 2,
+    "category": "Sub-System",
+    "partNo": "",
+    "makerRemarks": ""
+   },
+   {
+    "label": "Fire Fighting Appliances",
+    "level": 3,
+    "category": "Component",
+    "partNo": "",
+    "makerRemarks": ""
+   },
+   {
+    "label": "Portable CO2 Fire Extinguisher",
+    "level": 4,
+    "category": "Consumable / Store Item",
+    "partNo": "GIZ-STR-FFA-001",
+    "makerRemarks": "Kidde/Skum"
+   },
+   {
+    "label": "Portable Dry Powder Fire Extinguisher",
+    "level": 4,
+    "category": "Consumable / Store Item",
+    "partNo": "GIZ-STR-FFA-002",
+    "makerRemarks": "Kidde/Skum"
+   },
+   {
+    "label": "Foam Concentrate - 25L Drum",
+    "level": 4,
+    "category": "Consumable / Store Item",
+    "partNo": "GIZ-STR-FFA-003",
+    "makerRemarks": "Kidde/Skum"
+   },
+   {
+    "label": "SCBA Air Cylinder (Refill)",
+    "level": 4,
+    "category": "Consumable / Store Item",
+    "partNo": "GIZ-STR-FFA-004",
+    "makerRemarks": "Kidde/Skum"
+   },
+   {
+    "label": "Fireman's Outfit (Complete Set)",
+    "level": 4,
+    "category": "Consumable / Store Item",
+    "partNo": "GIZ-STR-FFA-005",
+    "makerRemarks": "Kidde/Skum"
+   },
+   {
+    "label": "Bosun / Deck Stores",
+    "level": 2,
+    "category": "Sub-System",
+    "partNo": "",
+    "makerRemarks": ""
+   },
+   {
+    "label": "Ropes, Wires & Rigging",
+    "level": 3,
+    "category": "Component",
+    "partNo": "",
+    "makerRemarks": ""
+   },
+   {
+    "label": "Mooring Rope (Polypropylene) - Coil",
+    "level": 4,
+    "category": "Consumable / Store Item",
+    "partNo": "GIZ-STR-BS-001",
+    "makerRemarks": "Bridon/Bexco"
+   },
+   {
+    "label": "Mooring Wire Rope - Reel",
+    "level": 4,
+    "category": "Consumable / Store Item",
+    "partNo": "GIZ-STR-BS-002",
+    "makerRemarks": "Bridon/Bexco"
+   },
+   {
+    "label": "D-Shackle / Bow Shackle - Set",
+    "level": 4,
+    "category": "Consumable / Store Item",
+    "partNo": "GIZ-STR-BS-003",
+    "makerRemarks": "Bridon/Bexco"
+   },
+   {
+    "label": "Paint Brushes & Rollers - Set",
+    "level": 4,
+    "category": "Consumable / Store Item",
+    "partNo": "GIZ-STR-BS-004",
+    "makerRemarks": "General Stores"
+   },
+   {
+    "label": "Stationery & General Stores",
+    "level": 2,
+    "category": "Sub-System",
+    "partNo": "",
+    "makerRemarks": ""
+   },
+   {
+    "label": "Record Books & Office Stationery",
+    "level": 3,
+    "category": "Component",
+    "partNo": "",
+    "makerRemarks": ""
+   },
+   {
+    "label": "Engine/Deck Log Book",
+    "level": 4,
+    "category": "Consumable / Store Item",
+    "partNo": "GIZ-STR-ST-001",
+    "makerRemarks": "General Stores"
+   },
+   {
+    "label": "Oil Record Book",
+    "level": 4,
+    "category": "Consumable / Store Item",
+    "partNo": "GIZ-STR-ST-002",
+    "makerRemarks": "General Stores"
+   },
+   {
+    "label": "Printer Paper / Toner / Stationery Set",
+    "level": 4,
+    "category": "Consumable / Store Item",
+    "partNo": "GIZ-STR-ST-003",
+    "makerRemarks": "General Stores"
+   },
+   {
+    "label": "Provisions & Catering Stores",
+    "level": 2,
+    "category": "Sub-System",
+    "partNo": "",
+    "makerRemarks": ""
+   },
+   {
+    "label": "Dry / Frozen Provisions & Galley Consumables",
+    "level": 3,
+    "category": "Component",
+    "partNo": "",
+    "makerRemarks": ""
+   },
+   {
+    "label": "Dry Provisions - Assorted",
+    "level": 4,
+    "category": "Consumable / Store Item",
+    "partNo": "GIZ-STR-PR-001",
+    "makerRemarks": "General Stores"
+   },
+   {
+    "label": "Frozen Provisions - Assorted",
+    "level": 4,
+    "category": "Consumable / Store Item",
+    "partNo": "GIZ-STR-PR-002",
+    "makerRemarks": "General Stores"
+   },
+   {
+    "label": "Galley Cleaning & Catering Consumables",
+    "level": 4,
+    "category": "Consumable / Store Item",
+    "partNo": "GIZ-STR-PR-003",
+    "makerRemarks": "General Stores"
+   }
+  ]
+ }
+]

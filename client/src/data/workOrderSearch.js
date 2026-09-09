@@ -1,8 +1,8 @@
-import jobCompletionHistoryRows from './jobCompletionHistory.json'
+import jobCompletionHistoryRows from '@/data/jobCompletionHistory.json'
 
 export const WORK_ORDER_SEARCH_COLUMNS = [
   { key: 'ship', label: 'Ship', width: 92 },
-  { key: 'jobNo', label: 'Job No.', width: 110 },
+  { key: 'jobNo', label: 'WO/SR No.', width: 110 },
   { key: 'jobTitle', label: 'Job Title', width: 190 },
   { key: 'majorSystem', label: 'Major System', width: 185 },
   { key: 'component', label: 'Component', width: 150 },

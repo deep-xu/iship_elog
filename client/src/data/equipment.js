@@ -609,32 +609,15 @@ function hashCode(value) {
   return hash
 }
 
-// --- persistence -----------------------------------------------------------
-
-const ADDITIONS_KEY = 'ns5-equipment-additions'
-
-export function loadEquipmentAdditions() {
-  try {
-    const raw = window.localStorage.getItem(ADDITIONS_KEY)
-    const parsed = raw ? JSON.parse(raw) : []
-    return Array.isArray(parsed) ? parsed : []
-  } catch {
-    return []
-  }
-}
-
-export function saveEquipmentAdditions(additions) {
-  try {
-    window.localStorage.setItem(ADDITIONS_KEY, JSON.stringify(additions))
-    return true
-  } catch {
-    return false
-  }
-}
-
 export function applyEquipmentAdditions(tree, additions) {
   return additions.reduce((current, addition) => {
     const result = addEquipmentNode(current, addition.parentId, addition.draft)
     return result ? result.tree : current
   }, tree)
+}
+
+// The id `addEquipmentNode` would give a child of `parentId` — exported so the
+// persistence layer can send the same id to the API that the tree uses.
+export function equipmentNodeId(parentId, label) {
+  return `${parentId}-${slugify(label)}`
 }

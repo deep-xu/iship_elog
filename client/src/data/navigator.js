@@ -6,58 +6,31 @@ export const MAINTENANCE_TREE = [
   { label: 'Maintenance Plan' },
   { label: 'Service Explorer' },
   {
+    label: 'Work Management',
+    children: [
+      { label: 'Simple Task', windowKey: 'simple-task' },
+      { label: 'Work Order', windowKey: 'wo' },
+      { label: 'Standard Job', windowKey: 'standard-job-query' },
+      { label: 'Running Hours', windowKey: 'record-elapsed-running-hours' },
+    ],
+  },
+  {
     label: 'Certificates',
     children: [
       { label: 'Vessel Certificate', windowKey: 'vessel-certificate-dashboard' },
       { label: 'Survey Certificate' },
     ],
   },
-  {
-    label: 'Jobs',
-    children: [
-      { label: 'Simple Task', windowKey: 'simple-task' },
-      { label: 'Work Order', windowKey: 'wo' },
-      { label: 'Maintenance Events', windowKey: 'event-lists' },
-      { label: 'Serialized Item Query', windowKey: 'serialized-item-query' },
-      { label: 'Standard Job', windowKey: 'standard-job-query' },
-      { label: 'Technical Defect', windowKey: 'technical-defect-list' },
-      { label: 'Update Serial No.', windowKey: 'update-serial-no' },
-    ],
-  },
-  {
-    label: 'Tools',
-    children: [
-      { label: 'Recalculate Maintenance Schedule' },
-      { label: 'Running Hours' },
-    ],
-  },
 ]
 
 export const PURCHASING_TREE = [
+  { label: 'Requisition', windowKey: 'requisition-search' },
+  { label: 'Request For Quotation', windowKey: 'rfq-search' },
+  { label: 'Purchase Order', windowKey: 'purchase-order-search' },
+  { label: 'Goods Receipt', windowKey: 'goods-receipt' },
+  { label: 'Landing/Transfer Order', windowKey: 'transfer-order-search' },
   { label: 'Spares Storage Locations' },
-  {
-    label: 'Documents',
-    children: [
-      { label: 'Reconciliation', windowKey: 'reconciliation' },
-      { label: 'Requisition', windowKey: 'requisition' },
-      { label: 'Transfer Order', windowKey: 'to' },
-      { label: 'Work Order', windowKey: 'wo' },
-      { label: 'Order', windowKey: 'order-search' },
-      { label: 'Project', windowKey: 'project-search' },
-      { label: 'Purchase Order', windowKey: 'purchase-order-search' },
-      { label: 'Reconciliation', windowKey: 'reconciliation-search' },
-      { label: 'Request For Quotation', windowKey: 'rfq-search' },
-      { label: 'Requisition', windowKey: 'requisition-search' },
-      { label: 'Serialized Item Query', windowKey: 'serialized-item-query' },
-      { label: 'Transfer Order', windowKey: 'transfer-order-search' },
-      { label: 'Update Serial No.', windowKey: 'update-serial-no' },
-      { label: 'Work Order', windowKey: 'work-order-search' },
-    ],
-  },
-  {
-    label: 'Tools',
-    children: [{ label: 'Hide/Merge/Move Storage Locations' }],
-  },
+  { label: 'Inventory', windowKey: 'reconciliation-inventory' },
 ]
 
 export const INVENTORY_TREE = [
@@ -70,7 +43,7 @@ export const INVENTORY_TREE = [
       { label: 'Create REQ from Wizard', windowKey: 'create-req-from-wizard' },
       { label: 'Reconciliation', windowKey: 'reconciliation' },
       { label: 'Requisition', windowKey: 'requisition' },
-      { label: 'Transfer Order', windowKey: 'to' },
+      { label: 'Landing/Transfer Order', windowKey: 'to' },
       { label: 'Purchase Order', windowKey: 'purchase-order-search' },
       { label: 'Reconciliation', windowKey: 'reconciliation-search' },
       { label: 'Request For Quotation', windowKey: 'rfq-search' },
@@ -416,23 +389,12 @@ export const HSQE_SECTIONS = [
       { label: 'Import', children: [] },
     ],
   },
-  { key: 'windows', label: 'Windows', variant: 'maroon', icon: 'windows' },
 ]
 
 export const SECTIONS = [
-  {
-    key: 'favorites',
-    label: 'Favorites',
-    variant: 'maroon',
-    icon: 'star',
-    tree: [],
-    emptyMessage: 'Right-click on any menu item below for adding to Favorites...',
-  },
   { key: 'maintenance', label: 'Maintenance', variant: 'gray', icon: 'clipboard', tree: MAINTENANCE_TREE },
-  { key: 'purchasing', label: 'Purchasing', variant: 'gray', icon: 'cart', tree: PURCHASING_TREE },
-  { key: 'inventory', label: 'Inventory', variant: 'gray', icon: 'grid', tree: INVENTORY_TREE },
+  { key: 'purchasing', label: 'Purchasing & Inventory Management', variant: 'gray', icon: 'cart', tree: PURCHASING_TREE },
   { key: 'reports', label: 'Reports', variant: 'gray', icon: 'report', tree: REPORTS_TREE },
   { key: 'miscellaneous', label: 'Miscellaneous', variant: 'gray', icon: 'briefcase', tree: MISCELLANEOUS_TREE },
   { key: 'tools', label: 'Tools', variant: 'gray', icon: 'toolbox', tree: TOOLS_TREE },
-  { key: 'windows', label: 'Windows', variant: 'maroon', icon: 'windows' },
 ]

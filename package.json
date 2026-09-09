@@ -1,0 +1,19 @@
+{
+  "name": "ns5",
+  "version": "1.0.0",
+  "private": true,
+  "description": "NS5 marine operations console — React client and Express/MySQL API",
+  "scripts": {
+    "dev": "concurrently --names \"api,web\" --prefix-colors \"cyan,magenta\" --kill-others-on-fail \"npm:dev:server\" \"npm:dev:client\"",
+    "dev:server": "npm run dev --prefix server",
+    "dev:client": "npm run dev --prefix client",
+    "build": "npm run build --prefix client",
+    "start": "npm run start --prefix server",
+    "migrate": "npm run migrate --prefix server",
+    "seed": "npm run seed --prefix server",
+    "setup": "npm install && npm install --prefix server && npm install --prefix client && npm run seed"
+  },
+  "devDependencies": {
+    "concurrently": "^9.1.2"
+  }
+}

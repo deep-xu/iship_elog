@@ -1,17 +1,26 @@
-import standardJobRows from './standardJobRows.json'
+import standardJobRows from '@/data/standardJobRows.json'
 
-// Columns mirror the "standard data.xlsx" sheet headers.
+// Columns mirror the "MV Genco_PMS.xlsx" sheet headers.
 export const STANDARD_JOB_COLUMNS = [
-  { key: 'ship', label: 'Ship', width: 110 },
+  { key: 'ship', label: 'Ship', width: 100 },
   { key: 'jobNo', label: 'Job No.', width: 120 },
-  { key: 'jobTitle', label: 'Job Title', width: 260 },
-  { key: 'majorSystem', label: 'Major System', width: 240 },
-  { key: 'component', label: 'Component', width: 190 },
-  { key: 'completionDate', label: 'Completion Date', width: 130 },
-  { key: 'readingAtCompletion', label: 'Reading at Completion', width: 150 },
+  { key: 'majorSystem', label: 'Major System', width: 260 },
+  { key: 'subSystem', label: 'Sub-System', width: 190 },
+  { key: 'component', label: 'Component', width: 200 },
+  { key: 'jobTitle', label: 'Job Title', width: 300 },
+  { key: 'basis', label: 'Basis', width: 120 },
+  { key: 'interval', label: 'Interval', width: 110 },
+  { key: 'lastDone', label: 'Last Done', width: 120 },
+  { key: 'nextDue', label: 'Next Due', width: 120 },
+  { key: 'status', label: 'Status', width: 100 },
+  { key: 'critical', label: 'Critical', width: 80 },
+  { key: 'classRelated', label: 'Class Related', width: 110 },
   { key: 'department', label: 'Department', width: 150 },
-  { key: 'performedBy', label: 'Performed By', width: 130 },
-  { key: 'remarks', label: 'Remarks', width: 280 },
+  { key: 'responsible', label: 'Responsible', width: 130 },
+  { key: 'linkedPartNo', label: 'Linked Part No.', width: 150 },
+  { key: 'stockQty', label: 'Stock Qty', width: 100 },
+  { key: 'stockStatus', label: 'Stock Status', width: 120 },
+  { key: 'remarks', label: 'Remarks', width: 320 },
 ]
 
 export const STANDARD_JOB_ROWS = standardJobRows
